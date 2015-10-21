@@ -3,7 +3,8 @@ layout: post
 title: Hoe gebruik je Evernote om te schrijven?
 ---
 **November is online traditioneel de NaNoWriMo maand: National Novel Writing Month. Hoe kun je Evernote gebruiken om je beste werk te maken in deze maand? Ik geef je een aantal tips**
-<!--more-->
+
+##Wat is NaNoWriMo?
 De NaNoWriMo is een jaarlijkse wereldwijde belofte van aspirant-schrijvers om binnen 30 dagen een verhaal te schrijven van 50.000 woorden. Er doen wereldwijd honderdduizenden mensen aan mee en in Nederland wint het eveneens aan populariteit. Zo is op Twitter [NaNo Nederland](https://twitter.com/NaNoTeamNL) al actief met het geven van tips en enthousiasmeren van schrijvers. 
 Persoonlijk heb ik nog nooit meegedaan aan NaNoWriMo om meerdere redenen. Komend jaar zal ik wederom niet meedoen omdat ik al weet hoe mijn maand er privé en zakelijk uit ziet en ik heb besloten om een ander project af te ronden. Het is eveneens een schrijfproject, maar het heeft zeker minder dan 50.000 woorden.
 Desondanks wil ik jullie wel tips geven hoe je Evernote kunt gebruiken als handlanger om je doelen te halen. Je kunt Evernote gebruiken als opslag voor je research, als planningsinstrument of als je canvas om je verhaal te schrijven. 
