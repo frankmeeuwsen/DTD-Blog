@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Hello World again then.
+title: Why is this not working properly
+published: true
 ---
 
+
+
+
+![triggi_21.gif]({{site.baseurl}}/_posts/triggi_21.gif)
 
 A First Level Header
 ====================
