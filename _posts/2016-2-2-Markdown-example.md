@@ -7,8 +7,6 @@ published: true
 
 
 
-![triggi_21.gif]({{site.baseurl}}/_posts/triggi_21.gif)
-
 A First Level Header
 ====================
 
