@@ -5,19 +5,19 @@ tags : [dyslexia, typoglycemia, Javascript]
 title: Dsxyliea
 ---
 
-A friend who has dyslexia described to me how she experiences reading. She *can* read, but it takes a lot of concentration, and the letters seems to "jump around".
+Ik kwam [deze site](http://geon.github.io/programming/2016/03/03/dsxyliea) tegen waar haarfijn wordt uitgelegd hoe dyslexie werkt. Via Twitter kwam de vraag om een Nederlandse tekst. Bij deze de vertaling van de originele site.
 
-I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
+Een dyslectische vriend beschreef me eens hoe zij het lezen van een tekst ervaart. Ze *kan* wel lezen, maar het kost veel concentratie en de letters lijken rond te springen.
 
-Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github.
+Ik bedacht me of het mogelijk zou zijn dat gevoel in Javascript na te bootsen voor een website. Ja dus.
 
-> Dyslexia is characterized by difficulty with learning to read fluently and with accurate comprehension despite normal intelligence. This includes difficulty with phonological awareness, phonological decoding, processing speed, orthographic coding, auditory short-term memory, language skills/verbal comprehension, and/or rapid naming.
+Wil je je eigen versie maken? Maak dan op Github een [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) van het origineel.
 
-> Developmental reading disorder (DRD) is the most common learning disability. Dyslexia is the most recognized of reading disorders, however not all reading disorders are linked to dyslexia.
+> Dyslexie (uit het Grieks dys- ("beperkt") en lexis ("woord"), dus beperkt lezen; ook wel (onterecht) als woordblindheid aangeduid) is een term die in de wetenschap gebruikt wordt voor ernstige problemen met het kunnen lezen van woorden.
 
-> Some see dyslexia as distinct from reading difficulties resulting from other causes, such as a non-neurological deficiency with vision or hearing, or poor or inadequate reading instruction. There are three proposed cognitive subtypes of dyslexia (auditory, visual and attentional), although individual cases of dyslexia are better explained by specific underlying neuropsychological deficits and co-occurring learning disabilities (e.g. attention-deficit/hyperactivity disorder, math disability, etc.). Although it is considered to be a receptive language-based learning disability in the research literature, dyslexia also affects one's expressive language skills. Researchers at MIT found that people with dyslexia exhibited impaired voice-recognition abilities.
+> Onderzoek vanuit de neuropsychologie heeft aangetoond dat er verschillende vormen van dyslexie bestaan. Deze hangen samen met specifieke problemen die men kan ondervinden bij het lezen van woorden. Dyslexie kan optreden bij kinderen als ontwikkelingsstoornis, of als gevolg van hersenbeschadiging. Kinderen die het predicaat 'dyslexie' krijgen, blijken een heterogene groep te vormen. Er kunnen problemen zijn in het herkennen van het visuele woordbeeld, of problemen in de sfeer van begrijpen van taal en klanken. De meeste dyslectische kinderen (85%) blijken daarbij niet zozeer moeite te hebben met het herkennen van het visuele woordbeeld, maar met het verbinden van een letter met een klank.
 
-*Source: [Wikipedia](http://en.wikipedia.org/wiki/Dyslexia)*
+*Bron: [Wikipedia](https://nl.wikipedia.org/wiki/Dyslexie)*
 
 
 
