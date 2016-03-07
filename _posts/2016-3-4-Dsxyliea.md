@@ -21,6 +21,7 @@ Ik bedacht me of het mogelijk zou zijn dat gevoel in Javascript na te bootsen vo
 
 Wil je je eigen versie maken? Maak dan op Github een [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) van het origineel.
 
+Disclaimer: Deze site en dit voorbeeld is geen wetenschappelijke uitleg over dyslexie. Ik claim niet een expert op het gebied te zijn. Het is een oefening in code en om enigszins een idee te geven hoe dyslexie werkt. Wil je meer weten, check dan officiële en wetenschappelijke kanalen. 
 
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
