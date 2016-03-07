@@ -5,9 +5,8 @@ $(function(){
 	        return this.nodeType == 3;
 	    });
 	};
-
-	//var textNodes = getTextNodesIn($("div"));
-	var textNodes = getTextNodesIn($("*"));
+	var textNodes = getTextNodesIn($("blockquote"));
+//var textNodes = getTextNodesIn($("*"));
 
 
 
