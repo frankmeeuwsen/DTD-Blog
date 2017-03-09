@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Gepubliceerd op  {{ page.date | date: "%B %e, %Y" }}/{{ page.content | number_of_words }} woorden
   </div>
 
   {% include disqus.html %}

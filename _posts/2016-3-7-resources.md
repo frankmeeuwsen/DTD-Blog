@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meer van mij.
+excerpt: Wie ben ik en wat doe ik zoal?
 ---
 
 Vorige week schreef ik een korte blogpost over dyslexie. Specifieker, ik maakte een kopie van deze engelstalige pagina en vertaalde hem in het Nederlands. Dat zorgde voor nogal wat aandacht op dit kleine hoekje van het internet. Want laten we eerlijk zijn, dit is niet de site waar ik veel en vaak schrijf. Het is meer een zandbak, een probeer-hoekje waar ik zo nu en dan eens iets op test. Dus je zult hier verder niet veel aantreffen anders dan een paar test-posts. Maar wil je meer weten over mij en wat ik schrijf, check dan de volgende sites:
