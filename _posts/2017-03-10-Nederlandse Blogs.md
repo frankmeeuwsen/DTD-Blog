@@ -28,8 +28,8 @@ Hoe gaan we dit organiseren? Nou euh....pfff ja...euhm...even denken...Een wiki!
 
 Zal ik alvast even aftrappen met wat tips die al via Twitter binnenkwamen?
 
-[Eamelje.net](http://eamelje.net/) - Al twaalf en een half jaar bezig!
-[Met Gitaren enzo](http://metgitarenenzo.nl/) - Joh! Een muziekblog.
-[Sargasso](http://sargasso.nl) - Is het nog een blog? Eentje uit de beginjaren...
+* [Eamelje.net](http://eamelje.net/) - Al twaalf en een half jaar bezig!
+* [Met Gitaren enzo](http://metgitarenenzo.nl/) - Joh! Een muziekblog.
+* [Sargasso](http://sargasso.nl) - Is het nog een blog? Eentje uit de beginjaren...
 
 Vult u maar aan. Ik zal wel niet goed rondkijken. Ik heb u nodig. Alvast bedankt. 
