@@ -2,7 +2,7 @@
 layout: post
 title: Wat is Jekyll en waarom?
 excerpt: Weer iets nieuws qua blogsoftware, maar waarom dan?
-published:false
+publish:false
 ---
 
 Waarom geen wordpress meer?
