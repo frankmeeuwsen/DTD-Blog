@@ -5,9 +5,12 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+        <span class="post-meta">
+    			<header class="post-header">
+        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%B %e, %Y" }}</time>
+                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        	</header>
+    		</span>
       <div class="entry">
         {{ post.excerpt }}
       </div>

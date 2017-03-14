@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  margin-top: 0.1em;
   a {
     color: inherit;
   }
@@ -287,3 +288,10 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.post-meta {
+	display: inline-block;
+	font-size: 1rem;
+	line-height: 1.3;
+	color: #9EABB3;
+}
