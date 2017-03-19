@@ -28,7 +28,7 @@ footer-links:
   facebook:
   flickr:
   github: frankmeeuwsen
-  instagram: frankmeeuwsen
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
@@ -73,7 +73,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  
+
 # Exclude these files from your production _site
 exclude:
     - Gemfile
