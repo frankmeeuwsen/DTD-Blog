@@ -2,7 +2,7 @@
 layout: post
 title: De hel van wachtwoorden en authenticatie. Of iets met privacy
 excerpt: Waarom wachtwoorden echt anders moeten. 
-published:false
+published: false
 ---
 
 Reply all
