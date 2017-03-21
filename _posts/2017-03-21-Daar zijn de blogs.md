@@ -8,7 +8,7 @@ excerpt: Ik moest echt even wat verder zoeken
 
 Sorry mensen.
 
-Nee trouwens niet. Ik kan toch geen sorry zeggen om iets wat ik echt niet wist? Anyways, het maakt niet zo heulveul uit, want dankzij onder andere Elja heb ik een fraai setje nieuwe blogs gevonden. Door omstandigheden kan ik niet elke dag vanalles lezen, maar ik ben blij met een nieuwe set vers leesvoer zo gedurende de week. 
+Nee trouwens niet. Ik kan toch geen sorry zeggen om iets wat ik echt niet wist? Anyways, het maakt niet zo heulveul uit, want dankzij onder andere [Elja](http://www.eljadaae.nl/leuke-nederlandse-blogs-de-blogosphere-alive-kicking/) heb ik een fraai setje nieuwe blogs gevonden. Door omstandigheden kan ik niet elke dag vanalles lezen, maar ik ben blij met een nieuwe set vers leesvoer zo gedurende de week. 
 
 Dus ik heb de [blogroll](/blogroll) maar nieuw leven in geblazen. Niet al te moeilijk doen. Gewoon een paginaatje gemaakt met een lijstje met blogs die ik leuk vind op het Nederlandse grondgebied. Zeker niet uitputtend en verre van compleet. Maar ik moet ergens beginnen. Ik zal de lijst wel aanvullen. Soms weer wat weghalen. Tzt komt de lijst vast ergens op de frontpage te staan. Of ga ik er iets grappigs mee doen, weet ik nog niet. 
 
