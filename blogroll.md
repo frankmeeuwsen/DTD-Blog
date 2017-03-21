@@ -3,6 +3,10 @@ layout: page
 title: Blogroll
 permalink: /blogroll/
 ---
+
+- [Eamelje.net](http://eamelje.net/)
+- [Met Gitaren enzo](http://metgitarenenzo.nl/)
+- [Sargasso](http://sargasso.nl)
 - [Maanisch][63dad937]
 - [Uit 't Copy van Clason][d931b046]
 - [Fred Zelders][79901a6b]
