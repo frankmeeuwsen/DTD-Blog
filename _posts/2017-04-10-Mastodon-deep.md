@@ -99,6 +99,7 @@ http://www.disruptiveconversations.com/2007/05/facebook_myspac.html
 https://medium.com/@trishussey/mastodon-isnt-the-end-of-twitter-it-s-the-begining-5581bd6ec7b5
 https://hackernoon.com/mastodon-is-dead-in-the-water-888c10e8abb1
 https://github.com/snomofomo/mastodon-docs/blob/master/instanceSetup.md
+http://www.truthhawk.com/is-facebook-a-structural-threat-to-free-society/
 
 https://cybre.space/users/chr/updates/271
 https://mastodon.social/@krypteia/1787875
