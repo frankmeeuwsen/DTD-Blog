@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identiteit op Mastodon
-excerpt: Er wordt veel over gepraat maar hoe zit dat nou?
+excerpt: Er wordt veel over de identiteit op Mastodon gepraat maar hoe zit dat nou?
 published: true
 ---
 Het grote verschil tussen Mastodon en bijvoorbeeld Twitter is het gebruik van de *instances*. Dit zijn losstaande servers waar een kopie van de Mastodon software op draait. Elke server heeft zijn eigen installatie en elke beheerder van deze installatie kan zelf de regels bepalen voor zijn Mastodon-instantie. 
