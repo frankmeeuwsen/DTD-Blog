@@ -42,4 +42,10 @@
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
+    {% if page.header %}
+    <meta name="twitter:image" content="{{ site.url }}/images/{{ page.header}}">
+    <meta name="og:image" content="{{ site.url }}/images/{{ page.header}}">
+    {% else %}
     <meta name="twitter:image" content="{{ site.url }}/images/blogicon.png">
+    <meta name="og:image" content="{{ site.url }}/images/blogicon.png">
+    {% endif %}

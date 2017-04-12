@@ -3,11 +3,12 @@ layout: post
 title: Identiteit op Mastodon
 excerpt: Er is best wat discussie op Mastodon hoe je met identiteit omgaat. Maar is het echt een probleem?
 published: true
+header: header_locationtriggs.png
 ---
-Het grote verschil tussen Mastodon en bijvoorbeeld Twitter is het gebruik van de *instances*. Dit zijn losstaande servers waar een kopie van de Mastodon software op draait. Elke server heeft zijn eigen installatie en elke beheerder van deze installatie kan zelf de regels bepalen voor zijn Mastodon-instantie. 
-Net als met email diensten kun je op al die instanties een account aanmaken. Zo heb ik een email account bij Gmail, bij Protonmail en bij Outlook. Dat zijn dus drie instanties waar ik een identiteit heb. 
+Het grote verschil tussen Mastodon en bijvoorbeeld Twitter is het gebruik van de *instances*. Dit zijn losstaande servers waar een kopie van de Mastodon software op draait. Elke server heeft zijn eigen installatie en elke beheerder van deze installatie kan zelf de regels bepalen voor zijn Mastodon-instantie.
+Net als met email diensten kun je op al die instanties een account aanmaken. Zo heb ik een email account bij Gmail, bij Protonmail en bij Outlook. Dat zijn dus drie instanties waar ik een identiteit heb.
 
-Ik kan op verschillende Mastodon servers een account aanmaken, zoals ik mailadressen aanmaak. Ze staan los van elkaar en zijn apart van elkaar te gebruiken. Sterker nog, zoals ik met mijn Protonmail naar Gmail kan mailen en vice versa, zo kan ik met gebruikersaccounts op verschillende Mastodon servers met mezelf praten en mezelf volgen. 
+Ik kan op verschillende Mastodon servers een account aanmaken, zoals ik mailadressen aanmaak. Ze staan los van elkaar en zijn apart van elkaar te gebruiken. Sterker nog, zoals ik met mijn Protonmail naar Gmail kan mailen en vice versa, zo kan ik met gebruikersaccounts op verschillende Mastodon servers met mezelf praten en mezelf volgen.
 
 Maar hoe weet de buitenwereld op welk Mastodon adres ik het meest actief ben? Op dit moment is er niet één strategie of manier om dat te achterhalen. Het is aan de eigenaar van de accounts om dat zelf vorm te geven. Hier zijn wat ideeën die je kunt gebruiken.
 
@@ -26,23 +27,23 @@ Bij bovengenoemde account heb ik eveneens de avatar aangepast. Op Mastodon kun j
 
 ### Promoot één actief account op andere kanalen.
 
-Op mijn Twitter account noem ik mijn actieve account. Als ik ergens schrijf over Mastodon dan noem ik mijn actieve account. Natuurlijk is dat laatste minder makkelijk te wijzigen in publicaties van anderen. Maar je moet roeien met de riemen die je hebt. 
+Op mijn Twitter account noem ik mijn actieve account. Als ik ergens schrijf over Mastodon dan noem ik mijn actieve account. Natuurlijk is dat laatste minder makkelijk te wijzigen in publicaties van anderen. Maar je moet roeien met de riemen die je hebt.
 
 ### Alle bovenstaande
 
-Doe gewoon alles wat hier staat en nog zul je mensen krijgen die je op inactieve of andere accounts gaan volgen. So be it. Het is allemaal nog wat rafelig aan de randen en we zoeken allemaal nog naar de juiste vorm. Verwacht niet dat alles in één keer netjes en gepolijst werkt. Spullen gaat stuk, werken niet, doen andere dingen dan je verwacht. Ben er niet bang voor maar beweeg mee. 
+Doe gewoon alles wat hier staat en nog zul je mensen krijgen die je op inactieve of andere accounts gaan volgen. So be it. Het is allemaal nog wat rafelig aan de randen en we zoeken allemaal nog naar de juiste vorm. Verwacht niet dat alles in één keer netjes en gepolijst werkt. Spullen gaat stuk, werken niet, doen andere dingen dan je verwacht. Ben er niet bang voor maar beweeg mee.
 
 Lost dit het probleem op van meerdere identiteiten?
 
-Ik begin me af te vragen of dat eigenlijk wel een probleem is... Want als ik weer de vergelijking met e-mail maak, het is nu heel normaal om naar iemand mailadres te vragen. En afhankelijk wie ik tegenover mij heb krijgen ze mijn zakelijke mailadres, persoonlijke mailadres, of "ik hoef je meuk niet" mailadres. Ik heb meerdere Twitter accounts onder mijn hoede. Op Instagram doe ik andere dingen dan op Facebook en onder een andere naam. Toch is dat allemaal geen probleem. Waarom zou het dan op Mastodon ineens wel een probleem zijn? 
+Ik begin me af te vragen of dat eigenlijk wel een probleem is... Want als ik weer de vergelijking met e-mail maak, het is nu heel normaal om naar iemand mailadres te vragen. En afhankelijk wie ik tegenover mij heb krijgen ze mijn zakelijke mailadres, persoonlijke mailadres, of "ik hoef je meuk niet" mailadres. Ik heb meerdere Twitter accounts onder mijn hoede. Op Instagram doe ik andere dingen dan op Facebook en onder een andere naam. Toch is dat allemaal geen probleem. Waarom zou het dan op Mastodon ineens wel een probleem zijn?
 
 Trouwens, al die mailadressen konden [vroeger niet eens met elkaar praten](https://medium.com/musings-meanderings/mastodon-isnt-the-end-of-twitter-it-s-the-begining-5581bd6ec7b5). Pas toen het POP en SMTP protocol kwamen gingen de deuren wagenwijd open. Een soort van federatie rondom e-mail...
 
 ![< >](https://cl.ly/113N0h2B3Z1u/2017-04-11_23-34-06.png "mail")
 
 
-Om de analogie met mail dan even verder te trekken, ik kan in een mailapplicatie als Thunderbird prima de berichten van meerdere accounts binnenhalen en per bericht kiezen vanuit welk account ik dit verstuur. Wellicht dat zoiets ook voor Mastodon en GNU/Social mogelijk gaat worden. Je hebt een primair account waar je actief op bent, maar soms wil je juist iets zakelijks delen op de private tijdlijn van een eigen instantie. Waarna je weer hobbymatig iets deelt op een andere instantie. 
+Om de analogie met mail dan even verder te trekken, ik kan in een mailapplicatie als Thunderbird prima de berichten van meerdere accounts binnenhalen en per bericht kiezen vanuit welk account ik dit verstuur. Wellicht dat zoiets ook voor Mastodon en GNU/Social mogelijk gaat worden. Je hebt een primair account waar je actief op bent, maar soms wil je juist iets zakelijks delen op de private tijdlijn van een eigen instantie. Waarna je weer hobbymatig iets deelt op een andere instantie.
 
-De vraag is of we het probleem moeten oplossen dat iemand meerdere identiteiten kan hebben. Dat is namelijk geen probleem maar de realiteit. We moeten denken over en bewegen naar een manier om op een fluïde en natuurlijke manier met die identiteiten te bewegen over meerdere netwerken/instanties waarbij het je eigen verantwoordelijkheid is dat deze identiteiten jou werkelijk representeren. 
+De vraag is of we het probleem moeten oplossen dat iemand meerdere identiteiten kan hebben. Dat is namelijk geen probleem maar de realiteit. We moeten denken over en bewegen naar een manier om op een fluïde en natuurlijke manier met die identiteiten te bewegen over meerdere netwerken/instanties waarbij het je eigen verantwoordelijkheid is dat deze identiteiten jou werkelijk representeren.
 
 Lijkt me niet te moeilijk.
