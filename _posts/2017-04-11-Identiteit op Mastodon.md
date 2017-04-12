@@ -47,3 +47,15 @@ Om de analogie met mail dan even verder te trekken, ik kan in een mailapplicatie
 De vraag is of we het probleem moeten oplossen dat iemand meerdere identiteiten kan hebben. Dat is namelijk geen probleem maar de realiteit. We moeten denken over en bewegen naar een manier om op een fluïde en natuurlijke manier met die identiteiten te bewegen over meerdere netwerken/instanties waarbij het je eigen verantwoordelijkheid is dat deze identiteiten jou werkelijk representeren.
 
 Lijkt me niet te moeilijk.
+
+### Update: Zo kan het ook
+
+![Aral](/images/aral.png "aral")
+
+Zie dit screenshot van het account van Aral Balkan. Drie duidelijke aandachtspunten over zijn verhuizing naar een ander account
+
+1. Zijn username is gewijzigd in zijn nieuwe account URL met een pijl, wat verwijst naar een verhuizing
+2. Zijn bio aangepast met direct duidelijkheid dat hij is verhuisd
+3. Een laatste toot met een link naar zijn nieuwe account.
+
+Vind ik netjes.
