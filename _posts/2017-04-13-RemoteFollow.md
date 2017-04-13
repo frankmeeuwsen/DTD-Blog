@@ -42,6 +42,7 @@ Er zijn een paar zaken waar je rekening mee moet houden
 
 1. Als je niet bent ingelogd op je eigen instantie zul je nog een tussenscherm krijgen waarbij je je loginnaam en wachtwoord moet geven. 
 2. Als je de eerste en laatste schermafbeelding vergelijkt zie je dat het aantal toots, following en followers niet overeenkomen. Wat je ziet als je in je eigen instantie zit is het aantal posts wat voor jouw instantie zichtbaar is, het aantal personen die Bart volgt die op dezelfde instantie zitten als ik en het aantal mensen die Bart volgen van dezelfde instantie als ik zit. 
+3. Er zijn servers die niet worden toegelaten op andere servers om te *federaten* ofwel om de toots te zien van die instantie. Dat betekent dat je personen op die andere instantie niet kunt volgen. Daar kom je snel genoeg achter. Het volgen werkt dan gewoon niet. Welke instances op een blacklist staan van de instance waar jij op zit is niet direct duidelijk. Er is geen publieke lijst van bekend. Tevens krijg je een typische server foutmelding als hierdoor het volgen niet werkt. Hier kan de gebruikerservaring nog wel worden verbeterd...
 3. Dit werkt niet alleen met Mastodon-instanties maar ook met de "oudere" GNU/Social instanties zoals [Sealion.club](https://sealion.club) en de vele anderen die al jaren bestaan. Hier zie je wederom de Remote Follow knop.
 
 Tot zover een eerste opzet hoe je mensen op andere instanties kunt volgen. Have fun! Toot! 
