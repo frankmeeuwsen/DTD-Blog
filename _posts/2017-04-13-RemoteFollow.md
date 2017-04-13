@@ -12,7 +12,7 @@ Dat is logisch in de wereld van sociale netwerken en communities die we kennen. 
 
 Maar op Mastodon en GNU/Social is dat geen probleem. En dat zorgt voor een *brainbender* voor veel mensen. Dat is niet zo vreemd. We zijn zó gewend om elkaar alleen te volgen op de silo waar we zitten. Maar in De Federatie kun je allerlei mensen volgen met elk account wat gebruik maakt van het onderliggende protocol oStatus.
 
-Wat ik de afgelopen dagen vaak lees op Twitter is "Ik kom niet op Mastodon.social en hoe kan ik je dan volgen?" Hier zit volgens mij een aanname achter dat je op dezelfde instantie moet zitten als ik zit om me te kunnen volgen. De aanname is niet vreemd, want zie boven. Dat doen we al jaren. We weten niet beter. Maar joehoe! Dat hoeft dus niet! Want op Mastodon en GNU/Social bestaat zoiets als Remote Follow. Hiermee kun je vanaf elke instantie iemand anders volgen op een andere instantie.
+Wat ik de afgelopen dagen vaak lees op Twitter is "Ik kom niet op Mastodon.social en hoe kan ik je dan volgen?" Hier zit volgens mij een aanname achter dat je op dezelfde instantie moet zitten als ik zit om me te kunnen volgen. De aanname is niet vreemd, want zie boven. Dat doen we al jaren. We weten niet beter. Maar joehoe! Dat hoeft dus niet! Want op Mastodon en GNU/Social bestaat zoiets als Remote Follow. Hiermee kun je vanaf [elke instantie](https://instances.mastodon.xyz/) iemand anders volgen op een andere instantie.
 
 Een voorbeeld: Recent is Digital City Groningen een eigen instantie gestart. Hier zitten Mastodon gebruikers uit Groningen, waaronder Lykle de Vries. Zijn adres is [https://mastodon.groningendigitalcity.com/@Lykle](https://mastodon.groningendigitalcity.com/@Lykle). Mijn adres is [https://mastodon.social/@frankmeeuwsen](https://mastodon.social/@frankmeeuwsen). In de situatie met Twitter en Facebook zouden Lykle en ik op verschillende netwerken zitten en elkaar dus *niet* kunnen volgen met deze adressen. 
 
@@ -45,5 +45,5 @@ Er zijn een paar zaken waar je rekening mee moet houden
 3. Er zijn servers die niet worden toegelaten op andere servers om te *federaten* ofwel om de toots te zien van die instantie. Dat betekent dat je personen op die andere instantie niet kunt volgen. Daar kom je snel genoeg achter. Het volgen werkt dan gewoon niet. Welke instances op een blacklist staan van de instance waar jij op zit is niet direct duidelijk. Er is geen publieke lijst van bekend. Tevens krijg je een typische server foutmelding als hierdoor het volgen niet werkt. Hier kan de gebruikerservaring nog wel worden verbeterd...
 3. Dit werkt niet alleen met Mastodon-instanties maar ook met de "oudere" GNU/Social instanties zoals [Sealion.club](https://sealion.club) en de vele anderen die al jaren bestaan. Hier zie je wederom de Remote Follow knop.
 
-Tot zover een eerste opzet hoe je mensen op andere instanties kunt volgen. Have fun! Toot! 
+Tot zover een eerste opzet hoe je mensen op andere instanties kunt volgen. Have fun! Kies [een instantie](https://instances.mastodon.xyz/) en toot! 
   
