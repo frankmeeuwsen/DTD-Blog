@@ -28,6 +28,19 @@ Het is dus interessant om te zien hoe Mastodon nu werkt. Er zijn nog een aantal 
 Maar als je eenmaal ergens zit kun je rondkijken op andere instanties via de *Federated Timeline*. In Mastodon is dat de meest rechtse tijdlijn die op sommige dagen niet is bij te houden door de drukte. Dat is niet zo gek, vergelijk het met de publieke tijdlijn van Twitter als die nog zou bestaan. Of de publieke tijdlijn van Facebook. Heeft díe ooit bestaan eigenlijk? 
 Maar die Federated Timeline geeft je dus een beeld wat er in het complete universum speelt van GNU/Social servers. En elke Local Timeline laat je zien wat er op de server gebeurt waar je op dat moment bent ingelogd. 
 
+## Maar toch zie ik niet alles...hoe kan dat?
+
+Ik ben daar nog niet helemaal achter. Laat ik weer met screenshots een voorbeeld geven. Zo volg ik [@Scarbir](https://mastodon.groningendigitalcity.com/@Scarbir) die op de instantie van Groningen Digital City zit. Zie hier [zijn publieke pagina](https://mastodon.groningendigitalcity.com/@Scarbir) met de openbare toots.
+
+![<>](/images/scarbirweb.png "Scarbir")
+
+Echter, als ik in Mastodon zelf kijk zie ik dit
+
+![<>](/images/scarbirmst.png "scarbirmst")
+
+Ik zie dus niet al zijn posts in de Mastodon instantie waar ik zit. Maar op zijn publieke pagina zie ik wel alles. Net als op [deze preview-pagina](http://www.unmung.com/mastoview?url=mastodon.groningendigitalcity.com&view=federated) van diverse instanties. Hoe dat nu exact zit is me nog niet precies duidelijk. Dat dit nu niet echt betrouwbaar overkomt is me wél duidelijk. Als je iemand op een andere instantie volgt en die persoon publiceert openbare toots (wat volgens mij uit het eerste screenshot blijkt), dan mag je er van uit gaan dat deze toots in je tijdlijn terugkomen. 
+
+
 ## Waarom heeft elke server een eigen tijdlijn? Ik wil een *xyz* tijdlijn 
 
 Een terechte vervolgvraag is "Ik wil alleen een Nederlandse tijdlijn", die Japanners of Fransen kunnen me gestolen worden op de Federated Timeline. Helemaal gelijk! Wil ik ook! Spoiler alert: Dat kan (nog) niet in de huidige software van Mastodon. Wederom, vergelijk het met de publieke tijdlijn van Twitter. Hier zullen net zo hard meerdere talen voorbij schieten en moet je je een weg banen voor je gelijkgestemden vindt. Daar hebben Facebook en Twitter nu prima algoritmes voor om wél direct relevante accounts voor te schotelen. Zo ver is de software bij GNU/Social nog lang niet en ik vermoed dat dat nog wel eens héél lang kan gaan duren voor het er is. De mogelijkheid om een adresboek te uploaden en te kijken wie van je vrienden al op een instantie zit? Ik betwijfel of dat ooit in een open source omgeving mogelijk gaat worden. Niet in de minste plaats vanwege de mogelijke privacy-implicaties. 
