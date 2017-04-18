@@ -3,6 +3,7 @@ layout: post
 title: Hoe werkt het volgen in de GNU Social universe?
 excerpt: Van Mastodon tot Sealions.club. Eenmaal in de federatie kun je allerlei mensen volgen. Ongeacht waar je start
 published: true
+tags: Mastodon
 ---
 
 Een van de belangrijkste kenmerken van een sociaal netwerk is het kunnen volgen van andere accounts. Het is een heel normaal en logisch proces. Als je op Facebook zit, kun je ander Facebook-gebruikers volgen. Met je Twitter account volg je andere Twitteraars. Instagram? Idem!
