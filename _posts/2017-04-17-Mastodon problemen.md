@@ -26,9 +26,12 @@ Daar is nog geen oplossing voor en ik denk niet dat die gaat komen. Er zal zeker
 
 ### Vindbaarheid toots
 Op dit moment kun je nog niet zoeken in de toots van je eigen account, je lokale instantie of de federatie. Je kunt *wel* zoeken op hashtags en gebruikersnamen. Maar full-text search is er nog niet. Ik heb vooralsnog geen idee of dat gaat komen.
+**Update**: [@Gvenk](https://mastodon.xyz/users/gvenk/updates/105343) meldt dat er een [eerste poging](https://github.com/vhf/clericalist/) is tot een zoekmachine. Het is meer een proof of concept dan een volledige zoekmachine. En verre van compleet laat een eerste test zien.
 
 ### Vindbaarheid en betrouwbaarheid van personen
 Dit is gerelateerd aan de meerdere accounts over instanties. Je kunt zoeken op gebruikersnamen en profielnamen. Maar als iemand over meerdere instanties dezelfde naam gebruikt, hoe weet je dan welk account je moet hebben? En hoe weet je of het werkelijk díe persoon is. Net als op andere online netwerken is het vrij eenvoudig om een nep account aan te maken. Hoe Mastodon dit gaat oplossen, óf ze het gaan oplossen, dat is nog onduidelijk. Tot die tijd zijn er [diverse aanwijzingen](/Identiteit-op-Mastodon/) die je zelf kunt uitvoeren om er voor te zorgen dat anderen weten welk account jouw primaire account is. 
+
+**Update**: [@Janseke](https://creativity.cafe/users/Janseke/updates/891) meldt dat er een Mastodon user directory is: [Mastory.social](http://mastory.social/?q=trump)
 
 ### Verschillende aantallen toots en volgers in profielen
 
