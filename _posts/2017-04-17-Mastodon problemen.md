@@ -4,6 +4,7 @@ title: De problemen met Mastodon
 excerpt: Er is veel jubel over Mastodon. Maar er zijn natuurlijk problemen. Een eerste overzicht...
 published: true
 date: 2017-04-18 19:23
+header: header-mastodonskeleton.jpg
 ---
 Het lijkt soms of ik een grote fanboy ben voor Mastodon. Nu moet ik toegeven dat ik na twee weken nog geen genoeg krijg van het netwerk, met name omdat er steeds nieuwe ontwikkelingen zijn, er komen nieuwe instanties en er *gebeurt* iets. Er gebeurt iets substantieler dan een nieuw advertentieformaat op Facebook of een nieuwe CEO bij Twitter. 
 
