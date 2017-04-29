@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/frankmeeuwsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://diggingthedigital.com
+  * I am frankmeeuwsen (https://keybase.io/frankmeeuwsen) on keybase.
+  * I have a public key ASBIFUxpFPsmnFpWqhwVZkrVb67GlU5acbfB2nbo_LV0Rwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ee5212adbc69c44371d8bf024162d0b23c5bbe6ce64d0e5623fce89b483a801c0a",
+            "host": "keybase.io",
+            "kid": "012048154c6914fb269c5a56aa1c15664ad56faec6954e5a71b7c1da76e8fcb574470a",
+            "uid": "f7d55cf151b8e297b65fa271249a9519",
+            "username": "frankmeeuwsen"
+        },
+        "service": {
+            "hostname": "diggingthedigital.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493467396,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493467348,
+        "hash": "e7f39a691182a36fd6e096976600d09bdd8bafeecd5fe43788bf787a6fd24f59c9531c0714af4fb53bb88ef2b19af0413b07705b62954c68427ee1fd7c4d00fb",
+        "seqno": 1044718
+    },
+    "prev": "ab01b64c7926d00195fe6197226dc1289286594d0a2ed5c61fc1bfa6a44f6696",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSBVMaRT7JpxaVqocFWZK1W+uxpVOWnG3wdp26Py1dEcKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZWU1MjEyYWRiYzY5YzQ0MzcxZDhiZjAyNDE2MmQwYjIzYzViYmU2Y2U2NGQwZTU2MjNmY2U4OWI0ODNhODAxYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDgxNTRjNjkxNGZiMjY5YzVhNTZhYTFjMTU2NjRhZDU2ZmFlYzY5NTRlNWE3MWI3YzFkYTc2ZThmY2I1NzQ0NzBhIiwidWlkIjoiZjdkNTVjZjE1MWI4ZTI5N2I2NWZhMjcxMjQ5YTk1MTkiLCJ1c2VybmFtZSI6ImZyYW5rbWVldXdzZW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRpZ2dpbmd0aGVkaWdpdGFsLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjEifSwiY3RpbWUiOjE0OTM0NjczOTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MzQ2NzM0OCwiaGFzaCI6ImU3ZjM5YTY5MTE4MmEzNmZkNmUwOTY5NzY2MDBkMDliZGQ4YmFmZWVjZDVmZTQzNzg4YmY3ODdhNmZkMjRmNTljOTUzMWMwNzE0YWY0ZmI1M2JiODhlZjJiMTlhZjA0MTNiMDc3MDViNjI5NTRjNjg0MjdlZTFmZDdjNGQwMGZiIiwic2Vxbm8iOjEwNDQ3MTh9LCJwcmV2IjoiYWIwMWI2NGM3OTI2ZDAwMTk1ZmU2MTk3MjI2ZGMxMjg5Mjg2NTk0ZDBhMmVkNWM2MWZjMWJmYTZhNDRmNjY5NiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQE0H2+HPqCwBl66C9+Z9HX9pWBncbml7KVmZalQCHQ+CwSnbclJtbHwcoj6oEfuk6fKZIxtmfJkJqDIw72Z8NQioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAiRVjKspmHodz8iZSynLWWXL+tnzDADerrf2pl46KYoqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/frankmeeuwsen
+
+==================================================================
