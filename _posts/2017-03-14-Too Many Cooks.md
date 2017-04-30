@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Too Many Cooks
-excerpt: Een van mijn favoriete Youtube videos aller tijden. 
+excerpt: Een van mijn favoriete Youtube videos aller tijden.
 date: 2014-11-09 19:05
+tags: internet
 ---
 
 ![](/images/too-many-cooks.gif "Too many cooks")
@@ -15,7 +16,7 @@ Hou het in elk geval 5 minuten vol. Dan begint de pret pas echt. Aan het einde z
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/QrGrOK8oZG8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Yep... 
+Yep...
 
 De eerste keer dat ik de video zag, vrijdagavond laat (nuchter!) was ik even van mijn a propos. Het zijn van die internetfenomenen die eens in de zoveel tijd langskomen. Denk aan All Your Base Are Belong To Us
 
@@ -30,7 +31,7 @@ Kenya: Where can you see Lions?
 Nyan Cat
 <iframe width="480" height="360" src="//www.youtube.com/embed/QH2-TGUlwu4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Double Rainbow 
+Double Rainbow
 <iframe width="480" height="360" src="//www.youtube.com/embed/OQSNhk5ICTI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Techno Viking
@@ -54,5 +55,4 @@ Het internet gaat er op zijn zachtst gezegd *bonker viral* op...
 * [Buzzfeed - "Too Many Cooks" Might Be The Most Bizarre Thing You'll Ever See](http://www.buzzfeed.com/norbertobriceno/too-many-cooks-too-many-cooks)
 
 
-Too Many Cooks kan trots plaats nemen in de Internet Meme Hall of Fame. Voor zover die al bestaat. 
-
+Too Many Cooks kan trots plaats nemen in de Internet Meme Hall of Fame. Voor zover die al bestaat.
