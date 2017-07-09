@@ -3,6 +3,7 @@ layout: post
 title: Is Digitale Transformatie zó moeilijk?
 excerpt: Is het doorplaatsen van een persbericht een digitale doodzonde?
 published: true
+header: Drowning-in-Content.jpg
 ---
 
 Een van mijn goede vrienden is Sales Engineer bij een machinefabriek in Brabant. Hij werkt daar al tientallen jaren en zo nu en dan post hij er iets over op Facebook. Een nieuwe machine die wordt opgeleverd voor een klant. Het feit dat ze een regionaal goed doel sponsoren. Of gewoon een nieuwtje uit de markt. Tussen alle berichten over onze vriendengroep, zijn vakanties en de weekenden in de kroeg met goed bier scroll ik er langs en vind ik het leuk om te lezen waar hij mee bezig is. Soms zet hij er zelf wat bij, soms is het niets meer dan een link met een plaatje. 
