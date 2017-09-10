@@ -7,7 +7,7 @@ header: mastodon.png
 ---
 
 True... ik laat me niet veel meer horen op en over Mastodon. Maar toch kijk ik er minimaal twee keer per week wat er zoal wordt gedeeld en besproken op een van de grootste instanties, Mastodon.social.
-Wil je weten hoe het ook weer zat met Mastodon, check dan in elk geval dit artikel van mij of deze uitleg op Numrush. 
+Wil je weten hoe het ook weer zat met Mastodon, check dan in elk geval [dit artikel](http://diggingthedigital.com/Mastodon/) van mij of [deze uitleg op Numrush](http://numrush.nl/2017/04/11/mastodon-sociaal-netwerk-twitter/). Meer over Mastodon vind je vanaf [de homepage](/) van dit blog. 
 
 Ik zie zojuist dat er een nieuwe release van de serversoftware is. Met diverse verbeteringen die vooral een technisch meer stabiel en completer product maken. Ik begrijp het hele principe rondom die protocollen (zoals ActivityPub) nog niet helemaal dus ik duik daar niet te diep in. Waar ik wél blij van werd is dat dit nu mogelijk is:
 
