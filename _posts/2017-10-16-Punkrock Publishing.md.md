@@ -23,7 +23,7 @@ Een paar maanden terug ontdekte ik de service [Micro.blog][6]. "a timeline and p
 
 Ik wacht nog geduldig op de uitnodiging van maker [Manton Reece][8] terwijl ik met plezier naar zijn dagelijkse 5 minuten [podcast][9] luister waarin hij kort vertelt over de vorderingen en issues waar hij tegenaan loopt.
 
-Van Mastodon naar Twitterbots naar een overview van goede Nederlandse blogs. Ik blijf altijd van [die zijprojecten starten][10] om ze later door tijdgebrek weer vaarwel te zeggen. Of in _hibernation mode_ te zetten. Bloggen is iet wat ik [al jaren doe][11] en waarschijnlijk zal blijven doen. Op een eigen domein, in mijn eigen tempo. Zonder contentkalenders, thema's en op-social-webinars-geleerde anekdotische succestrucs. Maar gewoon, omdat ik het wil wanneer ik het wil op de manier die ik wil. 
+Van Mastodon naar Twitterbots naar een overview van goede Nederlandse blogs. Ik blijf altijd van [die zijprojecten starten][10] om ze later door tijdgebrek weer vaarwel te zeggen. Of in _hibernation mode_ te zetten. Bloggen is iets wat ik [al jaren doe][11] en waarschijnlijk zal blijven doen. Soms met pauzes, soms weer in overdrive. Op een eigen domein, in mijn eigen tempo. Zonder contentkalenders, thema's en op-social-webinars-geleerde anekdotische succestrucs. Maar gewoon, omdat ik het wil wanneer ik het wil op de manier die ik wil. 
 
 Punkrock publishing dus. 
 
