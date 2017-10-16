@@ -336,14 +336,14 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>2017-10-16-Punkrock Publishing.md.md</key>
+			<key>2017-10-16-Punkrock Publishing.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>529872331.86816901</real>
+				<real>529876955.65878201</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>10</integer>
+					<integer>12</integer>
 				</dict>
 			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
@@ -373,7 +373,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-10-16-Punkrock Publishing.md.md</string>
+			<string>2017-10-16-Punkrock Publishing.md</string>
 		</array>
 		<array>
 			<string>2016-01-23-Playing-with-Git-again.md</string>
@@ -490,7 +490,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>11</integer>
+			<integer>13</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
