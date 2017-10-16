@@ -27,6 +27,8 @@ Van Mastodon naar Twitterbots naar een overview van goede Nederlandse blogs. Ik 
 
 Punkrock publishing dus. 
 
+*Foto credits*: Andere held [Glen E Friedman][12].
+
 
 
 
@@ -41,3 +43,4 @@ Punkrock publishing dus.
 [9]:	http://timetable.manton.org/
 [10]:	/Projectjes-aan-de-zijlijn/
 [11]:	/blogjaren
+[12]:	http://burningflags.com/home/
