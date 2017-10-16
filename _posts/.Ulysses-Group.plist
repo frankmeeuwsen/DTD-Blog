@@ -326,18 +326,44 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>2017-09-06-Threads versus posts.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516103124.12342602</real>
 				<key>lastModification</key>
-				<real>516103124.12342602</real>
+				<real>529872258.63940799</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>7</integer>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>2017-10-16-Punkrock Publishing.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529872331.86816901</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
+			<key>2017-7-9-Digitale-Transformatie.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529872258.63940698</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>2017-9-10-Mastodon embed.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529872258.63940799</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>9</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -347,7 +373,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Untitled.md</string>
+			<string>2017-10-16-Punkrock Publishing.md.md</string>
 		</array>
 		<array>
 			<string>2016-01-23-Playing-with-Git-again.md</string>
@@ -445,6 +471,15 @@
 		<array>
 			<string>2017-04-30-Bots.md</string>
 		</array>
+		<array>
+			<string>2017-7-9-Digitale-Transformatie.md</string>
+		</array>
+		<array>
+			<string>2017-09-06-Threads versus posts.md</string>
+		</array>
+		<array>
+			<string>2017-9-10-Mastodon embed.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>creationDate</string>
@@ -455,7 +490,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>7</integer>
+			<integer>11</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
