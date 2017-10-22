@@ -13,4 +13,6 @@ Ik ben er weer voor gevallen. Ik heb de [Panobook van Studio Neat][1] besteld. I
 
 \<img src="images/panobook.jpg"\>
 
+Maar hij is toch _mooí_?
+
 [1]:	https://www.studioneat.com/products/panobook
