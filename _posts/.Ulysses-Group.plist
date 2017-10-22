@@ -346,6 +346,16 @@
 					<integer>12</integer>
 				</dict>
 			</dict>
+			<key>2017-10-22-Office pr0n wint het altijd.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>530365195.34645098</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>16</integer>
+				</dict>
+			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -372,6 +382,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-10-22-Office pr0n wint het altijd.md</string>
+		</array>
 		<array>
 			<string>2017-10-16-Punkrock Publishing.md</string>
 		</array>
@@ -490,7 +503,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>13</integer>
+			<integer>17</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
