@@ -11,7 +11,7 @@ Toch mislukt dat dan weer.
 
 Ik ben er weer voor gevallen. Ik heb de [Panobook van Studio Neat][1] besteld. Ik weet het....
 
-\<img src="images/panobook.jpg"\>
+\<img src="/images/panobook.jpg"\>
 
 Maar hij is toch _mooí_?
 
