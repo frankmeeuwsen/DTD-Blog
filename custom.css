@@ -24,3 +24,8 @@ img[alt$="<>"] {
 a {
 text-decoration: underline;
 }
+
+a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
+    font-size: small;
+    vertical-align: text-top;
+}
