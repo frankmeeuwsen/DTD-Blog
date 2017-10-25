@@ -366,16 +366,6 @@
 					<integer>20</integer>
 				</dict>
 			</dict>
-			<key>2017-10-23-Over dat Indieweb.md.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>530480511.75264698</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>31</integer>
-				</dict>
-			</dict>
 			<key>2017-10-24-OPML.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -384,6 +374,16 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>35</integer>
+				</dict>
+			</dict>
+			<key>2017-10-25-Over dat Indieweb.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>530654934.51045901</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>37</integer>
 				</dict>
 			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
@@ -416,7 +416,7 @@
 			<string>2017-10-24-OPML.md</string>
 		</array>
 		<array>
-			<string>2017-10-23-Over dat Indieweb.md.md</string>
+			<string>2017-10-25-Over dat Indieweb.md.md</string>
 		</array>
 		<array>
 			<string>2017-10-23-Numrush columns.md</string>
@@ -542,7 +542,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>36</integer>
+			<integer>38</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -1,0 +1,64 @@
+---
+layout: post
+title: Een eigen huis op het IndieWeb
+excerpt: Zijn sociale netwerken en mobiele deelsites alles wat er blijft op het web? Stevenen we af op een monocultuur, waar we het web alleen kennen via een paar grote Westerse ondernemingen? 
+published: true
+header: indieweb.jpg
+---
+
+Het klinkt zo logisch. Het internet kent zijn oorsprong in de hyperlink. We noemen het niet voor niets het "web". Sites zijn met elkaar verbonden door links, dat is wat het internet zijn rijkdom, diversiteit en vrijheid geeft. Maar ergens begin deze eeuw zijn we dat kwijtgeraakt. Dat is geen kritiek, het is een feit en we zien het dagelijks om ons heen gebeuren. Het web bleek te complex voor velen om een eigen huis op te bouwen. Dan liever een lapje grond huren ergens en gebruik maken van een one-size-fits-all formaat voor wat je hebt te zeggen of te presenteren.
+Sociale netwerken zijn een vloek en een zegen voor het web. Nooit hebben we met zijn allen zoveel tekst gemaakt, gepubliceerd en gedeeld met elkaar. De hoeveelheid beeldmateriaal grenst aan het niet-bevatbare. Nieuwe bedrijfstakken, beroepen en verdienmodellen krijgen een plek in onze maatschappij. Dat is allemaal prachtig en tot op zekere hoogte een enorme stap voorwaarts. 
+
+Maar zijn sociale netwerken en mobiele deelsites alles wat er blijft op het web? Stevenen we af op een monocultuur, waar we het web alleen kennen via een paar grote Westerse ondernemingen? 
+
+![][image-1]
+
+Al jaren hink ik op twee gedachten en ik kom er maar niet uit. Mijn mooiste momenten op het web komen voort uit mijn eigen blog, uit evenementen die ik er voor organiseerde, online zines die we publiceerden. Maar tegelijkertijd ben ik professioneel altijd bezig met _die andere kant_ . Hoe zijn sociale netwerken in te zetten om marketingdoelen te behalen? Hoe kan een online contentstrategie bijdragen aan het bedrijfsresultaat? Wat is de ROI van social media? 
+Ik heb er geen hekel aan, maar tegelijkertijd wringt het ergens. Het _voelt_ niet goed. Ik kan moeilijk exact aanwijzen waar het zit. Want ik heb geen hekel aan die werkzaamheden. Ik leer er enorm veel van en ik ben blij met de vele vrienden en kennissen die ik er heb opgedaan. 
+
+De twee werelden samen zijn een verrijking in mijn leven, elk op hun eigen wijze.
+
+## IndieWeb Cultuur
+De afgelopen dagen heb ik me eens wat meer verdiept in de [IndieWeb Community][1], een denkwijze, een platform (framework?) rondom zelfpublicatie, controle over je online identiteit en aanwezigheid, en een grotere onafhankelijkheid van de netwerk-silo's die het online leven beheersen.
+
+Het voert te ver om de complete pagina over [de Why van het IndieWeb][2] hier te vertalen, ik kan je aanraden er eens wat over te lezen. Ik ben inmiddels tevreden met dit verhaal wat nog onaf is, maar een glimps geeft van de gedachten die in mijn hoofd spelen. Natuurlijk zijn er stapels vragen en zijn er minstens zoveel mensen in mijn netwerk die direct de bekende tegenwerpingen zullen geven. Dat maakt niet uit. Wellicht dat ik hier de komende tijd wat meer samenhang zal brengen in die gedachten en voor mezelf een duidelijk beeld schets. Voel je vrij om je eigen ideeën hier te delen. Of vragen. Of tegenwerpingen. Alles is welkom.
+
+## Wijze IndieWeb quotes
+
+> Most people don’t care about all this open web nonsense. They just want to find and interact with their friends. I agree with him.
+
+Jack Baty – [Facebook vs The Open Web][3]
+
+> It was far easier to throw out a tweet, a dozen, a hundred, and still feel productive with minimal effort.
+
+Colin Walker – [Why we need short form content on our blogs][4]
+
+> By taking microblogging back from Twitter, we create a natural place for traditional blogs to grow. Indie microblogging is the gateway drug for long-form content.
+
+Manton Reece – [Decline and return of indie blogs][5]
+
+> Help the open web stay open. Help us build the future
+
+Jeffrey Zeldman – [New A List Apart wants you!][6]
+
+> The sad thing is that most don't care about the open web or about content longevity. Ephemera has taken over because most aren't creating anything that needs to be retained beyond the context of the current conversation.
+
+Colin Walker – [Convenience trumps all][7]
+
+> Feels like I still just touched the surface of this whole #OwnYourContent and #Indieweb thing.
+
+René Meister – [his microblog][8]
+
+PS: Herken je de foto in de header? Zo ja, goede meme-connaiseur! Zo nee, [no worries][9].
+
+[1]:	https://indieweb.org "Homepage IndieWeb Wiki"
+[2]:	https://indieweb.org/Why "Het Waarom van IndieWeb"
+[3]:	http://www.baty.blog/2017/facebook-vs-the-open-web
+[4]:	https://colinwalker.blog/2017/09/08/why-we-need-short-form-content-on-our-blogs/
+[5]:	http://www.manton.org/2017/09/decline-and-return-of-indie-blogs.html
+[6]:	https://alistapart.com/article/new-a-list-apart-wants-you
+[7]:	https://colinwalker.blog/2017/06/02/02062017-1705/
+[8]:	https://microblog.renem.net/2017/09/22/every-time-i.html
+[9]:	https://www.boredpanda.com/animals-about-to-drop-album-photos/
+
+[image-1]:	/images/indieweb-oatmeal.jpg
