@@ -1,0 +1,2 @@
+source 'https://rubygems.org'
+gem 'jekyll-webmention_io', group: :jekyll_plugins
