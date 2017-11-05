@@ -396,6 +396,16 @@
 					<integer>45</integer>
 				</dict>
 			</dict>
+			<key>2017-11-05-Micropub.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>531600963.63922203</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>49</integer>
+				</dict>
+			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -422,6 +432,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-05-Micropub.md</string>
+		</array>
 		<array>
 			<string>2017-10-26-Vertraging.md</string>
 		</array>
@@ -555,7 +568,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>46</integer>
+			<integer>50</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
