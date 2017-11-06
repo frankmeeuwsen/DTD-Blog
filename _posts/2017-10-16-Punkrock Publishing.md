@@ -5,7 +5,7 @@ excerpt:
 published: true
 header: fugazi.jpg
 ---
-Vandaag las ik [dit veel gedeelde artikel][1] van Mike Monteiro over de teloorgang van Twitter. Of in elk geval, zijn perceptie van de teloorgang van Twitter. Welnu, het gaat me nu niet over Twitter en of ze over een jaar net meer bestaan. 
+Vandaag las ik [dit veel gedeelde artikel][1] van Mike Monteiro over de teloorgang van Twitter. Of in elk geval, zijn perceptie van de teloorgang van Twitter. Welnu, het gaat me nu niet over Twitter en of ze over een jaar niet meer bestaan. 
 
 Soms zijn er artikelen waar een paragraaf je kan raken. Of een zin. Een woord. Dat gebeurde bij mij met het artikel van Monteiro. Hij beschrijft het internet eind jaren '90.
 
@@ -32,7 +32,7 @@ Punkrock publishing dus.
 
 
 
-[1]:	https://medium.com/@monteiro/one-persons-history-of-twitter-from-beginning-to-end-5b41abed6c20?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3B0yeJBGsQQ7SiUZP4DuXARA%3D%3D
+[1]:	https://medium.com/@monteiro/one-persons-history-of-twitter-from-beginning-to-end-5b41abed6c20?lipi=urn:li:page:d_flagship3_profile_view_base_recent_activity_details_all;0yeJBGsQQ7SiUZP4DuXARA==
 [2]:	http://scripting.com
 [3]:	http://scripting.com/2017/10/13.html#a120843
 [4]:	https://github.com/frankmeeuwsen/Bloghelden
