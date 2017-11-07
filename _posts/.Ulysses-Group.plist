@@ -408,22 +408,30 @@
 			</dict>
 			<key>2017-11-07-37027.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>531782646.97260898</real>
 				<key>lastModification</key>
-				<real>531780032.65702999</real>
+				<real>531782646.97260898</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>63</integer>
+					<integer>70</integer>
 				</dict>
 			</dict>
 			<key>2017-11-07-37833.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>531782646.97525197</real>
 				<key>lastModification</key>
-				<real>531780032.65702999</real>
+				<real>531782646.97525197</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>63</integer>
+					<integer>71</integer>
 				</dict>
 			</dict>
 			<key>2017-11-6-7000.md</key>
@@ -620,7 +628,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>69</integer>
+			<integer>71</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

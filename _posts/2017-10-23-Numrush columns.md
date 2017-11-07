@@ -15,6 +15,7 @@ Naast dit blog, de Triggi site, sociale kanalen en wat side-projects, schrijf ik
 * [Kan een slim huis compassie hebben?][6] (juni 2017)
 * ["Bouw aan de toekomst, eet meer pizza"][7] (september 2017)
 * [Van Rick Deckard tot Chriet Titulaer: een wondere en dystopische wereld][8] (oktober 2017)
+* [Asterix en de Indieweb community][9] (november 2017)
 
 [1]:	http://numrush.nl/ "http://numrush.nl"
 [2]:	http://numrush.nl/2016/06/06/laten-we-stoppen-term-internet-things/
@@ -24,3 +25,4 @@ Naast dit blog, de Triggi site, sociale kanalen en wat side-projects, schrijf ik
 [6]:	http://numrush.nl/2017/06/12/kan-een-slim-huis-compassie-hebben/
 [7]:	http://numrush.nl/2017/09/04/bouw-aan-de-toekomst-eet-meer-pizza/
 [8]:	http://numrush.nl/2017/10/16/een-wondere-en-dystopische-wereld/
+[9]:	http://numrush.nl/2017/11/06/asterix-en-de-indieweb-community/
