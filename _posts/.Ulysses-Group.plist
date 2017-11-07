@@ -406,6 +406,26 @@
 					<integer>49</integer>
 				</dict>
 			</dict>
+			<key>2017-11-07-37027.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>531780032.65702999</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>63</integer>
+				</dict>
+			</dict>
+			<key>2017-11-07-37833.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>531780032.65702999</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>63</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -414,6 +434,16 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>60</integer>
+				</dict>
+			</dict>
+			<key>2017-11-7-blogpraat.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>531781095.67255199</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>68</integer>
 				</dict>
 			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
@@ -442,6 +472,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-7-blogpraat.md</string>
+		</array>
 		<array>
 			<string>2017-11-6-7000.md</string>
 		</array>
@@ -571,6 +604,12 @@
 		<array>
 			<string>2017-9-10-Mastodon embed.md</string>
 		</array>
+		<array>
+			<string>2017-11-07-37833.md</string>
+		</array>
+		<array>
+			<string>2017-11-07-37027.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>creationDate</string>
@@ -581,7 +620,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>61</integer>
+			<integer>69</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
