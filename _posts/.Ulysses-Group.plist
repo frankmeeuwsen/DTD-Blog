@@ -464,6 +464,16 @@
 					<integer>74</integer>
 				</dict>
 			</dict>
+			<key>2017-11-9-Numrush Column.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>531911046.10278302</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -490,6 +500,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-9-Numrush Column.md</string>
+		</array>
 		<array>
 			<string>2017-11-8-mrrobot.md</string>
 		</array>
@@ -641,7 +654,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>75</integer>
+			<integer>79</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
