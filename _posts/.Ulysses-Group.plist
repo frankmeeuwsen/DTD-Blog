@@ -434,6 +434,16 @@
 					<integer>71</integer>
 				</dict>
 			</dict>
+			<key>2017-11-12-De links van deze week.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532207098.463126</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>82</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -500,6 +510,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-12-De links van deze week.md</string>
+		</array>
 		<array>
 			<string>2017-11-9-Numrush Column.md</string>
 		</array>
@@ -654,7 +667,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>79</integer>
+			<integer>83</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
