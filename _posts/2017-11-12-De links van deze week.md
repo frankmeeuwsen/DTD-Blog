@@ -14,19 +14,24 @@ Nu gebruik ik [Pinboard][3] al jaren en ik denk dat deze nog wel de beste papier
 ### De leesmap
 
 Ik begeef me al weken weer meer op het originele web zoals we dat kenden voor plusminus 2005. Voor de sociale netwerken veel van onze tijd en aandacht overnamen. Misschien is het valse nostalgie, maar als ik lees hoe Chris Aldrich [zijn blogroll][4] naar een nieuw niveau brengt, dan word ik blij en zie ik weer nieuwe projectjes voor mezelf....
+
 📖[A Following Page (aka some significant updates to my Blogroll)][5]
 
 Rondom de IndieWeb community [wordt veel geschreven][6] over de rol van Facebook en Twitter in de toekomst van het web. Hoe zij onherroepelijk schade aanrichten en een steeds meer gesloten web maken. In plaats van de creatieve vrijplaats die het was. En nog steeds is. Al lijkt die meer en meer verborgen in moeilijker vindbaar. Hopelijk zien we de komende jaren een beweging de andere kant op. 
+
 🔦[Against an Increasingly User-Hostile Web][7]
 
 Ik ben weer terug bij mijn oude liefde RSS. De leesmap-technologie die nooit bij het grote publiek zal doorbreken, want het is een onmogelijke afkorting en nog steeds niet gebruikersvriendelijk. Google Reader had een mogelijkheid om het abonnementsmodel groot te maken, maar zag er uiteindelijk toch vanaf. Om zo de baby met het badwater weg te gooien. Gelukkig leeft RSS nog altijd en zijn er voldoende goede RSS lezers om mijn nieuwsgierigheid te bedienen.
+
 📰[The Case for RSS][8] en [Learning from the past][9]
 
 Na de paniek over Facebook die meeluistert met je microfoon komt Gizmodo met  [het verhaal][10] over People You May Know en Shadow Profiles op Facebook. Over de ongelooflijke macht die Facebook heeft om mensen aan elkaar te verbinden op basis van alle data die ze krijgen uit de adresboeken van telefoons. Heel heftig. 
+
 🗃[How Facebook Figures Out Everyone You've Ever Met][11]
 
 
-Als oud-oprichter en mede-aanstichter van het hele Lifehacking en productiviteitsgekte hou ik me nog steeds bezig met slimmer om gaan met mijn tijd. Ik ben niet meer zo'n takenlijst-fetisjist en probeer niet meer elke nieuwe GTD-app. Ik kan nog wel genieten van mooi analoog materiaal en bijpassende werkwijzen. De Bulletjournal techniek trekt al een tijdje mijn interesse maar ik ken mezelf goed genoeg om te weten dat elk (te duur) notitieboek in mijn handen binnen 3 weken transformeert naar een onleesbare verzameling droedels en krabbels. Ik bewonder anderen daarom maar op gepaste afstand. Zoals Liz Pierson en haar prachtige schrijfstijl...
+Als oud-oprichter en mede-aanstichter van het hele Lifehacking en productiviteitsgekte hou ik me nog steeds bezig met mijn tijd en aandacht slimmer te gebruiken. Ik ben echter niet meer zo'n takenlijst-fetisjist en probeer niet elke nieuwe GTD-app. Ik kan nog wel genieten van mooi analoog materiaal en bijpassende werkwijzen. De Bulletjournal techniek trekt al een tijdje mijn interesse maar ik ken mezelf goed genoeg om te weten dat elk (te duur) notitieboek in mijn handen binnen 3 weken transformeert naar een onleesbare verzameling droedels en krabbels. Ik bewonder anderen daarom maar op gepaste afstand. Zoals Liz Pierson en haar prachtige schrijfstijl...
+
 📚[Show & Tell with Liz - Bulletjournal][12]
 
 
