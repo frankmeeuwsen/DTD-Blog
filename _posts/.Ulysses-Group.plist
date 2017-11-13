@@ -434,14 +434,24 @@
 					<integer>71</integer>
 				</dict>
 			</dict>
-			<key>2017-11-12-De links van deze week.md</key>
+			<key>2017-11-12-leesmap week 45.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532207098.463126</real>
+				<real>532209897.39112699</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>82</integer>
+					<integer>84</integer>
+				</dict>
+			</dict>
+			<key>2017-11-13-blogdrift.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532300763.85960102</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>88</integer>
 				</dict>
 			</dict>
 			<key>2017-11-6-7000.md</key>
@@ -511,7 +521,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-11-12-De links van deze week.md</string>
+			<string>2017-11-13-blogdrift.md</string>
+		</array>
+		<array>
+			<string>2017-11-12-leesmap week 45.md</string>
 		</array>
 		<array>
 			<string>2017-11-9-Numrush Column.md</string>
@@ -667,7 +680,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>83</integer>
+			<integer>89</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
