@@ -9,14 +9,16 @@ Gisteren vroeg mijn goede vriendin [Gonnie][1] me waar die plotselinge blogdrift
 
 Daar zit iets moois in.
 
-Het deed me eerst denken aan de term Ontdekkingsdrift. [Ronald][2] van Schaik van Kaliber gebruikte deze term volgens mij voor het eerst. Misschien heeft hij het weer ergens anders vandaan, maar dan houdt hij zijn bron goed verborgen. Mooi zo. 
+Het deed me denken aan de term Ontdekkingsdrift. [Ronald][2] van Schaik van Kaliber gebruikte deze term volgens mij voor het eerst. Misschien heeft hij het weer ergens anders vandaan, maar dan houdt hij zijn bron goed verborgen. Mooi zo. 
 
 > "Niet alleen de behoefte om kennis te hebben van ontwikkelingen, maar ook te begrijpen hoe dat toe te passen"
 
-Aldus van Schaik. Dat zegt hij mooi. Gelukkig ken ik hem langer dan vandaag en weet ik dat hij het meent. Tot in het diepst van zijn vezels. Sterker nog, ik weet dat we elkaar aansteken en inspireren. Waar hij zijn eigen ontdekkingsdrift tot uiting brengt in het fantastische bureau wat Kaliber is geworden, dat is wat ik probeer te doen in mijn blogdrift. Dat wat ik online ontdek, proberen te snappen en toe te passen. En misschien doe ik dat professioneel niet altijd even handig of regelmatig, maar ik weet dat ik de kunst in me heb om al die losse draadjes die ik overal verzamel op een gegeven moment weer aan elkaar kan knopen en er iets van weet te maken. 
+Aldus van Schaik. Dat zegt hij mooi. Ik ken hem langer dan vandaag en ik weet en voel dat hij het meent. Tot in het diepst van zijn vezels. Sterker nog, ik weet dat we elkaar aansteken en inspireren. Waar hij zijn eigen ontdekkingsdrift tot uiting brengt in het fantastische bureau wat Kaliber is geworden, dat is wat ik probeer te doen in mijn blogdrift. Dat wat ik online ontdek, proberen te snappen en toe te passen. En misschien doe ik dat professioneel niet altijd even handig of regelmatig, maar ik weet dat ik de kunst in me heb om al die losse draadjes die ik overal verzamel op een gegeven moment weer aan elkaar kan knopen en er iets van weet te maken. Dat jochie van Van Schaik maakt er een mooi bureau omheen, ik fröbel wat aan met online getik.
 
 ## Produceren en consumeren
-*Blogdrift* dus. Zoals ik al zei, ik moest even nadenken over het antwoord en op dat moment kwam er eerst nog iets anders uit dan wat ik zojuist schreef. Mijn eerste antwoord waar die blogdrift vandaan kwam: "Het besef dat ik mijn tijd beter kan besteden door iets te produceren dan alleen tijdlijnen te consumeren."
+*Blogdrift* dus. Zoals ik al zei, ik moest even nadenken over het antwoord en op dat moment kwam er eerst nog iets anders uit dan wat ik zojuist schreef. Mijn eerste antwoord aan Gonnie waar die blogdrift vandaan kwam: 
+
+> Het besef dat ik mijn tijd beter kan besteden door iets te produceren dan alleen tijdlijnen te consumeren
 
 Het is te makkelijk om in elk leeg moment een tijdlijn te openen. Of dat nu Twitter, Facebook, Reddit, Instagram, Snapchat, Whatsapp of elke andere app is. Het is niet per se iets waar ik moeite mee heb. Maar de spaarzame tijd die ik al heb buiten werk en gezin om ga ik niet verdoen met alleen bekijken wat anderen doen. Dan draag ik liever weer iets bij. Op mijn manier. 
 
@@ -29,7 +31,7 @@ Nogmaals, het is allemaal niet raar en het zijn steeds stappen die we als indust
 
 Daarom wil ik weer meer in eigen hand hebben. Maar er is nog een reden.
 
-Ik merk dat ik de laatste jaren minder scherp kan denken. Minder goed uit mijn woorden kan komen en steeds vaker zoek naar de juiste woorden. Het lijkt wel of het makkelijker is geworden om in 140 of 280 karakters iets te roepen en dan zie je wel weer verder. Maar een coherente structuur opzetten voor een verhaal wat iets langer is. Waar ik speel met woorden, zoek naar een analogie, andere vormen probeer om iets te beschrijven. Het lijkt wel of ik dat wat ben kwijtgeraakt. Ik wil mezelf weer meer dwingen om dieper na te denken over bepaalde onderwerpen. Wat meer reflectie en wat minder "shooting from the hip". Ik weet dat ik geen geschoolde journalist/schijver/wetenschapper ben dus echt bedreven zal ik er nooit in worden.
+Ik merk dat ik de laatste jaren minder scherp kan denken. Minder goed uit mijn woorden kan komen en steeds vaker zoek naar de juiste woorden. Het lijkt wel of het makkelijker is geworden om in 140 of 280 karakters iets te roepen en dan zie je wel weer verder. Maar een coherente structuur opzetten voor een verhaal wat iets langer is. Waar ik speel met woorden, zoek naar een analogie, andere vormen probeer om iets te beschrijven. Het lijkt wel of ik dat wat ben kwijtgeraakt. Ik wil mezelf weer meer dwingen om dieper na te denken over bepaalde onderwerpen. Wat meer reflectie en wat minder "shooting from the hip". Ik weet dat ik geen geschoolde journalist/schijver/wetenschapper ben dus echt bedreven zal ik er nooit in worden. Ik kan het natuurlijk altijd proberen.
 Ik mag natuurlijk niet vergeten wat ik Henk-Jan Winkeldermaat ooit in een video [toevertrouwde][3], over onze gezamenlijke held Jack Kerouac:
 
 > Begin maar gewoon te typen en te rammen en je ziet wel wat er uit komt. 
