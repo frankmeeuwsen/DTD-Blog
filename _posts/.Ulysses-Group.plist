@@ -454,6 +454,16 @@
 					<integer>88</integer>
 				</dict>
 			</dict>
+			<key>2017-11-14-lezenswaardig.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532385841.70425999</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>92</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -520,6 +530,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-14-lezenswaardig.md</string>
+		</array>
 		<array>
 			<string>2017-11-13-blogdrift.md</string>
 		</array>
@@ -680,7 +693,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>89</integer>
+			<integer>93</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
