@@ -406,34 +406,6 @@
 					<integer>49</integer>
 				</dict>
 			</dict>
-			<key>2017-11-07-37027.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>531782646.97260898</real>
-				<key>lastModification</key>
-				<real>531782646.97260898</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>70</integer>
-				</dict>
-			</dict>
-			<key>2017-11-07-37833.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>531782646.97525197</real>
-				<key>lastModification</key>
-				<real>531782646.97525197</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>71</integer>
-				</dict>
-			</dict>
 			<key>2017-11-12-leesmap week 45.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -462,6 +434,16 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>92</integer>
+				</dict>
+			</dict>
+			<key>2017-11-17-POSSE en PESOS.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532650792.41989398</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>98</integer>
 				</dict>
 			</dict>
 			<key>2017-11-6-7000.md</key>
@@ -530,6 +512,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-17-POSSE en PESOS.md</string>
+		</array>
 		<array>
 			<string>2017-11-14-lezenswaardig.md</string>
 		</array>
@@ -677,12 +662,6 @@
 		<array>
 			<string>2017-9-10-Mastodon embed.md</string>
 		</array>
-		<array>
-			<string>2017-11-07-37833.md</string>
-		</array>
-		<array>
-			<string>2017-11-07-37027.md</string>
-		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>creationDate</string>
@@ -693,7 +672,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>93</integer>
+			<integer>98</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
