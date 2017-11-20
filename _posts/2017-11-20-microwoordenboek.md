@@ -16,7 +16,7 @@ Maar inmiddels heb ik weer wat fraaie sites gevonden en terug gevonden die ik we
 
 Ik vermoed dat het gros van mijn lezers "iets" heeft met marketing, online content dingen en social strategie gedoe. Of iets met websites maken en er gewichtig over kunnen praten. 
 
-[Lees dit eens][1]. Hier hou ik van. De allergie voor marketingtermen. Ik maak me er keihard schuldig aan. Ik roep nog te vaak allerlei onzinjargon en ik hoor het mezelf zeggen. Het wordt tijd om die bullshit af te leren en gewoon de boel te benoemen op wat het is. Eve
+[Lees dit eens][1]. Hier hou ik van. De allergie voor marketingtermen. Ik maak me er keihard schuldig aan. Ik roep nog te vaak allerlei onzinjargon en ik hoor het mezelf zeggen. Het wordt tijd om die bullshit af te leren en gewoon de boel te benoemen op wat het is. Evelyne zet me even goed op mijn plaats. Dank je.
 
 📖 [Het Microwoordenboek der Hippe Marketingtermen (voor de Normale Mensch)][2]
 
