@@ -326,6 +326,16 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>2017-07-09-Digitale-Transformatie.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532905534.648305</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>101</integer>
+				</dict>
+			</dict>
 			<key>2017-09-06-Threads versus posts.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -334,6 +344,16 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>2017-09-10-Mastodon embed.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532905534.64830399</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>101</integer>
 				</dict>
 			</dict>
 			<key>2017-10-16-Punkrock Publishing.md</key>
@@ -446,6 +466,36 @@
 					<integer>98</integer>
 				</dict>
 			</dict>
+			<key>2017-11-18-avondroutine.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532905534.648305</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>101</integer>
+				</dict>
+			</dict>
+			<key>2017-11-19-leesmap week 46.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532905534.64830601</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>101</integer>
+				</dict>
+			</dict>
+			<key>2017-11-20-microwoordenboek.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532905567.476565</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>102</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -520,6 +570,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-20-microwoordenboek.md</string>
+		</array>
 		<array>
 			<string>2017-11-17-POSSE en PESOS.md</string>
 		</array>
@@ -670,6 +723,18 @@
 		<array>
 			<string>2017-9-10-Mastodon embed.md</string>
 		</array>
+		<array>
+			<string>2017-09-10-Mastodon embed.md</string>
+		</array>
+		<array>
+			<string>2017-07-09-Digitale-Transformatie.md</string>
+		</array>
+		<array>
+			<string>2017-11-18-avondroutine.md</string>
+		</array>
+		<array>
+			<string>2017-11-19-leesmap week 46.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>creationDate</string>
@@ -680,7 +745,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>99</integer>
+			<integer>103</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
