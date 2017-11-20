@@ -10,9 +10,9 @@ Komende week maak ik samen met buurman Elger een podcast en in de voorbereiding 
 
 Wat trouwens heerlijk is.
 
-Buiten je comfortzone klikken is doorlezen en doorklikken op sites die je normaal nooit zo snel zou bezoeken. De krochten van het internet die minstens zo mooi zijn dan de oneindige stroom berichten in je tijdlijnen. De verhalen van mensen die iets beleven. Misschien niet altijd even boeiend en pakkend als je zou wíllen lezen. Misschien lees je het één keer en kom je er nooit meer terug.
+Buiten je comfortzone klikken is het bezoeken en doorlezen op sites die je normaal nooit zo snel zou bezoeken. De krochten van het internet die minstens zo mooi zijn dan de oneindige stroom berichten in je tijdlijnen. De verhalen van mensen die iets beleven. Misschien niet altijd even boeiend en pakkend als je zou wíllen lezen. Misschien lees je het één keer en kom je er nooit meer terug.
 
-Maar inmiddels heb ik weer wat fraaie sites gevonden en terug gevonden die ik weer vaker wil lezen. 
+Maar inmiddels heb ik wat fraaie sites gevonden en terug gevonden die ik weer vaker wil lezen. 
 
 Ik vermoed dat het gros van mijn lezers "iets" heeft met marketing, online content dingen en social strategie gedoe. Of iets met websites maken en er gewichtig over kunnen praten. 
 
