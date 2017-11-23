@@ -40,4 +40,4 @@ PS: Ik heb het domein [Bloghelden.nl][6] nieuw leven ingeblazen. Nooit geweten d
 [3]:	https://web.archive.org/web/19991128034650/http://robotwisdom.com:80/log1997m12.html
 [4]:	https://web.archive.org/web/20070325212554/http://www.scripting.com/stories/2007/03/20/theBlogBootstrap.html
 [5]:	/POSSE-en-PESOS/
-[6]:	Bloghelden.nl
+[6]:	http://Bloghelden.nl
