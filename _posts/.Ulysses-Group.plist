@@ -2,8 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>New Folder</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>New Folder</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533163248.69754797</real>
+				<key>lastModification</key>
+				<real>533163248.69754797</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>2016-01-23-Playing-with-Git-again.md</key>
@@ -506,6 +527,16 @@
 					<integer>106</integer>
 				</dict>
 			</dict>
+			<key>2017-11-23-20 jaar weblogs.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>533163281.936571</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>110</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -580,6 +611,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-23-20 jaar weblogs.md</string>
+		</array>
 		<array>
 			<string>2017-11-22-Podcast over bloggen.md</string>
 		</array>
@@ -755,10 +789,15 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+			<integer>3</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>107</integer>
+			<integer>111</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
