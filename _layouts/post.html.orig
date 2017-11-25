@@ -15,6 +15,10 @@ layout: default
   </div>
 
 
+<<<<<<< HEAD
+  {% include disqus.html %}
+=======
   {% include webmentions.html %}
+>>>>>>> webmentions
 
 </article>

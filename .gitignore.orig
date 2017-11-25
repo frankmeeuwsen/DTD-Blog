@@ -8,3 +8,8 @@ Gemfile.lock
 node_modules
 package.json
 *.plist
+<<<<<<< HEAD
+
+*.plist
+=======
+>>>>>>> webmentions
