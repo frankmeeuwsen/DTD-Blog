@@ -537,6 +537,16 @@
 					<integer>110</integer>
 				</dict>
 			</dict>
+			<key>2017-11-25-Jim en Andy.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>533334289.63761097</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>114</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -611,6 +621,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-25-Jim en Andy.md</string>
+		</array>
 		<array>
 			<string>2017-11-23-20 jaar weblogs.md</string>
 		</array>
@@ -797,7 +810,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>111</integer>
+			<integer>115</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
