@@ -2,8 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>New Folder</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>New Folder</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533163248.69754797</real>
+				<key>lastModification</key>
+				<real>533163248.69754797</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>2016-01-23-Playing-with-Git-again.md</key>
@@ -326,6 +347,20 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>2017-07-09-Digitale-Transformatie.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25179601</real>
+				<key>lastModification</key>
+				<real>533343065.25179601</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>118</integer>
+				</dict>
+			</dict>
 			<key>2017-09-06-Threads versus posts.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -334,6 +369,20 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>2017-09-10-Mastodon embed.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25023401</real>
+				<key>lastModification</key>
+				<real>533343065.25023401</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>116</integer>
 				</dict>
 			</dict>
 			<key>2017-10-16-Punkrock Publishing.md</key>
@@ -406,34 +455,6 @@
 					<integer>49</integer>
 				</dict>
 			</dict>
-			<key>2017-11-07-37027.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>531782646.97260898</real>
-				<key>lastModification</key>
-				<real>531782646.97260898</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>70</integer>
-				</dict>
-			</dict>
-			<key>2017-11-07-37833.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>531782646.97525197</real>
-				<key>lastModification</key>
-				<real>531782646.97525197</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>71</integer>
-				</dict>
-			</dict>
 			<key>2017-11-12-leesmap week 45.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -462,6 +483,104 @@
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
 					<integer>92</integer>
+				</dict>
+			</dict>
+			<key>2017-11-17-POSSE en PESOS.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.255907</real>
+				<key>lastModification</key>
+				<real>533343065.255907</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>120</integer>
+				</dict>
+			</dict>
+			<key>2017-11-18-avondroutine.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25768501</real>
+				<key>lastModification</key>
+				<real>533343065.25768501</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>123</integer>
+				</dict>
+			</dict>
+			<key>2017-11-19-leesmap week 46.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25118899</real>
+				<key>lastModification</key>
+				<real>533343065.25118899</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>117</integer>
+				</dict>
+			</dict>
+			<key>2017-11-20-microwoordenboek.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25534397</real>
+				<key>lastModification</key>
+				<real>533343065.25534397</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>119</integer>
+				</dict>
+			</dict>
+			<key>2017-11-22-Podcast over bloggen.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25650603</real>
+				<key>lastModification</key>
+				<real>533343065.25650603</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>121</integer>
+				</dict>
+			</dict>
+			<key>2017-11-23-20 jaar weblogs.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25824499</real>
+				<key>lastModification</key>
+				<real>533343065.25824499</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>124</integer>
+				</dict>
+			</dict>
+			<key>2017-11-25-Jim en Andy.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533343065.25706202</real>
+				<key>lastModification</key>
+				<real>533343065.25706202</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>122</integer>
 				</dict>
 			</dict>
 			<key>2017-11-6-7000.md</key>
@@ -507,29 +626,44 @@
 			<key>2017-7-9-Digitale-Transformatie.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>529872258.63940698</real>
+				<real>532808767.94520998</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>9</integer>
+					<integer>99</integer>
 				</dict>
 			</dict>
 			<key>2017-9-10-Mastodon embed.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>529872258.63940799</real>
+				<real>532808767.945225</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>9</integer>
+					<integer>99</integer>
 				</dict>
 			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>515965108.44574499</real>
+		<real>533079857.113078</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-25-Jim en Andy.md</string>
+		</array>
+		<array>
+			<string>2017-11-23-20 jaar weblogs.md</string>
+		</array>
+		<array>
+			<string>2017-11-22-Podcast over bloggen.md</string>
+		</array>
+		<array>
+			<string>2017-11-20-microwoordenboek.md</string>
+		</array>
+		<array>
+			<string>2017-11-17-POSSE en PESOS.md</string>
+		</array>
 		<array>
 			<string>2017-11-14-lezenswaardig.md</string>
 		</array>
@@ -678,27 +812,38 @@
 			<string>2017-9-10-Mastodon embed.md</string>
 		</array>
 		<array>
-			<string>2017-11-07-37833.md</string>
+			<string>2017-09-10-Mastodon embed.md</string>
 		</array>
 		<array>
-			<string>2017-11-07-37027.md</string>
+			<string>2017-07-09-Digitale-Transformatie.md</string>
+		</array>
+		<array>
+			<string>2017-11-18-avondroutine.md</string>
+		</array>
+		<array>
+			<string>2017-11-19-leesmap week 46.md</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
-	<string>creationDate</string>
+	<string>modificationDate</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+			<integer>3</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>93</integer>
+			<integer>124</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>1</integer>
+			<integer>4</integer>
 		</dict>
 	</dict>
 </dict>

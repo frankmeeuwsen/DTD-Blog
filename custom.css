@@ -1,3 +1,13 @@
+.webmention-mention{
+	padding-bottom:25px;
+	font-size: 1rem;
+}
+.webmention-author > a > img {
+	width: 64px;
+	border-radius: 60px;
+	-webkit-border-radius: 60px;
+	-moz-border-radius: 60px;
+}
 .post-meta {
 	display: inline-block;
 	font-size: 1rem;

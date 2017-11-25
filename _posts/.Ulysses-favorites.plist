@@ -3,28 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array>
-		<string>2017-10-22-Office pr0n wint het altijd.md</string>
-	</array>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict>
-			<key>2017-10-22-Office pr0n wint het altijd.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>532302437.72933799</real>
-				<key>lastModification</key>
-				<real>532302437.72933799</real>
-				<key>version</key>
-				<dict>
-					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>58</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -33,7 +16,7 @@
 		<key>order</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>60</integer>
+			<integer>81</integer>
 		</dict>
 	</dict>
 </dict>
