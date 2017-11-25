@@ -350,11 +350,11 @@
 			<key>2017-07-09-Digitale-Transformatie.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532905534.648305</real>
+				<real>533344189.593871</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>101</integer>
+					<integer>129</integer>
 				</dict>
 			</dict>
 			<key>2017-09-06-Threads versus posts.md</key>
@@ -370,11 +370,11 @@
 			<key>2017-09-10-Mastodon embed.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532905534.64830399</real>
+				<real>533344189.59263599</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>101</integer>
+					<integer>127</integer>
 				</dict>
 			</dict>
 			<key>2017-10-16-Punkrock Publishing.md</key>
@@ -480,71 +480,71 @@
 			<key>2017-11-17-POSSE en PESOS.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532650792.41989398</real>
+				<real>533344189.59675902</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>98</integer>
+					<integer>131</integer>
 				</dict>
 			</dict>
 			<key>2017-11-18-avondroutine.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532905534.648305</real>
+				<real>533344189.60095298</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>101</integer>
+					<integer>134</integer>
 				</dict>
 			</dict>
 			<key>2017-11-19-leesmap week 46.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532905534.64830601</real>
+				<real>533344189.59333199</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>101</integer>
+					<integer>128</integer>
 				</dict>
 			</dict>
 			<key>2017-11-20-microwoordenboek.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>532905567.476565</real>
+				<real>533344189.59626299</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>102</integer>
+					<integer>130</integer>
 				</dict>
 			</dict>
 			<key>2017-11-22-Podcast over bloggen.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>533076513.46245301</real>
+				<real>533344189.59887397</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>106</integer>
+					<integer>132</integer>
 				</dict>
 			</dict>
 			<key>2017-11-23-20 jaar weblogs.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>533163281.936571</real>
+				<real>533344189.602036</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>110</integer>
+					<integer>135</integer>
 				</dict>
 			</dict>
 			<key>2017-11-25-Jim en Andy.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>533334289.63761097</real>
+				<real>533344189.59968901</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>114</integer>
+					<integer>133</integer>
 				</dict>
 			</dict>
 			<key>2017-11-6-7000.md</key>
@@ -592,13 +592,13 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>532808767.94520998</real>
+				<real>533344468.17218697</real>
 				<key>lastModification</key>
-				<real>532808767.94520998</real>
+				<real>533344468.17218697</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>99</integer>
+					<integer>137</integer>
 				</dict>
 			</dict>
 			<key>2017-9-10-Mastodon embed.md</key>
@@ -606,13 +606,13 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>532808767.945225</real>
+				<real>533344468.14793903</real>
 				<key>lastModification</key>
-				<real>532808767.945225</real>
+				<real>533344468.14793903</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>99</integer>
+					<integer>136</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -810,7 +810,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>115</integer>
+			<integer>137</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
