@@ -7,15 +7,15 @@ layout: default
     <article class="post">
         <span class="post-meta">
     			<header class="post-header">
-        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%B %e, %Y" }}</time>
+        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%e %B %Y" }}</time>
                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         	</header>
     		</span>
-      <div class="entry">
+      <div class="front_entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a>
+      <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
     </article>
   {% endfor %}
 </div>

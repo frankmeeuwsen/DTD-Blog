@@ -349,10 +349,6 @@
 			</dict>
 			<key>2017-07-09-Digitale-Transformatie.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405984.980986</real>
 				<key>lastModification</key>
 				<real>533405984.980986</real>
 				<key>version</key>
@@ -373,10 +369,6 @@
 			</dict>
 			<key>2017-09-10-Mastodon embed.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.09417999</real>
 				<key>lastModification</key>
 				<real>533405985.09417999</real>
 				<key>version</key>
@@ -487,10 +479,6 @@
 			</dict>
 			<key>2017-11-17-POSSE en PESOS.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.02633798</real>
 				<key>lastModification</key>
 				<real>533405985.02633798</real>
 				<key>version</key>
@@ -501,10 +489,6 @@
 			</dict>
 			<key>2017-11-18-avondroutine.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.06581497</real>
 				<key>lastModification</key>
 				<real>533405985.06581497</real>
 				<key>version</key>
@@ -515,10 +499,6 @@
 			</dict>
 			<key>2017-11-19-leesmap week 46.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.10209399</real>
 				<key>lastModification</key>
 				<real>533405985.10209399</real>
 				<key>version</key>
@@ -529,10 +509,6 @@
 			</dict>
 			<key>2017-11-20-microwoordenboek.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.06725401</real>
 				<key>lastModification</key>
 				<real>533405985.06725401</real>
 				<key>version</key>
@@ -543,10 +519,6 @@
 			</dict>
 			<key>2017-11-22-Podcast over bloggen.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.091914</real>
 				<key>lastModification</key>
 				<real>533405985.091914</real>
 				<key>version</key>
@@ -557,10 +529,6 @@
 			</dict>
 			<key>2017-11-23-20 jaar weblogs.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405985.06450701</real>
 				<key>lastModification</key>
 				<real>533405985.06450701</real>
 				<key>version</key>
@@ -571,10 +539,6 @@
 			</dict>
 			<key>2017-11-25-Jim en Andy.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405984.990022</real>
 				<key>lastModification</key>
 				<real>533405984.990022</real>
 				<key>version</key>
@@ -585,10 +549,6 @@
 			</dict>
 			<key>2017-11-26-leesmap week 47.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>533405984.97241098</real>
 				<key>lastModification</key>
 				<real>533405984.97241098</real>
 				<key>version</key>
@@ -639,22 +599,30 @@
 			</dict>
 			<key>2017-7-9-Digitale-Transformatie.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533406123.07672697</real>
 				<key>lastModification</key>
-				<real>533405974.41539001</real>
+				<real>533406123.07672697</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>187</integer>
+					<integer>252</integer>
 				</dict>
 			</dict>
 			<key>2017-9-10-Mastodon embed.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>533406123.06172299</real>
 				<key>lastModification</key>
-				<real>533405974.36845601</real>
+				<real>533406123.06172299</real>
 				<key>version</key>
 				<dict>
 					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-					<integer>186</integer>
+					<integer>251</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -855,7 +823,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>250</integer>
+			<integer>252</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -1,18 +1,21 @@
-.webmention-mention{
-	padding-bottom:25px;
-	font-size: 1rem;
-}
-.webmention-author > a > img {
-	width: 64px;
-	border-radius: 60px;
-	-webkit-border-radius: 60px;
-	-moz-border-radius: 60px;
-}
 .post-meta {
 	display: inline-block;
-	font-size: 1rem;
+	font-size: 1.3rem;
 	line-height: 1.3;
 	color: #9EABB3;
+}
+
+.posts > .post {
+  padding-top: 0.5em;
+  }
+
+.post_thumb{
+	float: left;
+	padding-right: 5px;
+}
+
+.post > .front_entry{
+		display: flex;
 }
 
 img[alt$=">"] {
