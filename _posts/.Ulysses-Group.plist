@@ -547,6 +547,16 @@
 					<integer>155</integer>
 				</dict>
 			</dict>
+			<key>2017-11-26-leesmap week 47.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>533382948.71543902</real>
+				<key>version</key>
+				<dict>
+					<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
+					<integer>162</integer>
+				</dict>
+			</dict>
 			<key>2017-11-6-7000.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -621,6 +631,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-11-26-leesmap week 47.md</string>
+		</array>
 		<array>
 			<string>2017-11-25-Jim en Andy.md</string>
 		</array>
@@ -810,7 +823,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f037341e71de1e50cb7f754747091d3ccf733e3d6dc5b147261ff9afb960dd7c</key>
-			<integer>159</integer>
+			<integer>163</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
