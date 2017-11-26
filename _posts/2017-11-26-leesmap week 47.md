@@ -28,7 +28,12 @@ Het bedrijf Hubspot is nooit mijn favoriet geweest. Ze zijn commercieel enorm su
 In de Verenigde Staten is de strijd om de netneutraliteit in alle hevigheid losgebarsten. En dat is goed, want netneutraliteit is een groot goed wat we moeten behouden. Net als in Nederland zijn er in de USA gebieden waar toegang tot het internet flink te wensen over laat of je te beknot wordt door de grote aanbieders (kuch-bittorrent-kuch). Je kunt bij de pakken neer gaan zitten of er zelf iets aan doen. DIY Internet! Motherboard laat zien hoe in onder andere Detroit buurtbewoners zich organiseren om hun eigen toegang tot het internet te regelen. Het is niet moeilijk, het vereist een beetje technische kunde en wat sociale omgang met elkaar. Een nieuwe stap in het Indieweb denken: Make your own access!  
 🌎[To Save Net Neutrality, We Must Build Our Own Internet][5]
 
-PS: Het mag weer!
+
+**PS:** [Gedachte][6] van de dag
+[![En zo is het!][image-1]][7]
+
+
+**PPS:** Het mag weer!
  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC02/embed_loader.js"></script>
   <script type="text/javascript">
 trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"mariah carey all I want for christmas","geo":"","time":"today 3-m"}],"category":0,"property":""}, {"exploreQuery":"date=today 3-m&q=mariah%20carey%20all%20I%20want%20for%20christmas","guestPath":"https://trends.google.nl:443/trends/embed/"});
@@ -39,3 +44,7 @@ trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"ma
 [3]:	http://cdevroe.com/2017/11/22/curiosity-takes-a-selfie/
 [4]:	https://www.hubspot.com/blog-topic-generator
 [5]:	https://motherboard.vice.com/en_us/article/7x4y8a/net-neutrality-fcc-community-networks
+[6]:	https://twitter.com/BenedictEvans/status/929835670633201664
+[7]:	https://twitter.com/BenedictEvans/status/929835670633201664
+
+[image-1]:	/images/learn.jpg "Leer van je voorgangers"
