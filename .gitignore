@@ -8,3 +8,7 @@ Gemfile.lock
 node_modules
 package.json
 *.plist
+
+_posts/.Ulysses-favorites.plist
+
+_posts/.Ulysses-Group.plist
