@@ -11,6 +11,8 @@ In zijn Zondag met Lubach haalt Arjen argumenten van voor- en tegenstanders naar
 
 Je zult het nooit met iedereen eens zijn en niet iedereen zal het met jou eens worden. En dat hoort zo te blijven. Dat is inderdaad een traditie in ons land. De traditie van tolerantie. De traditie die we écht kwijt dreigen te raken. En dat zou eeuwig zonde zijn. Want dat is meteen het andere punt wat Lubach maakte met zijn Doutzen Kroes fragment: Werd in 2009 bij Pauw & Witteman (VARA!) nog schamper gelachen om haar opmerking dat "Zwarte Piet toch echt niet meer kan", inmiddels is het tij aan het keren. Dat gaat niet heel snel, maar het gebeurt. 
 
+![Het tij keert.][image-1]
+
 Je kunt tegen een rivier schreeuwen dat ze sneller moet stromen om het landschap te veranderen maar het zal geen effect hebben. Evenmin dat je de stroom kunt stoppen met een dam. Die dam zal uiteindelijk breken onder het gewicht van het water. Je kunt van die rivier niet verlangen dat ze ineens de andere kant op zal stromen.
 
 Boosheid, demonstraties en racisme-kaarten zorgen er niet voor dat de veranderingen sneller gaan. Ze gaan zoals ze gaan. In hun eigen tempo. Blokkades, huisbezoeken en invallen brengen een vorm van extremisme met zich mee die zich tegen je keert. 
@@ -24,3 +26,5 @@ Traditie verandert. Altijd. Ik zie liever de traditie van een kinderfeest verand
 
 [1]:	http://www.saarmagazine.nl/bent-gekwetst-bent-gewoon-zeikerd/
 [2]:	https://www.youtube.com/watch?v=KjosGL5YwPw
+
+[image-1]:	/images/grafiek_lubach.jpg "Het verandert"
