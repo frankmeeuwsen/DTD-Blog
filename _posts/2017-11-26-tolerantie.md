@@ -5,7 +5,7 @@ excerpt: Welke traditie zie je liever veranderen?
 published: true
 header: tolerantie.jpg
 ---
-Arjen Lubach weet vaak de juiste argumenten te brengen in heikele discussies. Ik hoef denk ik niet uit te leggen _welke_ heikele discussie de afgelopen week speelt en in elk geval nog tot en met 5 december actueel zal zijn.
+Arjen Lubach weet naar mijn mening de juiste argumenten te brengen in heikele discussies. Ik hoef denk ik niet uit te leggen _welke_ heikele discussie de afgelopen week speelt en in elk geval nog tot en met 5 december actueel zal zijn.
 
 In zijn Zondag met Lubach haalt Arjen argumenten van voor- en tegenstanders naar voren en laat _en passant_ duidelijk doorschemeren wat zijn eigen mening hier in is. En dat is prima. Graag zelfs. Liever duidelijk voor je eigen mening staan en weten dat je tegenwind krijgt dan je verschuilen achter de "ik wil niemand kwetsen" kaart. Iedereen is wel eens gekwetst. Zelfs in [de column][1] van een 50-plus magazine (opa vertelt!) kunnen ze dat duidelijk uitleggen. 
 
