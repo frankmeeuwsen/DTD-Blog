@@ -15,7 +15,7 @@ In het verleden is al eens getracht om met name de Twitter reacties onder te bre
 
 ## Webmentions are coming!
 
-Webmentions zijn een [W3C Recommendation][1] sinds begin 2017 en deze technologie probeert om reacties van andere online plaatsen onder te brengen bij jouw artikel. De blogveteranen kennen wellicht nog de Pingback, die ooit door Movable Type is geïntroduceerd. In Wordpress zit de functie nog, maar het hele systeem van de Pingback is [nogal vervuild][2] door spammers.   
+Webmentions zijn een [W3C Recommendation][1] sinds begin 2017 en deze technologie probeert om reacties van andere online plaatsen onder te brengen bij jouw artikel. De blogveteranen kennen wellicht nog de Pingback en Trackback, die ooit door Movable Type is geïntroduceerd. In Wordpress zit de functie nog, maar het hele systeem van de Pingback is [nogal vervuild][2] door spammers.   
 Webmentions trachten dit probleem te omzeilen. Het werkt in de basis als volgt. Sorry voor de fanboy uitleg, past wel een beetje bij de kop van deze paragraaf:
 
 1. Arya post een blog
