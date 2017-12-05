@@ -35,7 +35,7 @@ Ik kwam op Reddit deze nieuwe band tegen. Geweldige naam, eigen stijl, fijne fro
 🎸[Hands Off Gretel live at Toolmakers Studio][11]
 
 
-[1]:	/indieweb
+[1]:	/Indieweb
 [2]:	http://www.manton.org/2017/11/kickstarter-update-with-indiewebcamp-and-rollout-plans.html
 [3]:	http://www.manton.org/2017/11/kickstarter-update-with-indiewebcamp-and-rollout-plans.html
 [4]:	https://stackingthebricks.com/how-blogs-broke-the-web/
