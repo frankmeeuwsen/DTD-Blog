@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mijn highschool films op orde dankzij Airtable
-excerpt: Airtable maakt het mogelijk om eenvoudig data in te voeren en 
+excerpt: Och hadden die nablijvers maar Airtable in plaats van zo'n saaie schrijfopdracht!
 published: true
 header: breakfastclub.jpg
 ---
