@@ -42,3 +42,14 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
     font-size: small;
     vertical-align: text-top;
 }
+
+
+#page-navigation {
+    font-family: arial;
+    width: 100%;
+}
+#page-navigation div { display: inline-block }
+#page-navigation div.next { float: right }
+
+#page-navigation div.previous a:before { font: 0.8em FontAwesome; content: "\f053\f053"; margin-right: 4px }
+#page-navigation div.next a:after { font: 0.8em FontAwesome; content: "\f054\f054"; margin-left: 4px}
