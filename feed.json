@@ -20,7 +20,7 @@ permalink: feed.json
             "title": {{ post.title | smartify | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "url": "{{ site.url }}{{ post.url }}",
-            "summary": {% if post.url contains "/blog/" %}{{ post.excerpt | smartify | jsonify }}{% else %}{{ post.description | smartify | jsonify }}{% endif %},
+            "summary": {{ post.excerpt | smartify | jsonify }},
             "date_published": "{{ post.date }}"
         }{% unless forloop.last == true %},{% endunless %}
 {% endfor %}
