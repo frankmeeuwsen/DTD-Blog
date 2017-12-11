@@ -17,7 +17,7 @@ Spam-artiesten, phishers en ander online gespuis wordt steeds beter in het verle
 👮🏻‍♂️ [Phishers Are Upping Their Game. So Should You.][6]
 
 ## IndieWebCamp Austin is AAN
-Dit weekend vind in Austin de [IndieWebCamp][7] plaats. Door alle kerstvoorbereidingen heb ik zelf nog niets gezien, gelezen of gehoord maar het staat op mijn zondagavond lijst om even na te gaan wat er gebeurd. Sowiso omdat een klein vogeltje me al heeft ingefluisterd dat er in januari een IndieWebCamp in Amsterdam is gepland... Ik heb binnenkort meer informatie hoop ik!  
+Dit weekend vind in Austin de [IndieWebCamp][7] plaats. Door alle kerstvoorbereidingen heb ik zelf nog niets gezien, gelezen of gehoord maar het staat op mijn zondagavond lijst om even na te gaan wat er gebeurd. Sowieso omdat een klein vogeltje me al heeft ingefluisterd dat er in januari een Homebrew Website Club in Amsterdam is gepland... Ik heb binnenkort meer informatie hoop ik!  
 🏕[IndieWebCamp Austin][8]
 
 ## Vind je publiek
