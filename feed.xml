@@ -12,8 +12,8 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
-          {% if page.header %}
-          <img src="{{ site.url }}{{site.imageurl}}{{ page.header}}">
+          {% if post.header %}
+          <img src="{{ site.url }}{{site.imageurl}}{{ post.header}}">
           {% endif  %}
           {{ post.content | xml_escape }}
         </description>
