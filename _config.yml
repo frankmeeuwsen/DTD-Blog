@@ -17,6 +17,10 @@ author: Frank Meeuwsen
 #Timezone because NL
 timezone: Europe/Amsterdam
 
+# Github repositories
+github_user: frankmeeuwsen
+github_repo_url: https://github.com/frankmeeuwsen/DTD-Blog/
+
 #
 # Flags below are optional
 #

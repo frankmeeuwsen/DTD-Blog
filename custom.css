@@ -34,7 +34,7 @@ img[alt$="<>"] {
     float: none!important;
 }
 
-a {
+.entry a {
 text-decoration: underline;
 }
 
@@ -43,6 +43,43 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
     vertical-align: text-top;
 }
 
+/* Meta stuff */
+.meta {
+    font-size: 13px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    color: #999;
+}
+.meta a {
+    color: #999;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+.meta a:hover { color: #666 }
+.meta .date,
+.meta .tags,
+.meta .history,
+.meta .edit { padding-right: 10px }
+.meta .date:before,
+.meta .tags:before {
+    color: #ccc;
+    font: 1.1em FontAwesome;
+    left: 0;
+    margin-right: 5px;
+}
+.meta .history a:before,
+.meta .edit a:before {
+    color: #ccc;
+    font: 1.1em FontAwesome;
+    left: 0;
+    margin-right: 5px;
+}
+.meta .date:before { content: "\f073" }
+.meta .tags:before { content: "\f02c" }
+.meta .history a:before { content: "\f1da" }
+.meta .edit a:before { content: "\f044" }
 
 #page-navigation {
     font-family: arial;
