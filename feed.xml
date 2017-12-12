@@ -12,9 +12,6 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
-          {% if post.header %}
-          <img src="{{ site.url }}{{site.imageurl}}{{ post.header}}">
-          {% endif  %}
           {{ post.content | xml_escape }}
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
