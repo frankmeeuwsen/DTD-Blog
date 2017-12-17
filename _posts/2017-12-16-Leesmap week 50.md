@@ -27,8 +27,7 @@ gebruik van de term ’Het Utrechtse stadje U’ en ’Het Amsterdamse stadje A�
 
 Bovenstaande citeer ik trouwens vrijelijk uit mijn eigen boek Bloghelden, extragratis te downloaden op [Bloghelden.nl][11] en te remixen via [Github][12]. Wist je dat er zelfs een animated gif van mijn boek is? Kicken!
 
-![][image-1]
-
+<img src="/images/bloghelden-boekversie.gif" alt="Animated bloghelden" style="width: 200px; display: block; margin: 0 auto;"/>
 
 ## Archief van weblogzine About:blank
 ![][image-2]  
