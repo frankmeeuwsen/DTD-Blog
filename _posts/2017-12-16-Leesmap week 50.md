@@ -1,0 +1,69 @@
+---
+layout: post
+title: De Weblog-leesmap van week 50
+excerpt: Het woord weblog is vandaag 20 jaar oud. Een speciale leesmap met speciale links.
+published: true
+header: weblog20.jpg
+---
+Het lijkt er op dat hier het licht ook even [uit][1] was zoals ik mobiel op Twitter en Facebook heb gedaan. Niets is minder waar. Ideeën en onderwerpen genoeg maar net even niet die _spark_ of de zin om het op te schrijven. Daar heb je het al, dat bloggen is hard werken! 
+
+En dat al 20 jaar! Voor het woord webloggen. Dat is vandaag 20 jaar oud [volgens Wikipedia][2]. De kunst van het bloggen zelf is [een paar jaar ouder][3], maar de eerste jaren had het nog niet die naam. Daarom in deze leesmap een persoonlijke, incomplete en subjectieve terugblik op webloggen. Zoals de weblog godfather Dave Winer [zegt in een interview][4] in The Guardian: "There will always be Natural Born Bloggers" 
+
+## Justin Hall en Robotwisdom
+De twee oerbloggers. Het woord webloggen komt van Robotwisdom, die het voor [het eerst noemde][5] in 1997. Justin Hall was toen al een paar jaar bezig op zijn eigen studentensite. Het mooie is dat Hall [nog steeds actief is][6] en je zelfs [zijn complete archief][7] kunt teruglezen. Jorn Barger, de maker van de Robot Wisdom Weblog, begon zijn eclectische schatkist met links in 1997 en werd al snel geroemd als een van de beste blogs op het web. Het blog is inmiddels al lang gesloten, maar Barger is nog wel actief op [Twitter][8].
+
+## Alt0169 en Tonie
+Deze leesmap zou niet compleet zijn zonder een diepe buiging naar twee pioniers in het Nederlandse webloglandschap: Tonie en Alt0169.  
+Tonie van Ringelestijn gaf tussen 1999 en 2003 het Nederlandse webloglandschap vorm met [zijn Kladblok][9]. Als journalist voor destijds Planet Multimedia was Tonie de ganse dag online...
+
+> Tijdens mijn research op het web voor andere artikelen kwam ik veel interessants tegen. Dat bewaarde ik op die site. Daar komt de naam Kladblok vandaan, het was letterlijk mijn kladblok waar ik allerlei links en aantekeningen op zette. Alles wat ik tegenkwam wat niet op Planet gepubliceerd zou worden, dat zette ik op Kladblok. Zo is het allemaal begonnen. Bij Blogger was ik de twintigste abonnee op hun dienst.
+
+Tonie was voor veel Nederlandse bloggers het voorbeeld en de vonk om zelf te starten. Daarnaast waren er de cowboys van [Alt0169][10], die elke dag "het internet uitlezen". Robert van Eijden alias Oxysept begon samen met Jeroen Bosch (de Kolonel) en Joep Vermaat (a.k.a Pjoe) Alt0169.com. De site zag op 
+16 augustus 1999 het levenslicht en het was direct een hit. Omdat het zo anders was, zo vernieuwend voor het Nederlandse web. De schrijvers op Alt0169 noemden zich Newswatchers: 
+> We maakten geen nieuws, we lazen nieuws. Een handvol human agents die als intensieve lezers dagelijks een stuk of wat maal het ganse internet aflazen en zo heel veel dingen tegenkwamen. Design, techniek, nieuws, internet: heel breed.
+
+Ze bedenken eigen termen en het vernederlandsen van Engelse termen wordt een sport bij de schrijvers. Beruchte voorbeelden van het spelen met taal zijn: ’wat ik je brom’, ’internot’, ’stromende media’ en ’Geile Neukseks’. Het 
+gebruik van de term ’Het Utrechtse stadje U’ en ’Het Amsterdamse stadje A’ komt van Alt0169 en is nog een vaak gebruikte term op diverse websites en sociale netwerken.
+
+Bovenstaande citeer ik trouwens vrijelijk uit mijn eigen boek Bloghelden, extragratis te downloaden op [Bloghelden.nl][11] en te remixen via [Github][12]. Wist je dat er zelfs een animated gif van mijn boek is? Kicken!
+
+![][image-1]
+
+
+## Archief van weblogzine About:blank
+![][image-2]  
+In juni 2002 startten Remco Sikkema en Raoul Dovermann (respectievelijk van Sikkema.net en Elrado.nl, pioniers!) met de website About:blank, het clubblaadje voor webloggend Nederland . Genoemd naar de lege startpagina in elke browser en gevuld door een aantal bloggers van verschillend allooi. Het magazine begon als een website maar werd al snel een email nieuwsbrief.   
+Deze email nieuwsbrief is inmiddels al weer opgeheven, maar gelukkig is er nog zoiets als oude mailboxen en mailarchieven. Ik heb een deel van de edities teruggevonden in mijn eigen mailarchief. Ik heb [deze weer online gezet][13] en het biedt de mogelijkheid om er zelf edities aan toe te voegen!
+
+**[About:Blank Mailarchief][14]**
+
+Op Github vind je de edities die ik heb teruggevonden. Maar vul ze gerust aan. Heb jij nog missende episodes van de nieuwsbrief? Mail ze en ik zorg dat ze worden toegevoegd aan de verzameling. Voor de kenners is het ook mogelijk om zelf een pull request te doen via Github.
+
+Op dit moment staan alleen de tekstversies nog in het archief. We hadden in de laatste periode een mooie HTML nieuwsbrief. Deze moet ik nog op een slimme manier uit de mail in een webpagina krijgen. Zonder dat ik alles handmatig ga doen natuurlijk. Tips en ideeën hoe dat te doen zijn welkom! Vul aan, doe mee en maak een deel van de Nederlandse internethistorie weer zichtbaar en toegankelijk voor de toekomst!
+
+## Bloggen in 2018?
+Blijven blogs bestaan in 2018 en verder? Natuurlijk. De vorm verandert. Het platform verandert. Maar de conversaties blijven bestaan. Het web blijft een vrijplaats voor ongefilterde meningen en blogs zijn daar nog altijd het beste medium voor. Onafhankelijk, vrij van algoritmes en regelgeving door de aanbieder van sociale platformen en de vrijheid om elke vorm te maken die je wilt. 
+
+Blog on!
+
+### Headerbeeld
+Met dank aan [Jeroen Mirck][15] voor het beeld in de header.
+
+[1]:	/uit
+[2]:	https://en.wikipedia.org/wiki/Blog#cite_ref-9
+[3]:	https://www.theguardian.com/media/2014/jan/29/blog-turns-twenty-conversation-internet-pioneers
+[4]:	https://www.theguardian.com/media/2014/jan/29/blog-turns-twenty-conversation-internet-pioneers
+[5]:	https://web.archive.org/web/19991128034650/http://robotwisdom.com:80/log1997m12.html
+[6]:	http://links.net/
+[7]:	http://links.net/vita/web/start/original.html
+[8]:	https://twitter.com/bnroj
+[9]:	http://www.tonie.net/index.php
+[10]:	http://web.archive.org/web/20010601162542/http://www.alt0169.com:80/
+[11]:	http://bloghelden.nl/
+[12]:	https://github.com/frankmeeuwsen/Bloghelden
+[13]:	https://github.com/frankmeeuwsen/AboutBlank-Edities
+[14]:	https://github.com/frankmeeuwsen/AboutBlank-Edities
+[15]:	https://www.flickr.com/photos/comicbase/2111783373/in/photolist-4dHdwk-4dBrCa-4pn94d-4pi5XZ-4pn847-4pn8Dm-4pi6yB-4pn8rE-4pi6Ze-4pi5Cr
+
+[image-1]:	/images/bloghelden-boekversie.gif
+[image-2]:	/images/abfront.jpg
