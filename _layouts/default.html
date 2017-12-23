@@ -43,6 +43,26 @@
       {{ content }}
     </div>
 
+{% if paginator.posts %}
+    <!-- Pagination links -->
+      <div class="pagination_s">
+        <span>
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class=""><p class="switch">►</p></a>
+          {% else %}
+          <a href="" class="pagination-inactive"><p class="switch pagination-inactive">►</p></a>
+          {% endif %}
+        </span>
+      {% if paginator.next_page %}
+      <span>
+        <a href="{{ paginator.next_page_path }}" class=""><p>►</p></a>
+        {% else %}
+        <a href="{{ paginator.next_page_path }}" class=""><p>►</p></a>
+        {% endif %}
+      </span>
+      </div>
+{% endif %}
+
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
