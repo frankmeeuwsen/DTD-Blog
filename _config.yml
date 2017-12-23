@@ -11,6 +11,10 @@ description: Vol blogdrift.
 # avatar: https://en.gravatar.com/userimage/430112/485038288f32582f20027a121f3fd538.jpg?size=200
 avatar: https://cl.ly/1F0o2W1r3302/Image%202017-03-09%20at%2010.09.10%20PM.png
 
+#pagination
+paginate: 10
+paginate_path: "/page:num/"
+
 #Author information
 author: Frank Meeuwsen
 
