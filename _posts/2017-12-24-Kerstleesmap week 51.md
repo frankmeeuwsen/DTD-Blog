@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ho ho ho! Vrolijke leesdagen!
-excerpt: Hoeveel Home Alone en Die Hard kan een mens verdragen met Kerst? Daarom lekker lezen!
+excerpt: Hoeveel Home Alone en Die Hard kan een mens verdragen met Kerst? Daarom lekker lezen met deze Kerstleesmap!
 published: true
 header: leesmapkerst.jpg
 ---
@@ -10,7 +10,7 @@ De 3FM DJ's mogen bijna weer naar huis, de eerste levende kerststallen worden kl
 Fijne feestdagen allen!
 
 ## Zines had it right all along
-'Zines blijven bestaan. Ondanks de online magazine, weblogs, mobiele tijdlijnen, blijven we enthousiast over mooie magazines. Met name diegenen die zijn gemaakt door onafhankelijke uitgevers, heerlijk in de hand liggen, met aandacht zijn gemaakt (zelfs de advertenties!) en durven te experimenteren. Mijn persoonlijke favoriet blijft Offscreen Magazine, waar ik [al eerder][1] over schreef. Nieman Lab geeft de onafhankelijke 'zines een terechte plaats in zijn journalistieke voorspellingen voor 2018   
+'Zines blijven bestaan. Ondanks de online magazine, weblogs, mobiele tijdlijnen, blijven we enthousiast over mooie magazines. Met name diegenen die zijn gemaakt door onafhankelijke uitgevers, heerlijk in de hand liggen, met aandacht zijn gemaakt (zelfs de advertenties!) en durven te experimenteren. Mijn persoonlijke favoriet blijft Offscreen Magazine, waar ik [al eerder][1] over schreef. Nieman Lab geeft de onafhankelijke 'zines een terechte plaats in zijn journalistieke voorspellingen voor 2018  
 🖍['Zines had it right all along!][2]
 
 ## That loving feeling
