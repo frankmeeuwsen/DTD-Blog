@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% if post.title != "" %}
     <article class="post">
         <span class="post-meta">
     			<header class="post-header">
@@ -17,5 +18,25 @@ layout: default
 
       <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
     </article>
+    {% else %}
+
+    <article class="post">
+        <span class="post-meta">
+    			<header class="post-header">
+        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%e %B %Y" }}</time>
+                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        	</header>
+    		</span>
+      <div class="front_entry">
+        {% for mf-photo in post.mf-photo limit:1 %}
+        <img src="{{ mf-photo }}" width="25%" class="ig-thumb-front">
+        {% endfor %}
+        {{ post.excerpt }}
+      </div>
+
+      <p><a href="{{ post.mf-syndication }}" class="read-more">Check op Instagram</a></p>
+    </article>
+
+    {% endif %}
   {% endfor %}
 </div>

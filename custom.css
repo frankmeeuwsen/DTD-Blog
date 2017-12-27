@@ -244,3 +244,9 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
 pagination-inactive {
 		display: none;
 	}
+
+/* Instagram */
+.ig-thumb-front {
+	margin-top: 15px;
+	margin-right: 10px;
+}
