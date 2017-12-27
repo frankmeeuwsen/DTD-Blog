@@ -29,9 +29,13 @@ layout: default
     		</span>
       <div class="front_entry">
         {% for mf-photo in post.mf-photo limit:1 %}
-        <img src="{{ mf-photo }}" width="150px" class="ig-thumb-front">
+          <div class="image-front">
+            <img src="{{ mf-photo }}" class="ig-thumb-front">
+          </div>
         {% endfor %}
+        <div class="text-front">
         {{ post.excerpt }}
+      </div>
       </div>
 
       <p><a href="{{ post.mf-syndication }}" class="read-more">Check op Instagram</a></p>

@@ -15,7 +15,7 @@
 }
 
 .post > .front_entry{
-		display: flex;
+		display: block;
 }
 
 img[alt$=">"] {
@@ -245,8 +245,18 @@ pagination-inactive {
 		display: none;
 	}
 
-/* Instagram */
+/* Instagram frontpage*/
+.image-front{
+	display: block;
+}
+.text-front{
+
+}
+
 .ig-thumb-front {
-	margin-top: 15px;
-	margin-right: 10px;
+	width: 50%;
+	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
