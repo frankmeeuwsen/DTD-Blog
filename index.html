@@ -30,7 +30,7 @@ layout: default
       <div class="front_entry">
         {% for mf-photo in post.mf-photo limit:1 %}
           <div class="image-front">
-            <img src="{{ mf-photo }}" class="ig-thumb-front">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ mf-photo }}" class="ig-thumb-front"></a>
           </div>
         {% endfor %}
         <div class="text-front">
