@@ -41,7 +41,7 @@ Wat ik nog wil doen met deze koppeling is de reacties en hartjes van elke Instag
 
 ## Doe mij ook zo'n lokaal Instagram archief!
 Mja, dat is makkelijker gezegd dan gedaan. Ik zal er nog eens een uitgebreide post aan wijden hoe ik nu exact te werk ben gegaan en welke stappen je moet zetten. Maar ik waarschuw je, het is verre van eenvoudig en het vereist wel wat meer technische kennis dan een plugin installeren of een WordPress theme configureren. Er zijn weinig vinkboxen en keuzemogelijkheden, veel is zelf uitdokteren en leren terwijl je werkt. Heb je daar geen trek in, begin er dan niet aan. Heb je er wel trek in , begin dan met het concept van [Micropub][15]. Vanuit daar kun je alle kanten op...
-\<a href="[https://news.indieweb.org/nl][16]" class="u-syndication"\>\</a\>
+<a href="https://news.indieweb.org/nl" class="u-syndication"></a>
 
 [1]:	https://stackoverflow.com/
 [2]:	/Indieweb
@@ -58,4 +58,3 @@ Mja, dat is makkelijker gezegd dan gedaan. Ik zal er nog eens een uitgebreide po
 [13]:	https://brid.gy/instagram/frankmeeuwsen
 [14]:	/webmentions
 [15]:	https://indieweb.org/Micropub
-[16]:	https://news.indieweb.org/nl
