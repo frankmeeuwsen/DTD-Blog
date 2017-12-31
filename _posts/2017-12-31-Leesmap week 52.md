@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: De laatste leesmap van 2017
