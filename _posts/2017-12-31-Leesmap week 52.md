@@ -2,7 +2,7 @@
 ---
 layout: post
 title: De laatste leesmap van 2017
-excerpt:
+excerpt: Knal het jaar uit met deze Indieweb-leestips!
 published: true
 header: leesmap.jpg
 syndication: indienews
