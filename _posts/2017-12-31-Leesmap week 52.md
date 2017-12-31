@@ -35,6 +35,7 @@ Het kan liggen aan de bubbel waar ik zelf in ben gestapt, maar ik word blij van 
 Kaliber uit Utrecht schrijft een fan-tas-tisch stuk over digitale pioniers in de muziekindustrie. Van David Bowie naar KLF en Radiohead. Een echte aanrader om te lezen hoe artiesten hun eigen weg kiezen, van de gebaande paden. Om zelf ergens te komen waar ze blij van worden, fans blij maken en uiteindelijk nog wat geld verdienen! Mooi!  
 🎹[ Kaliber - Internetpioniers in de muziekindustrie ][8]
 
+<a href="https://news.indieweb.org/nl" class="u-syndication"></a>
 
 [1]:	https://dasblog.svbtle.com/knutselen-met-code
 [2]:	https://dasblog.svbtle.com/knutselen-met-code
