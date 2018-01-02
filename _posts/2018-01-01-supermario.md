@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In het nieuwe jaar een oud spel spelen
-Excerpt: Lekker Super Mario spelen!
+excerpt: Lekker Super Mario spelen!
 date: 2018-01-01 22:42:52
 published: true
 ---
