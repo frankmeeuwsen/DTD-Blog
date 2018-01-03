@@ -8,7 +8,27 @@ layout: default
     <article class="post">
         <span class="post-meta">
     			<header class="post-header">
-        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%e %B %Y" }}</time>
+            <time datetime={{ post.date }}>
+            <!-- Whitespace added for readability -->
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}januari
+              {% when '2' %}februari
+              {% when '3' %}maart
+              {% when '4' %}april
+              {% when '5' %}mei
+              {% when '6' %}juni
+              {% when '7' %}juli
+              {% when '8' %}augustus
+              {% when '9' %}september
+              {% when '10' %}oktober
+              {% when '11' %}november
+              {% when '12' %}december
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+            </time>
+
                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         	</header>
     		</span>
@@ -23,7 +43,27 @@ layout: default
     <article class="post">
         <span class="post-meta">
     			<header class="post-header">
-        			<time datetime={{ post.date | date: "%Y-%b-%e" }}>{{ post.date | date: "%e %B %Y" }}</time>
+            <time datetime={{ post.date }}>
+            <!-- Whitespace added for readability -->
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}januari
+              {% when '2' %}februari
+              {% when '3' %}maart
+              {% when '4' %}april
+              {% when '5' %}mei
+              {% when '6' %}juni
+              {% when '7' %}juli
+              {% when '8' %}augustus
+              {% when '9' %}september
+              {% when '10' %}oktober
+              {% when '11' %}november
+              {% when '12' %}december
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+            </time>
+
                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         	</header>
     		</span>
