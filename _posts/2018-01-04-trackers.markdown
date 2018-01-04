@@ -1,0 +1,29 @@
+---
+layout: post
+title: Heb ik echt statistieken nodig?
+date: 2018-01-04 11:16
+published: true
+header:
+---
+
+Stel je voor dat je op visite bent bij een vriend. Je kijkt wat rond in zijn huis en geeft een compliment over de inrichting, specifiek een boekenkast die aan de muur staat. Vanaf dat moment bestookt je vriend je met aanverwante producten, hij mailt je ideeen voor de inrichting van de boekenkast die je nog niet hebt, je ziet overal boekenkasten in het straatbeeld en op een dag ligt er een aanbieding voor een soortgelijke boekenkast in de bus.
+
+Als je op bezoek bent in een winkelcentrum en je laat bewust je mailadres bij een winkel achter, dan weet je wat je kunt verwachten. Meer aanbiedingen, meer producten en meer spullen waar je vaak geen behoefte aan hebt. Je verwachtingen bij een bezoek aan een commerciële omgeving zijn anders dan je verwachtingen bij een privé bezoek. Helemaal als het om de gevolgen gaat van dat bezoek.
+
+## Roeptoeter
+Welnu, dit is een persoonlijke site. Ik heb niets te verkopen. De belangrijkste reden voor mij om dit te doen is zodat ik kan schrijven. En publiceren. Ik vind schrijven voor een publiek leuk. Maar ik merk dat ik vrijwel nooit naar de statistieken van deze site kijk. Ik heb heel lang Google Analytics gebruikt. Uit gewoonte. Want als je een site hebt, dan zet je er Google Analytics op, zodat je vrij eenvoudig kunt nagaan welke pagina's populair zijn, waar je publiek vandaan komt, hoe lang ze op je site blijven en soms nog welke zoekwoorden relevant zijn. Daar kun je dan je site op aanpassen. Je kunt zien welke soort artikelen populair zijn en daar dus meer van schrijven. Maar ben je dan nog voor jezelf bezig of alleen voor je publiek?
+
+De waarheid ligt ergens in het midden en zal voor iedereen anders zijn. Voor mij is de waarheid dat ik eigenlijk geen trackers meer op mijn site wil. De reden is omdat ik zélf al sinds jaar en dag allerlei trackers blokkeer en me afscherm voor online advertenties. Met browser-extensies als [Ghostery](https://www.ghostery.com/) en [Adblock Plus](https://adblockplus.org/nl/) kan ik bij een site vrij nauwkeurig zien welke trackers er zijn geïnstalleerd. Soms is dat slechts een statistieken code, soms wat plugintrackers die er voor zorgen dat ik direct iets kan _liken_ op Facebook of kan iemand kan volgen op Twitter. En er zijn talloze trackers die veel meer van me registreren en voor grof geld beschikbaar stellen aan adverteerders. Met als gevolg een constante roeptoeter achter je die iets over een boekenkast in je oor schreeuwt terwijl je eigenlijk een interessant artikel wilt lezen. Je hebt trouwens al lang een boekenkast, maar dat weten de data-baronnen (nog) niet...
+
+Recent hoorde ik in een podcast een ander mening van [Boris Veldhuijzen van Zanten](http://www.boris.to/), de CEO van The Next Web. Ik heb Boris érg hoog zitten, dus zijn opmerking deed me wel even wankelen. Hij laat alle advertenties en browser-trackers toe want "op die manier kan ik er voor zorgen dat adverteerders mij beter leren kennen en me hopelijk dus betere advertenties serveren in plaats van de troep die ik nu krijg". Daar zit iets in, maar een korte test van slechts tien minuten zonder adblockers maakten me al redelijk panisch over alle banners die ik voorgeschoteld kreeg. Niet eens de inhoud van de banners, maar gewoon de _hoeveelheid_. Het is té veel.
+
+## Ik volg je niet
+Op deze website staan geen trackers meer. Ik denk namelijk dat ik een publiek heb wat iets meer _tech-savvy_ is en eveneens plugins en ad-blockers heeft geïnstalleerd. Ik maak het mijn publiek dan zo makkelijk mogelijk. In Ghostery zie je vanaf nu dit.
+
+![trackers](/images/trackers.jpg)
+
+Ik hou me liever bezig met het maken van goede webcontent dan me bezig te houden met wat wel en niet zou kunnen werken. Uit de statistieken díe ik nog heb weet ik dat [mijn artikel over dyslexie](/Dsxyliea/) erg goed wordt bezocht. Dagelijks komen bezoekers vanaf allerlei dyslexie fora. Moet ik dan meer over dat onderwerp schrijven? Dyslexie was een handig onderwerp om wat te spelen met een specifiek Javascript. Meer niet. Maar omdat ik daar veel bezoekers op krijg, moet ik die _niche_ dan verder uitdiepen? Liever ga ik weer verder met andere onderwerpen.
+
+Dit blog is op dit moment geen manier om geld te verdienen. Ik heb gewoon een baan en krijg maandelijks een salaris. Dit is een hobby. Ik hoef hier niets mee te verdienen. Wellicht verandert dat ooit weer. Misschien installeer ik dan wel weer een tracker. Maar dan liever één waar ik zelf controle heb over de data, zoals [Piwik](https://piwik.org/). Ik kan dit op een eigen webserver installeren en zo hou ik in elk geval alle data bij mij in plaats van bij een derde partij. Ik heb me nog steeds niet heel erg verdiept in wat Google met de gegevens doet, maar ik voelde het voor mezelf niet kloppen om trackers op een persoonlijke site te zetten terwijl ik ze zelf blokkeer. Dat is voor mij de belangrijkste reden.
+
+In het proces van het verwijderen (wat eigenlijk niet meer was dan één regel code uitschakelen) heb ik direct de Disqus reactiepanelen uitgeschakeld. Op een enkeling na reageert hier niemand. Wat OK is. Ik krijg reacties via sociale kanalen, via e-mail en in persoon. Daar ben ik blij mee. Wil je wel echt reageren op iets wat ik heb geschreven? Schrijf dan zelf een blog en link naar mij. Zo maken we het web weer een beetje meer zoals het was.
