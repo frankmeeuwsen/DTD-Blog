@@ -13,7 +13,6 @@ layout: default
     {{ content }}
   </div>
 
-
   <div id="page-navigation">
       <div class="previous">
   {% if page.previous.url %}
@@ -29,8 +28,10 @@ layout: default
   {% endif %}
       </div>
   </div>
+{% if page.syndication %}
+<a href="https://news.indieweb.org/nl" class="u-syndication"></a>
+{% endif %}
 
-  {% include webmentions.html %}
-  {% include disqus.html %}
+{% include webmentions.html %}
 
 </article>
