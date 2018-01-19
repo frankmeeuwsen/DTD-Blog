@@ -4,10 +4,9 @@ title: Bloggen is voorbij?
 excerpt: Volgens de New Yorker in elk geval wel
 published: true
 ---
+Het artikel in de New Yorker begint met de volgende quote:
 
-
-Het artikel in de New Yorker begint met:
-“Blogging, that much-maligned pastime, is gradually but surely disappearing from the Internet, and so, consequently, is a lot of online freedom and fun.”
+> “Blogging, that much-maligned pastime, is gradually but surely disappearing from the Internet, and so, consequently, is a lot of online freedom and fun.”
 
 Ze weten in elk geval de beste trucs van blogs te gebruiken om aandacht te krijgen.
 
