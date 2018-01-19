@@ -6,10 +6,12 @@ published: true
 ---
 
 
-H
+Het artikel in de New Yorker begint met:
 “Blogging, that much-maligned pastime, is gradually but surely disappearing from the Internet, and so, consequently, is a lot of online freedom and fun.”
 
 Ze weten in elk geval de beste trucs van blogs te gebruiken om aandacht te krijgen.
+
+De rest ga ik morgen eens op mijn gemak lezen...
 
 [The End of the Awl and the Vanishing of Freedom and Fun from the Internet][1]
 
