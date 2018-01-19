@@ -14,4 +14,6 @@ De rest ga ik morgen eens op mijn gemak lezen...
 
 [The End of the Awl and the Vanishing of Freedom and Fun from the Internet][1]
 
+**update**: een fijn persoonlijk stuk van de auteur over haar tijd bij The Awl maar verder weinig inhoud en onderbouwing voor de opening van haar stuk zoals hierboven gequote. Het lijkt wel een blogpost...
+
 [1]:	https://www.newyorker.com/culture/cultural-comment/the-end-of-the-awl-and-the-vanishing-of-freedom-and-fun-from-the-internet
