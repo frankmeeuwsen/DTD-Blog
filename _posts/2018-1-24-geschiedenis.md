@@ -16,8 +16,11 @@ Mijn podcast van dit moment is [The Internet History Podcast][1] van Brian McCul
 
 Een aanrader voor iedereen die interesse heeft in de geschiedenis van het web en het internet: [The Internet History Podcast][2]
 
+En kleine reminder, wil je meer weten over de Nederlandse weblog-geschiedenis, [Bloghelden][3] is nog altijd open source online te vinden!
+
 
 [1]:	http://www.internethistorypodcast.com/
 [2]:	http://www.internethistorypodcast.com/
+[3]:	http://bloghelden.nl/
 
 [image-1]:	/images/mosaic.jpg
