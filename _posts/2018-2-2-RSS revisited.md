@@ -14,7 +14,7 @@ Hoe kan het dan toch dat het abonneren op een website nog zo lastig is?
 ## RSS
 Nee, ik ga niet nóg een keer uitleggen wat RSS is. Het protocol is zwaar ondergewaardeerd en ik begrijp nog steeds niet waarom grote partijen als Google en Apple er niet meer werk van maken om het abonneren op sites interessanter te maken via dit open protocol.
 
-Maar misschien zit daar het probleem. Het is een open protocol. Het is geen AMP of Facebook News of Apple News waar een verdienmodel aan is te koppelen. Websites met AMP pagina's komen hoger in de zoekresultaten, Facebook News pagina's beter in je newsfeed (al verandert dat per maancyclus lijkt het) en zo zijn er door de sociale silo's prima verdienmodellen aan te knopen. Bij RSS is dat niet het geval. Of in elk geval moeilijker. Er zijn sites die een abonnement aanbieden waarna je een private feed krijgt met bijvoorbeeld meer achtergrond verhalen. 
+Maar misschien zit daar het probleem. Het is een open protocol. Het is geen AMP of Facebook Instant Articles of Apple News waar een verdienmodel aan is te koppelen. Websites met AMP pagina's komen hoger in de zoekresultaten, Facebook Instant Articles pagina's beter in je newsfeed (al verandert dat per maancyclus lijkt het) en zo zijn er door de sociale silo's prima verdienmodellen aan te knopen. Bij RSS is dat niet het geval. Of in elk geval moeilijker. Er zijn sites die een abonnement aanbieden waarna je een private feed krijgt met bijvoorbeeld meer achtergrond verhalen. 
 
 Toch wil het nog steeds niet lukken met RSS. Op Micro.blog is vanmiddag een gezonde en leuke conversatie gaande over RSS, de problemen van de "Subscribe" knop, hoe je afhankelijk bent van browsers en welke rol designers en ontwikkelaars kunnen spelen in dit gebied. 
 
