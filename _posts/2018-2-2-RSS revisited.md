@@ -23,6 +23,7 @@ Ter lezing ende vrijdagmiddagvermaak, hier wat links naar de gesprekken die nu s
 * Colin Walker - "[There has to be a better way to subscribe to sites.][2]"
 * Colin Walker- "[Every blog should have a Subscribe button.][3]"
 * Matthew Lang - [RSS Discovery][4]
+* Robin Rendle - [How to read the Internet][5]
 
 Is het de moeite waard om nog één keer te proberen het abonneren op websites wijdverspreid te maken, zonder afhankelijk te zijn van gesloten sociale netwerken?
 
@@ -32,3 +33,4 @@ Photo credit: <a href="https://visualhunt.com/author/eb7677">Internet Archive Bo
 [2]:	https://colinwalker.blog/02-02-2018-1241/
 [3]:	https://colinwalker.blog/02-02-2018-0916/
 [4]:	http://mattisms.blog/2018/02/02/rss-discovery.html
+[5]:	https://robinrendle.com/notes/how-to-read-the-internet/
