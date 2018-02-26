@@ -7,6 +7,8 @@ published: true
 ---
 Een oud-student van me stelde [een vraag](https://www.linkedin.com/feed/update/urn:li:activity:6372821953400569856) op LinkedIn naar aanleiding van [mijn vertrek](/mijn-facebook-account-is-echt-weg/) op Facebook. Ik zat driftig een antwoord te typen toen ik er aan het einde achter kwam dat LinkedIn een maximum limiet heeft aan zijn reacties. Flauwekul en typisch een manier om je huurders (het blijft tenslotte niet je eigen plek) in een format te dwingen. Daarom bij deze het volledige antwoord. Waar ik bij mijn LinkedIn reactie naar verwijs. Wel zo handig.
 
+![](/images/rowan.jpg)
+
 Rowan Lodder stelde me de vraag waarom ik wel van Facebook vertrek maar niet van LinkedIn. Mijn antwoord
 
 >Prima vraag Rowan! De belangrijkste reden om er mee te stoppen is het besef dat ik door actief Facebook te gebruiken ten eerste meer consumeer dan produceer. Minder op allerlei tijdlijnen zitten is wel zo prettig. Ten tweede, het negatieve nieuws van en over Facebook draagt er eveneens aan bij. De hoeveelheid data die ze verzamelen en beschikbaar stellen aan adverteerders is afschrikwekkend. Ik ben niet op mijn achterhoofd gevallen, ik snap heus wel dat mijn afscheid nu niet betekent dat die data niet op een andere manier wordt verzameld. Maar aan de andere kant wil dat niet zeggen dat ik dan maar moet blijven. Tenslotte heb ik over tijd gemerkt dat ik de berichten op Facebook niet mis. Het is extra informatie waar ik niet actief naar op zoek was maar waar ik wel "iets" mee moet (antwoorden, negeren, verwerken) en wat extra hersencapaciteit vraagt. Die zet ik liever in voor andere zaken. 
