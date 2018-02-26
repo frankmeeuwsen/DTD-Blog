@@ -5,7 +5,7 @@ date: 2018-02-26T14:30:31+01:00
 excerpt: 
 published: true
 ---
-Een oud-student van me stelde [een vraag](https://www.linkedin.com/feed/update/urn:li:activity:6372821953400569856) op LinkedIn naar aanleiding van [mijn vertrek](/mijn-facebook-account-is-echt-weg/) op Facebook. Ik zat driftig een antwoord te typen toen ik er aan het einde achter kwam dat LinkedIn een maximum limiet heeft aan zijn reacties. Flauwekul en typisch een manier om je huurders (het blijft tenslotte niet je eigen plek) in een format te dwingen. Daarom bij deze het volledige antwoord. Waar ik bij mijn LinkedIn reactie naar verwijs. Wel zo handig.
+Een oud-student van me stelde [een vraag](https://www.linkedin.com/feed/update/urn:li:activity:6372821953400569856) op LinkedIn naar aanleiding van [mijn vertrek](/mijn-facebook-account-is-echt-weg/) op Facebook. Ik zat driftig een antwoord te typen toen ik er aan het einde achter kwam dat LinkedIn een maximum limiet heeft aan zijn reacties. Flauwekul en typisch een manier om je huurders (het blijft tenslotte niet je eigen plek) in een format te dwingen. Daarom bij deze het volledige antwoord. Waar ik bij mijn LinkedIn reactie naar verwijs. Wel zo handig. Zie het screenshot of scroll verder voor de geschreven tekst.
 
 ![](/images/rowan.jpg)
 
