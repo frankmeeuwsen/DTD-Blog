@@ -19,3 +19,9 @@ Sowieso is de schrijver van deze blogpost een favoriet van me, met het fraaie ve
 Ja... laat het schrijven van literatuur en songteksten maar over aan de robots. Een beetje flauw natuurlijk, maar wat ik echt interessant vind is de uitleg van Sloan over _autoencoders_ en wat hij zelf _sentence gradients_ noemt, de tussenliggende zinnen die worden gegenereerd. Verder in het artikel neemt hij nog een nieuwe stap, de _sentence neighborhoods_. Hiermee kun je op basis van een gegeven zin, alternatieven krijgen met een zelf bepaalde afstand tot het origineel. Probeer het zelf eens. De zinnen die je krijgt zijn echt niet allemaal bruikbaar, maar ik vind het interessant hoe je op deze manier met taal en woorden kunt spelen. Hoe je dit uit code kunt genereren. Ik begrijp het niet, ik denk niet dat ik het ooit echt ga begrijpen, maar het fascineert me dat we ons eigen bedachte construct van taal weer kunnen vangen in programmeertaal en er nieuwe uitingsvormen mee kunnen maken. 
 
 [Robin Sloan - Voyages in sentence space](https://www.robinsloan.com/voyages-in-sentence-space/)
+
+PS: Ik _dig_ zijn [About-pagina](https://www.robinsloan.com/about/) met de zin:
+> I think a media inventor is someone primarily interested in content (words, pictures, ideas) who also experiments with new tools and new formats. The paperback pioneer Allen Lane was a media inventor. Early bloggers were media inventors. The indie video game scene is full of media inventors.
+
+
+Hell yeah!
