@@ -32,4 +32,4 @@ Keep jamming!
 
 [Download Release #2](/files/65629929-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-2-Spring-1995.pdf) (Spring 1995) - PDF 64 Mb
 
-Headerphoto: Víctor Sainz (Fellow Bugger!)
+Headerphoto: Víctor Sainz (Proud member of the International Bugs Family and The Strangest Tribe!)
