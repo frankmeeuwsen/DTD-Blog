@@ -7,9 +7,13 @@ published: true
 header: header-geekydingen.jpg
 ---
 De 24 uur die in een dag zitten...
+\\
 Minus de 8 uur slaap die zeker nodig zijn...
+\\
+\\
+Als ik dan toch in alles zou willen verdiepen wat dagelijks mijn pad kruist. Dan hou ik geen tijd meer over! Ik kwam tot die ontdekking toen ik vandaag de laatste aflevering van [Geeky Dingen](https://soundcloud.com/geekydingen) luisterde. Een absolute aanrader als je fan bent van euh...ja...geeky dingen dus. 
 
-Als ik toch in alles zou willen verdiepen wat dagelijks mijn pad kruist. Dan hou ik geen tijd meer over! Ik kwam tot die ontdekking toen ik vandaag de laatste aflevering van [Geeky Dingen](https://soundcloud.com/geekydingen) luisterde. Een absolute aanrader als je fan bent van euh...ja...geeky dingen dus. Zo kwamen in een sneltreinvaart titels langs als Stranger Things, Star Wars, Star Trek (Cats of Star Trek!), [Ready Player One](http://readyplayeronemovie.com/), Lost (!!!!), Freaks and Geeks (!!!!!) en het oeuvre van Kevin Smith. U begrijpt, ik ben direct fan van deze podcast. De populaire cultuur en het bijbehorende _geekdom_ worden onder de loep genomen door Spiderman-allesweter [Michael Minneboo](http://www.michaelminneboo.nl/), mediafilosoof [Thomas Aalmoes](https://twitter.com/thomaalmoes), advocaat/inner geek [Sidney Smeets](https://twitter.com/advocaatsmeets) en "Rogue Media Scholar" [Linda Duits](https://twitter.com/lalalalinder) en het is heerlijk om te luisteren. Ik heb al eens gezegd dat een podcast maximaal 40 minuten mag duren, maar voor Geeky Dingen maak ik een graag een uitzondering. 
+Zo kwamen in een sneltreinvaart titels langs als Stranger Things, Star Wars, Star Trek (Cats of Star Trek!), [Ready Player One](http://readyplayeronemovie.com/), Lost (!!!!), Freaks and Geeks (!!!!!) en het oeuvre van Kevin Smith. U begrijpt, ik ben direct fan van deze podcast. De populaire cultuur en het bijbehorende _geekdom_ worden onder de loep genomen door Spiderman-allesweter [Michael Minneboo](http://www.michaelminneboo.nl/), mediafilosoof [Thomas Aalmoes](https://twitter.com/thomaalmoes), advocaat/inner geek [Sidney Smeets](https://twitter.com/advocaatsmeets) en "Rogue Media Scholar" [Linda Duits](https://twitter.com/lalalalinder) en het is heerlijk om te luisteren. Ik heb al eens gezegd dat een podcast maximaal 40 minuten mag duren, maar voor Geeky Dingen maak ik een graag een uitzondering. 
 
 ## Tijd
 Maar zo'n podcast brengt me wel weer licht aan het wankelen, want als ik het viertal hoor praten over de films en series waar we mee zijn opgegroeid denk ik meteen...
