@@ -16,6 +16,10 @@ layout: default
 
   <div class="entry e-content">
     {{ content }}
+
+    {% if page.link %}
+      <i class="fa fa-link"></i>: <a href="{{ page.link }}" class="permalink" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
+    {% endif %}
   </div>
 
   <div id="page-navigation">
