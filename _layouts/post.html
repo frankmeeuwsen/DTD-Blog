@@ -5,11 +5,11 @@ layout: default
 <img src="{{ site.url }}{{site.imageurl}}{{ page.header}}">
 {% endif  %}
 <article class="post h-entry">
-  {% if post.link %}
-  <h1 class="p-name"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+  {% if page.link %}
+  <h1 class="p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
 
   {% else %}
-                  <h1 class="p-name"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                  <h1 class="p-name"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
   {% endif %}
 
   {% include post/meta.html %}
