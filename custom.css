@@ -34,6 +34,9 @@ img[alt$="<>"] {
     float: none!important;
 }
 
+.entry{
+	margin-bottom: 32px;
+}
 .entry a {
 text-decoration: underline;
 }
