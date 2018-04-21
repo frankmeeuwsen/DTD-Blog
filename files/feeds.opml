@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>feeds.opml</title>
+		<dateCreated>Sat, 21 Apr 2018 12:11:52 GMT</dateCreated>
+		<dateModified>Sat, 21 Apr 2018 21:42:48 GMT</dateModified>
+		<ownerName>Frank Meeuwsen</ownerName>
+		<ownerEmail>frank@incredibleadventure.nl</ownerEmail>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>61</windowTop>
+		<windowLeft>304</windowLeft>
+		<windowBottom>562</windowBottom>
+		<windowRight>842</windowRight>
+		</head>
+	<body>
+    <outline type="rss" text="Frank Meeuwsen's favorite articles on Inoreader" title="Frank Meeuwsen's favorite articles on Inoreader" xmlUrl="https://www.inoreader.com/stream/user/1006530244/tag/user-favorites" htmlUrl="https://www.inoreader.com/stream/user/1006530244/tag/user-favorites/view/html"/>
+    <outline type="rss" text="Pinboard microlink" title="Pinboard microlink" xmlUrl="https://feeds.pinboard.in/rss/u:frankmeeuwsen/t:microlink/" htmlUrl="https://pinboard.in/u:frankmeeuwsen/t:microlink/"/>
+  </body>
+</opml>
