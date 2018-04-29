@@ -94,3 +94,5 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    - gulpfile.js
+    - node_modules
