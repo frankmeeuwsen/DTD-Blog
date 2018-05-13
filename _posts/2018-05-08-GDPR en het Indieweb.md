@@ -8,7 +8,7 @@ header: header-gdpr.jpeg
 syndication: indienews
 ---
 
-_Dit is het eerste deel in een serie van drie artikelen. In [deel 2](/GDPR-en-het-Indieweb-deel-2/) ga ik in op de statistieken, [deel 3](/GDPR-en-het-Indieweb-deel-3-Webmentions/) gaat over webmentions en reacties. _
+_Dit is het eerste deel in een serie van drie artikelen. In [deel 2](/GDPR-en-het-Indieweb-deel-2/) ga ik in op de statistieken, [deel 3](/GDPR-en-het-Indieweb-deel-3-Webmentions/) gaat over webmentions en reacties._
 
 Bij Olisto zijn we al een tijdje bezig met de implementatie van de GDPR wetgeving. Deze nieuwe wet treedt eind mei in werking en ja, ook wij zijn in de "Last Minute Panic GDPR Mode" zoals vele anderen. Al valt het bij ons wel mee met die _panic_. We hebben een goed team er aan werken en wat er moet gebeuren is behoorlijk overzichtelijk. Ik ben er zijdelings bij betrokken, met name voor onze website.
 

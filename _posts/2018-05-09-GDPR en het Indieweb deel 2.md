@@ -7,7 +7,7 @@ published: true
 header:
 ---
 
-_Dit is het tweede deel in een serie van drie artikelen. In [deel 1](/GDPR-en-het-Indieweb/) maak ik een eerste overzicht wat er zou moeten gebeuren, [deel 3](/GDPR-en-het-Indieweb-deel-3-Webmentions/) gaat over webmentions en reacties. _
+_Dit is het tweede deel in een serie van drie artikelen. In [deel 1](/GDPR-en-het-Indieweb/) maak ik een eerste overzicht wat er zou moeten gebeuren, [deel 3](/GDPR-en-het-Indieweb-deel-3-Webmentions/) gaat over webmentions en reacties._
 
 In het [eerste deel van deze serie](/GDPR-en-het-Indieweb/) heb ik voor mezelf op een rij gezet waar ik met deze site mogelijk aan moet voldoen voor de komst van de GDPR. Belangrijk voor mij zijn de statistieken en de webmentions. In dit artikel grijp ik terug op de wetgeving en of de GDPR wel voor mij van toepassing is en kijk ik naar de ontwikkelingen bij Matomo, de statistieken software die ik gebruik. 
 
