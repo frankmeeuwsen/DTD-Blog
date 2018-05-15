@@ -15,11 +15,11 @@ We kwamen niet tot een alomvattende eindconclusie met bijbehorend actieplan en e
 
 Aanwezig bij deze Keukentafel sessie, naast ondergetekende
 
-[Tom de Regt](https://www.linkedin.com/in/tom-de-regt/) (ondernemer, interesse in cybersecurity, privacy en blockchain)
-[Freek Dech](https://www.linkedin.com/in/dechnology/) ( directeur Soops investment, partner architectenbureau)
-[Elja Daae](https://www.linkedin.com/in/eljadaae/) ( social media expert, spreker) 
-[Micha Hamel](https://www.linkedin.com/in/micha-hamel-54572a44/) (componist, dichter, denker)
-[Bram Koster](https://www.linkedin.com/in/bramkoster/) (blogger, denker, consultant eVolve)
-[Michiel de Jong](https://www.linkedin.com/in/michielbdejong/) (Software engineer Ripple, W3C.org, Federated community)
-[Ton Zijlstra](https://www.linkedin.com/in/tonzijlstra/) (Consultant voor Open Data, The Green Land) 
-[Ewout Wolff](https://www.linkedin.com/in/ewoutwolff/) (Ondernemer, blogger, event organisator)
+* [Tom de Regt](https://www.linkedin.com/in/tom-de-regt/) (ondernemer, interesse in cybersecurity, privacy en blockchain)
+* [Freek Dech](https://www.linkedin.com/in/dechnology/) ( directeur Soops investment, partner architectenbureau)
+* [Elja Daae](https://www.linkedin.com/in/eljadaae/) ( social media expert, spreker) 
+* [Micha Hamel](https://www.linkedin.com/in/micha-hamel-54572a44/) (componist, dichter, denker)
+* [Bram Koster](https://www.linkedin.com/in/bramkoster/) (blogger, denker, consultant eVolve)
+* [Michiel de Jong](https://www.linkedin.com/in/michielbdejong/) (Software engineer Ripple, W3C.org, Federated community)
+* [Ton Zijlstra](https://www.linkedin.com/in/tonzijlstra/) (Consultant voor Open Data, The Green Land) 
+* [Ewout Wolff](https://www.linkedin.com/in/ewoutwolff/) (Ondernemer, blogger, event organisator)
