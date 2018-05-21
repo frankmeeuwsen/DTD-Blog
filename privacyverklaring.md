@@ -19,6 +19,9 @@ Zoals ik de GDPR nu interpreteer, ben ik vrijgesteld om me hier strikt aan te ho
 
 Desalniettemin vind ik het geen slecht idee om meer duidelijkheid en transparantie te geven wat ik op mijn site opsla en met welke reden. Daarom dit privacy statement.
 
+## Creative Commons Sharealike Licentie
+
+Deze privacy verklaring is vrijgegeven onder een [Creative Commons Sharealike licentie](https://creativecommons.org/licenses/by-sa/4.0/). Je kunt deze tekst copiëren, aanpassen en hergebruiken voor je eigen site. Let er wel op dat je gepubliceerde verklaring daadwerkelijk je gedrag en uitgangspunten weergeeft. Hergebruik van deze privacy verklaring geeft je wel de morele verplichting je eigen verklaring onder dezelfde licentie vrij te geven. Je krijgt karma, kittens en rainbow-unicorns als je credits teruggeeft aan deze site.
 
 ## Welke persoonsgegevens verzamelt mijn site
 Als je deze site bezoekt, wordt automatisch technische data verzameld door de webserver. Denk aan je IP-adres. Als je een reactie op deze site geeft, kan deze worden weergegeven op de site. Hiervoor maak ik gebruik van webmentions en laat ik alleen publiek beschikbare informatie zien die door je zelf online is gezet. Soms laat ik iets zien van andere sites als Youtube en Spotify. Zij kunnen eveneens data van bezoekers _tracken_. 
@@ -72,3 +75,7 @@ Wil je dat deze site geen data van je bijhoudt en wil je anoniem hier lekker ron
 ## Eindgedachte
 
 Ik geloof in de onderliggende principes en visie van de GDPR. De rechten van de online burger moeten beter worden beschermd, waarbij ik het standpunt inneem voor een open en inclusief internet. Zoals ik met mijn site stappen neem om meer controle te hebben over mijn online identiteit buiten de silo's en gesloten netwerken van private bedrijven met eigen wetten en interne regelgeving. Het is eenieders goed recht om zich volledig onder te dompelen in de commercieel gedreven data-surveillance van deze netwerken in ruil voor een goede bereikbaarheid voor vrienden, familie, collega's en bedrijven. Net zo goed als het ieders recht is om zich hier meer en meer aan te onttrekken zonder verlies van je online identiteit. Deze site is een publieke ontdekkingstocht naar dat recht, zonder winstoogmerk en zonder commerciële inmenging van bedrijven en organisaties. 
+
+## Credits
+
+Props en internetkarma aan als [Fred Zelders](https://www.fredzelders.nl/privacy-verklaring-fzelders-nl/), [Ton Zijlstra](https://www.zylstra.org/blog/personal-data-protection-policy/), [Automattic](https://automattic.com/privacy/) en [Ascraeus](https://ascraeus.org/page/privacy/) voor hun privacy policies waar ik rijkelijk van heb mogen lenen en leren.
