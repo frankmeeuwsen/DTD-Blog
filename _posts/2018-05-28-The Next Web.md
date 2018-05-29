@@ -17,6 +17,7 @@ Kevin Kelly is de oorspronkelijke hoofdredacteur van het iconische tech-magazine
 In zijn korte presentatie vertelde hij voornamelijk over The Mesh, het vervolg op het internet zoals we dat kennen. Een netwerk van alle verbonden apparaten, diensten, mensen en spullen. Wat we nu kennen als The Internet of Things is niets meer dan een subset van The Mesh. Er komt nog veel meer bij, variërend van een nieuwe aanwezigheidsvorm in Augmented Reality als een complete onderdompeling in Virtual Reality. Ready Player One's OASIS in overdrive zou ik het noemen. 
 
 ![<> ](/images/scaled.ready_player_one_background3.jpg)
+
 In VR kunnen we rondlopen in deze wereld en alles ervaren wat we willen. De complete wereld is _machine readable_ noemt hij het. Een beangstigende maar gelijk boeiende wereld. Want we hebben nog geen idee hoe technologie als VR en AR zich zullen ontwikkelen de komende jaren. We kunnen nu denken dat we er al zijn met de Oculus brillen en de mogelijkheden op de telefoons. Maar dit is nog maar het begin. Kelly verhaalt hoe deze technieken nog geavanceerder zullen worden, hoe we onze ervaringen in VR nog beter kunnen delen. Maar in welke vorm dat exact is, dat moeten we nog zien. Kelly sluit zijn enigszins beangstigende toekomstbeeld af met de opmerking 
 
 >"Dit geeft 1000 enorm enge problemen op gebied van privacy, eigendom en nog veel meer. Maar verlies niet uit het oog dat er minstens een miljoen nieuwe kansen ontstaan."
