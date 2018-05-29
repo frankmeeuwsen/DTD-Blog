@@ -6,7 +6,7 @@ excerpt:
 published: true
 header: kelly.jpg
 ---
-De jaarlijks terugkerende tech-conferentie [The Next Web](https://thenextweb.com/event/tnw-conference/) zit er weer op. Elk jaar tovert het team van dit techblog het Westergas terrein om tot een festivalterrein waar je twee dagen kunt onderdompelen in sprekers en een live rondlopend Twitter en LinkedIn netwerk. Maar even zo goed live muziek, foodtrucks met prima eten, een aaprte aankleding en geweldige podia waar de sprekers hun verhaal doen. 
+De jaarlijks terugkerende tech-conferentie [The Next Web](https://thenextweb.com/event/tnw-conference/) zit er weer op. Elk jaar tovert het team van dit techblog het Westergas terrein om tot een festivalterrein waar je twee dagen kunt onderdompelen in sprekers en een live rondlopend Twitter en LinkedIn netwerk. Maar even zo goed live muziek, foodtrucks met prima eten, een eigen aankleding en geweldige podia waar de sprekers hun verhaal doen. 
 
 Elke editie van TNW heeft hoogtepunten in het programma. Soms is het een keynote-spreker op het hoofdpodium, maar het kan net zo goed een "kleinere" spreker zijn. Dit jaar waren er voor mij twee sprekers die er uit sprongen. Eén had ik wel verwacht, want ik ben een _fanboy_. De tweede was een verrassing voor me. 
 
