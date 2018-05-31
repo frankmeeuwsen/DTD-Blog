@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mijn site is nationaal erfgoed?
+title: Mijn site is nationaal erfgoed!
 date: 2018-05-30 09:18:01 +2h
 excerpt: Afgelopen week ontving ik een e-mail van de Koninklijke Bibliotheek te Den Haag met de mededeling dat ze deze site opnemen in hun collectie. Hashtag Trots!
 published: true
