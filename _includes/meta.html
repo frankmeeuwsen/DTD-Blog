@@ -30,7 +30,7 @@
     <meta name="twitter:site" content="@frankmeeuwsen">
     <meta name="twitter:creator" content="@frankmeeuwsen">
     {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:title" content="{{ page.title| smartify }}">
     {% else %}
     <meta name="twitter:title" content="{{ site.name }}">
     {% endif %}
@@ -40,7 +40,7 @@
     {% if page.excerpt %}
     <meta name="twitter:description" content="{{ page.excerpt | strip_html | xml_escape | truncate: 200 }}">
     {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.description| smartify }}">
     {% endif %}
     {% if page.header %}
     <meta name="twitter:image" content="{{ site.url }}/images/{{ page.header}}">
