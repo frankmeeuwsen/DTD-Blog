@@ -24,6 +24,8 @@ img[alt$=">"] {
 
 img[alt$="<"] {
   float:left;
+  display: block;
+
 }
 
 img[alt$="<>"] {
