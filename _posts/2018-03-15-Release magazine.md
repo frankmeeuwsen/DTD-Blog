@@ -20,16 +20,16 @@ I hope you enjoy these magazine. Please share them with your friends and fellow 
 
 Keep jamming!
 
-[![](/images/release-0.jpg)](/files/65629800-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-0-Spring-1994.pdf)
+[![](/images/release-0.jpg)](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629800-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-0-Spring-1994.pdf)
 
-[Download Release #0](/files/65629800-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-0-Spring-1994.pdf) (spring/summer 1994) - PDF 66 Mb
+[Download Release #0](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629800-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-0-Spring-1994.pdf) (spring/summer 1994) - PDF 66 Mb
 
-[![](/images/release-1.jpg)](/files/65629858-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-1-Winter-1995.pdf)
+[![](/images/release-1.jpg)](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629858-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-1-Winter-1995.pdf)
 
-[Download Release #1](/files/65629858-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-1-Winter-1995.pdf) (Winter 1995) - PDF 64 Mb
+[Download Release #1](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629858-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-1-Winter-1995.pdf) (Winter 1995) - PDF 64 Mb
 
-[![](/images/release-2.jpg)](/files/65629929-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-2-Spring-1995.pdf)
+[![](/images/release-2.jpg)](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629929-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-2-Spring-1995.pdf)
 
-[Download Release #2](/files/65629929-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-2-Spring-1995.pdf) (Spring 1995) - PDF 64 Mb
+[Download Release #2](https://archive.org/download/65629800ReleaseInternationalFanzineForPearlJamFansIssue0Spring1994/65629929-Release-International-Fanzine-for-Pearl-Jam-Fans-Issue-2-Spring-1995.pdf) (Spring 1995) - PDF 64 Mb
 
 Headerphoto: Víctor Sainz (Proud member of the International Bugs Family and The Strangest Tribe!)
