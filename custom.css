@@ -265,3 +265,11 @@ pagination-inactive {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/* Small footer */
+footer .small {
+    font-size: 13px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    color: #999
+}
