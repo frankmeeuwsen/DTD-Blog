@@ -28,7 +28,7 @@ layout: default
             {% endcase %}
             {{ post.date | date: "%Y" }}
             </time>
-{% if post.link %}
+{% if post.link or post.mf-bookmark-of%}
 <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
 
 {% else %}
@@ -39,7 +39,7 @@ layout: default
       <div class="front_entry">
         {{ post.excerpt }}
       </div>
-      {% if post.link %}
+      {% if post.link or post.mf-bookmark-of %}
       {% else %}
       <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
       {% endif %}
