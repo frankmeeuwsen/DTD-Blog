@@ -16,8 +16,12 @@ layout: default
   <div class="entry e-content">
     {{ content }}
 
-<p><a href="{{ page.mf-syndication }}" class="read-more u-syndication">Check op Instagram</a></p>
+    {% if page.category != "links" %}
+    <p><a href="{{ page.mf-syndication }}" class="read-more u-syndication">Check op Instagram</a></p>
+    {% else %}
+    <p><a href="{{ page.mf-syndication }}" class="read-more u-syndication">Original link</a></p>
 
+    {% endif %}
   </div>
 
 
