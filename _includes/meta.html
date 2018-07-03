@@ -45,7 +45,10 @@
 {% if page.header %}
     <meta name="twitter:image" content="{{ site.url }}/images/{{ page.header}}">
     <meta property="og:image" content="{{ site.url }}/images/{{ page.header}}">
+{% elsif page.image %}
+    <meta name="twitter:image:src" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"> 
+    <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">     
 {% else %}
-    <meta name="twitter:image" content="{{ site.url }}/images/blogicon.png">
-    <meta property="og:image" content="{{ site.url }}/images/blogicon.png">
+    <meta name="twitter:image:src" content="{{ site.url }}/images/blogicon.png"> 
+    <meta property="og:image" content="{{ site.url }}/images/blogicon.png">     
 {% endif %}
