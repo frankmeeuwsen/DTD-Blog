@@ -6,9 +6,9 @@ excerpt: "Met de functie =GOOGLETRANSLATE kan ik zo'n 50% op mijn werk besparen.
 published: true
 ---
 
-Een basishouding die ik probeer na te streven in mijn werk is: "Hoe kan ik dit handiger of sneller doen?" Ofwel, hoe kan ik iets zo ver mogelijk automatiseren? Dit resulteert in een uitbundig gebruik van sneltoetsen en shortcuts in allerlei programma's, al dan niet zelf gemaakt via een app als Keyboard Maestro. 
+Een basishouding die ik probeer na te streven in mijn werk is: "Hoe kan ik dit handiger of sneller doen?" Ofwel, hoe kan ik iets zo ver mogelijk automatiseren? Dit resulteert in een uitbundig gebruik van sneltoetsen en shortcuts in allerlei programma's, al dan niet zelf gemaakt via een app als [Keyboard Maestro](https://www.keyboardmaestro.com/main/). 
 
-Maar eveneens in dagelijks werk wat ik doe, zitten soms wat werkzaamheden die ik te saai vind om vaker dan één keer te doen. Zoals het vertalen van teksten. Op onze site hebben we kanaalpagina's met voorbeeld-triggs, de regels die via onze app iets kunnen automatiseren of vergemakkelijken voor je. Zijsprong: Snap je nu trouwens waarom ik geloof in een app als Olisto? Het lost mijn eigen problemen op!
+Maar eveneens in dagelijks werk wat ik doe, zitten soms wat werkzaamheden die ik te saai vind om vaker dan één keer te doen. Zoals het vertalen van teksten. Op [onze site](https://olisto.com) hebben we kanaalpagina's met voorbeeld-triggs, de regels die via onze app iets kunnen automatiseren of vergemakkelijken voor je. Zijsprong: Snap je nu trouwens waarom ik geloof in een app als Olisto? Het lost mijn eigen problemen op!
 De site is tweetalig, wat betekent dat de Nederlandse triggs van onze junior marketeer moesten worden vertaald naar het Engels. Vanwege vakanties, drukte en volle agenda's besloot ik de vertaal klus voor nu op me te nemen, anders zou het nooit gebeuren. Niet dat ik overloop van de tijd, maar ik had een vermoeden dat dit makkelijk te automatiseren was. 
 
 De oorspronkelijke Nederlandse teksten staan namelijk in Google Sheets. Ik had een idee dat er wel eens een koppeling kon zijn met Google API's in de functies van Sheets, waarmee een vertaling relatief eenvoudig is te starten. Een zoekopdracht verder en voila...
