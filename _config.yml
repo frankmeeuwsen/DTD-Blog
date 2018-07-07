@@ -8,8 +8,10 @@ name: Digging the digital
 description: Vol blogdrift.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: https://en.gravatar.com/userimage/430112/485038288f32582f20027a121f3fd538.jpg?size=200
 avatar: /images/dtd-avatar.png
+
+#Microformats info
+mf-avatar: https://en.gravatar.com/userimage/430112/485038288f32582f20027a121f3fd538.jpg?size=200
 
 #pagination
 paginate: 10
