@@ -6,10 +6,10 @@ layout: default
 {% endif  %}
 <article class="post h-entry">
   {% if page.link %}
-  <h1 class="p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+  <h1 class="p-name u-url"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
 
   {% else %}
-                  <h1 class="p-name"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+                  <h1 class="p-name u-url"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
   {% endif %}
 
   {% include post/meta.html %}
