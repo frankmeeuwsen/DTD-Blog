@@ -2,8 +2,5 @@
   <span class="date">{% include post/date.html %}{{ time }}</span>
   <span class="edit">{% include post/edit.html %}</span>
   <span class="history">{% include post/history.html %}</span>
-  <span style="display:none" rel="author" class="p-author h-card">Frank Meeuwsen</span>
-  <img class="u-photo" style="display:none" src="{{ site.mf-avatar }}" />
-  <span class="dt-published" style="display:none">  {{page.date}}</span>
-  <a class="u-url" href="{{ site.url }}{{ page.url }}" style="display:none;">…</a>
+  <span class="microformat" style="display: none">{% include post/microformat.html %}</span>
 </div>
