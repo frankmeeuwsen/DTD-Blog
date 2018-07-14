@@ -273,3 +273,11 @@ footer .small {
     margin-bottom: 4px;
     color: #999
 }
+
+.post code {
+    padding: 0 5px 2px;
+    font-size: 0.8em;
+    line-height: 1em;
+    font-weight: 400 !important;
+    background: #e5eff5;
+    border-radius: 3px;
