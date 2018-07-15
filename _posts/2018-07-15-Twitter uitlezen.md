@@ -46,3 +46,5 @@ Vrij direct kwamen er allerlei vragen van (oude) volgers en mensen die mij nog w
 ### Conclusie na twaalf uur
 
 Ik ben blij met de stap die ik heb genomen. Ik heb nog geen idee hoe het verder uitwerkt de komende dagen. Wat me tegenvalt is de weinige eigen tweets die ik zie van mijn volgers. Ik krijg voornamelijk retweets en likes voorgeschoteld. En advertenties. Ik vermoed dat dit door Twitter zelf wordt bepaald, om me er zo toe te verleiden weer meer te volgen. Toch voelt het al wat rustiger in de Twitter tijdlijn. 
+
+**Update**: Ik krijg al snel de tip dat je per persoon de retweets kunt uitzetten. Dat scheelt al weer een hoop! Op de profielpagina, rechts bij de drie stipjes, klik en "turn off retweets". Handig! Al zou ik het liever systeem-breed hebben.
