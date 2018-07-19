@@ -6,10 +6,10 @@ excerpt: Wat eerste observaties na het ontvolgen
 published: true
 header:
 ---
-Gisterenavond heb ik al mijn 2058 Twittervolgers [verlaten](/Ontvolg). Ik wilde wat meer rust in mijn tijdlijn en weer overzicht in wie ik waarom volg. Tevens is het een experiment hoe dit zou bevallen. Na 10 jaar gestaag een volglijst te hebben opgebouwd naar die 2000, sluipt er langzaam maar zeker een zekere drukte in de tijdlijn. Te vaak wilde ik weer even op Twitter kijken om te zien of ik iets heb gemist. Natuurlijk mis je meer dan je meemaakt en Twitter drijft op die basisemotie. Altijd maar weer terugkomen in de app. Bij een ander netwerk als micro.blog heb ik dat veel minder. Daar volg ik een select gezelschap en hun berichten komen gedurende de dag binnen. Daar is niet een constante stroom van zinnige en onzinnige berichten waar ik me een weg door moet filteren. Ik had het idee dat dit bij Twitter hetzelfde zou zijn. Mijn eerste observatie: Wat had ik het bij het verkeerde eind.
+Gisterenavond [verliet ik](/Ontvolg) mijn 2058 Twittervolgers. Ik wilde meer rust in mijn tijdlijn en weer overzicht wie ik waarom volg. Ik hou wel van dit soort experimenten. Na 10 jaar gestaag een volglijst te hebben opgebouwd van meer dan 2000 mensen en merken, merkte ik meer en meer drukte in mijn tijdlijn. Te vaak wilde ik weer even op Twitter kijken om te zien of ik iets heb gemist. Natuurlijk mis je meer dan je meemaakt en Twitter drijft op die basisemotie. Altijd maar weer terugkomen in de app. Bij een ander netwerk als micro.blog heb ik dat veel minder. Daar volg ik een select gezelschap en hun berichten komen gedurende de dag binnen. Daar is niet een constante stroom van zinnige en onzinnige berichten waar ik me een weg door moet filteren. Ik had het idee dat dit bij Twitter hetzelfde zou zijn. Mijn eerste observatie: Wat had ik het bij het verkeerde eind.
 
 ## Ontvolgen
-Eerst nog even terug naar gisterenavond, toen ik het script t het commando gaf om iedereen te ontvolgen, ging dat niet van een leien dakje.
+Eerst nog even terug naar gisterenavond, toen ik [het script t](https://github.com/sferik/t) het commando gaf om iedereen te ontvolgen, ging dat niet van een leien dakje.
 
 ![<>](/images/error-unfollow.jpg) 
 
