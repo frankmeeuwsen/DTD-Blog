@@ -5,6 +5,7 @@ date: 2018-08-07 09:24:55 +2h
 excerpt: Nadat ik in 2017 al mijn email verwijderde bij Google apps, ben ik nu alles aan het omzetten. Hier lees je over het hoe en wat. 
 published: true
 tags: [Google, Digital ownership, Gids]
+header: wavegoodbye.jpg
 ---
 Een aantal jaar geleden besloot ik als freelancer al mijn activiteiten onder een eigen domein te doen. Dat was destijds *The Incredible Adventure starts here...*, een naam die me nog steeds lief is, maar inmiddels geen officiële eenmanszaak meer is. Ik heb het domein toen ondergebracht bij Google Apps. De suite van Google tools was gratis voor kleine ondernemers en het was enorm handig om mail, kalender, documenten en veel meer bij elkaar te hebben op mijn eigen domein.
 
@@ -64,3 +65,6 @@ Natuurlijk zijn er meer wegen die naar Rome leiden, en als je dit allemaal hebt 
 
 ## En de zoekmachine dan?
 Je vraagt je misschien af waarom ik het niet over de zoekmachine van Google heb? Heel simpel. Die gebruik ik al een tijd niet meer. Ik ben eerst overgestapt op [DuckDuckGo](https://duckduckgo.com) en gebruik nu [Startpage](https://startpage.com). Beiden hebben zo hun nadelen, maar de zoekresultaten van met name Startpage vind ik erg goed. Van de zoekmachine Google heb ik al tijden geleden afscheid genomen.  
+
+### Headerbeeld
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://visualhunt.com/author/8e3ba4" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Sean MacEntee"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title>logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Sean MacEntee</span></a>
