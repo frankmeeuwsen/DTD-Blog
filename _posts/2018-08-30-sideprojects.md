@@ -22,7 +22,7 @@ Het zijn zonder uitzondering allemaal digitale projecten die leven in mappen op 
 * De principes van [Micropub](https://indieweb.org/Micropub) en [Microsub](https://indieweb.org/Microsub) beter snappen en proberen in te zetten.
 * Meer leren over [Activitypub en het decentrale web](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/).
 * Een Mastodon bot maken zoals er op de [Botwiki](https://botwiki.org/bots/) stapels van zijn te vinden.
-* De tekstversie van [Bloghelden](http://bloghelden.nl) ontdoen van vreemde tekens.
+* De tekstversie van [Bloghelden](http://bloghelden.nl) ontdoen van vreemde tekens. > [DONE](/Bloghelden-nu-met-verbeterde-textbestanden/)
 * Mijn pagina met [animated gifs](http://gifs.frankmeeuwsen.com/) nieuw leven in blazen.
 * Een betere workflow maken voor links die ik hier wil delen, bijvoorbeeld via [Pinboard](/dogfood-2/).
 * Mijn Node.JS cursus afronden.
