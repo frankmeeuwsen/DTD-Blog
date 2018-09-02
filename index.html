@@ -72,8 +72,15 @@ layout: default
             {% endcase %}
             {{ post.date | date: "%Y" }}
             </time>
-
-                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            {% if post.link %}
+            <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+          {% elsif post.mf-bookmark-of%}
+            <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h1>
+          {% elsif post.mf-like-of %}
+            <h1 class="entry-title"><i class="fa fa-bookmark"></i>Ik vind een artikel leuk</h1>
+          {% else %}
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          {% endif %}
         	</header>
     		</span>
       <div class="front_entry">
@@ -83,7 +90,11 @@ layout: default
           </div>
         {% endfor %}
         <div class="text-front">
-        {{ post.excerpt }}
+          {% if post.excerpt != '' %}
+          {{ post.excerpt }}
+        {% elsif post.mf-like-of %}
+        <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication">{{ post.mf-like-of }}</a></p>
+        {% endif %}
       </div>
       </div>
 
