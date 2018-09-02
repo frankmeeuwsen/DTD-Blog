@@ -8,4 +8,4 @@ mf-bookmark-of:
 slug: indie-auth-and-social-distance-dependent
 category: links
 ---
-Ton mijmert eveneens verder over gesprekken die gaande waren op de unconference afgelopen vrijdag. 
+Ton mijmert eveneens verder over gesprekken die gaande waren op de unconference afgelopen vrijdag.
