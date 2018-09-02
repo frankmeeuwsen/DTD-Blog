@@ -32,6 +32,8 @@ layout: default
   <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
 {% elsif post.mf-bookmark-of%}
   <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h1>
+{% elsif post.mf-like-of %}
+  <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication">{{ page.mf-like-of }}</a></p>
 {% else %}
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 {% endif %}
