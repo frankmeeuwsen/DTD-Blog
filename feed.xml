@@ -21,7 +21,7 @@ layout: null
       </item>
     {% else %}
       <item>
-        <title>Instagram post</title>
+        <title>Micropub post</title>
         <description>
         <![CDATA[
         <img src="{{ post.mf-photo }}" />
