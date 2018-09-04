@@ -7,6 +7,8 @@ layout: default
 <article class="post h-entry">
   {% if page.link %}
     <h1 class="p-name u-url"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+  {% elsif page.title == '' %}
+    <h1 class="p-name u-url">{{page.excerpt | strip_html |truncatewords: 4}}</h1>
   {% else %}
     <h1 class="p-name u-url"><a href="{{ site.baseurl }}{{ page.url }}"class="u-url">{{ page.title }}</a></h1>
   {% endif %}

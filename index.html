@@ -78,7 +78,7 @@ layout: default
           {% elsif post.mf-like-of %}
             <h1 class="entry-title"><i class="fa fa-bookmark"></i>Ik vind een artikel leuk</h1>
           {% elsif post.title == '' %}
-            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt |truncatewords: 4}}</a></h1>
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></h1>
           {% else %}
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
           {% endif %}
