@@ -66,6 +66,7 @@ url: http://diggingthedigital.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
+# Here;s me testing a VSCide plugin
 baseurl: ""
 imageurl: "/images/"
 
