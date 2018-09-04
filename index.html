@@ -78,6 +78,8 @@ layout: default
             <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h1>
           {% elsif post.mf-like-of %}
             <h1 class="entry-title"><i class="fa fa-bookmark"></i>Ik vind een artikel leuk</h1>
+          {% elsif post.title = '' %}
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></h1>
           {% else %}
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
           {% endif %}
