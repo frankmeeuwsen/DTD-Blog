@@ -47,10 +47,9 @@ layout: default
       <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
       {% endif %}
     </article>
-    {% else %}
-
+  {% else %}
     <article class="post">
-        <span class="post-meta">
+      <span class="post-meta">
     			<header class="post-header">
             <time datetime={{ post.date }}>
             <!-- Whitespace added for readability -->
@@ -72,17 +71,19 @@ layout: default
             {% endcase %}
             {{ post.date | date: "%Y" }}
             </time>
-            {% if post.link %}
+          {% if post.link %}
             <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
           {% elsif post.mf-bookmark-of%}
             <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h1>
           {% elsif post.mf-like-of %}
             <h1 class="entry-title"><i class="fa fa-bookmark"></i>Ik vind een artikel leuk</h1>
+          {% elsif post.title == '' %}
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt |truncatewords: 4}}</a></h1>
           {% else %}
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
           {% endif %}
         	</header>
-    		</span>
+      </span>
       <div class="front_entry">
         {% for mf-photo in post.mf-photo limit:1 %}
           <div class="image-front">
@@ -97,10 +98,8 @@ layout: default
         {% endif %}
       </div>
       </div>
-
       <!-- <p><a href="{{ post.mf-syndication }}" class="read-more u-syndication">Check op Instagram</a></p> -->
     </article>
-
     {% endif %}
   {% endfor %}
 </div>
