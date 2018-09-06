@@ -22,8 +22,8 @@ Oh en ik kan eigen emoji maken voor mijn instance :-)
 
 Je vindt me op [**https://me.frankmeeuwsen.xyz/@frank**](https://me.frankmeeuwsen.xyz/@frank). Log in met je eigen Mastodon account en klik op *Follow*. 
 
-Ben je benieuwd geworden om een eigen Mastodon instance-of-one te starten? Voor de prijs van twee cappucino's per maand kun je aan de slag bij [Masto.host](http://masto.host). Een hosting-partij die is gespecialiseerd in Mastodon-servers.
+Ben je benieuwd geworden om een eigen Mastodon instance-of-one te starten? Voor de prijs van twee cappucino's per maand kun je aan de slag bij [Masto.host](http://masto.host). Een hosting-partij die is gespecialiseerd in Mastodon-servers. Wil je het écht helemaal zelf doen? Lees dan [hoe Ton Zijlstra onderzoekt](https://www.zylstra.org/blog/2018/09/running-mastodon-myself-an-experiment-pt1/) hoe hij Mastodon op een Raspberry Pi kan laten draaien. Wat nog geen eenvoudige opgave is.
 
-Ik zal de komende nog extra blogposts schrijven over het beheren van een eigen Mastodon-server en hoe ik het verhuisproces heb gedaan. Met natuurlijk alle bezwaren en "ja maar" argumenten die langskomen.
+Ik zal de komende dagen nog extra blogposts schrijven over het beheren van de Mastodon-software en hoe ik het verhuisproces heb gedaan. 
 
 Happy tooting!
