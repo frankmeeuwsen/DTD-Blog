@@ -24,6 +24,6 @@ Je vindt me op [**https://me.frankmeeuwsen.xyz/@frank**](https://me.frankmeeuwse
 
 Ben je benieuwd geworden om een eigen Mastodon instance-of-one te starten? Voor de prijs van twee cappucino's per maand kun je aan de slag bij [Masto.host](http://masto.host). Een hosting-partij die is gespecialiseerd in Mastodon-servers. Wil je het écht helemaal zelf doen? Lees dan [hoe Ton Zijlstra onderzoekt](https://www.zylstra.org/blog/2018/09/running-mastodon-myself-an-experiment-pt1/) hoe hij Mastodon op een Raspberry Pi kan laten draaien. Wat nog geen eenvoudige opgave is.
 
-Ik zal de komende dagen nog extra blogposts schrijven over het beheren van de Mastodon-software en hoe ik het verhuisproces heb gedaan. 
+Ik zal de komende dagen nog extra blogposts schrijven over het beheren van de Mastodon-software en [hoe ik het verhuisproces](/Mastodon-verhuizen/) heb gedaan. 
 
 Happy tooting!
