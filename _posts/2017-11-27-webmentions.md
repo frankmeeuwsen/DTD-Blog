@@ -89,4 +89,4 @@ Headerbeeld
 [17]:	https://wordpress.org/plugins/webmention/
 [18]:	https://github.com/aarongustafson/jekyll-webmention_io
 
-[image-1]:	/images/webmentions-1.jpg
+[image-1]:	../images/webmentions-1.jpg
