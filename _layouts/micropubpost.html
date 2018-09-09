@@ -17,6 +17,9 @@ layout: default
       <h1 class="entry-title p-name"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
     {% endif %}
   {% endcase %}
+
+  {% include post/meta.html %}
+
   <div class="entry e-content">
     {% for mf-photo in page.mf-photo limit:1 %}
         <img src="{{ mf-photo }}">
