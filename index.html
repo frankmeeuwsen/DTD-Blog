@@ -29,16 +29,16 @@ layout: default
             </time>
             {% case post.title %}
               {% when '' %}
-              <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></h1>
+              <h2><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
               {% else %}
               {% if post.link %}
-                <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+                <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
                 {% elsif post.mf-bookmark-of%}
-                <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h1>
+                <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h2>
                 {% elsif post.mf-like-of %}
                 <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication">{{ post.mf-like-of }}</a></p>
                 {% else %}
-                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               {% endif %}
             {% endcase %}
         	</header>
