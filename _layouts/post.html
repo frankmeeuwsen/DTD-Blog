@@ -5,13 +5,29 @@ layout: default
 <img src="{{ site.url }}{{site.imageurl}}{{ page.header}}">
 {% endif  %}
 <article class="post h-entry">
+{% case page.title %}
+  {% when '' %}
+    <h1><a href="{{ site.baseurl }}{{ page.url }}">{{content | strip_html |truncatewords: 4}}</a></h1>
+  {% else %}
   {% if page.link %}
+    <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+    {% elsif page.mf-bookmark-of%}
+    <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.mf-bookmark-of }}">{{ page.title }}</a></h1>
+    {% elsif page.mf-like-of %}
+    <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication">{{ page.mf-like-of }}</a></p>
+    {% else %}
+    <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+  {% endif %}
+{% endcase %}
+
+
+  <!-- {% if page.link %}
     <h1 class="p-name u-url"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
   {% elsif page.title == '' %}
     <h1 class="p-name u-url">{{page.content | strip_html |truncatewords: 4}}</h1>
   {% else %}
     <h1 class="p-name u-url"><a href="{{ site.baseurl }}{{ page.url }}"class="u-url">{{ page.title }}</a></h1>
-  {% endif %}
+  {% endif %} -->
 
   {% include post/meta.html %}
 
