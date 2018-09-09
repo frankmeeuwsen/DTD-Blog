@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }}•{% endif %}{{ site.name }}</title>
+    <title>
+        {% case page.title %}
+        {% when '' %}
+          {{content | strip_html |truncatewords: 4}}
+        {% else %}
+        {% if page.mf-like-of %}
+          {{ page.mf-like-of }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      {% endcase %}
+      •{{ site.name }}
+    </title>
     {% include meta.html %}
     {% include css.html %}
     {% include head.html %}
