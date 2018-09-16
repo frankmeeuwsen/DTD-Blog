@@ -21,6 +21,8 @@ Mijn reactie:
 
 Wat dan bij deze weer is gedaan...
 
+![](../images/linkedin-elja.jpg)
+
 PS: Wat ik dan wel weer vreemd vind, hoe kan [deze reactie](https://www.linkedin.com/feed/update/urn:li:activity:6443721136013393921) wel worden geplaatst? Dat zijn toch minstens evenveel karakters...
 
 
