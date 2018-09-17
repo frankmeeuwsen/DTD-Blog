@@ -11,7 +11,7 @@ Zolang ik online schrijf deel ik links met de buitenwereld. Dat begon al op mijn
 Sorry, ik ga niet met een nieuwsbrief-dienst werken. Ik denk nog na over de manier waarop ik onafhankelijke diensten in mijn flow ga gebruiken om deze links handig te delen met jullie. De belangrijkste voorwaarden voor zo'n dienst: Vrij om te gebruiken maar betaal om het te ondersteunen, de dienst biedt een RSS of JSON feed op tag-niveau, ik kan een koppeling met andere diensten maken zoals IFTTT, Triggi (als we RSS gaan ondersteunen...) of Workflow, er is zowel een goede web als mobiele service. 
 Nu gebruik ik [Pinboard][3] al jaren en ik denk dat deze nog wel de beste papieren heeft om als tussenstation te gebruiken.  Hierover later meer!
 
-### De leesmap
+## De leesmap
 
 Ik begeef me al weken weer meer op het originele web zoals we dat kenden voor plusminus 2005. Voor de sociale netwerken veel van onze tijd en aandacht overnamen. Misschien is het valse nostalgie, maar als ik lees hoe Chris Aldrich [zijn blogroll][4] naar een nieuw niveau brengt, dan word ik blij en zie ik weer nieuwe projectjes voor mezelf....
 

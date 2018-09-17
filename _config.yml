@@ -47,6 +47,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   # stats: frankmeeuwsen
+  mastodon: https://me.frankmeeuwsen.xyz/@frank
 
 
 
@@ -56,7 +57,7 @@ footer-links:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 #url: http://frankmeeuwsen.github.io
-url: http://diggingthedigital.com
+url: https://diggingthedigital.com
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -66,6 +67,7 @@ url: http://diggingthedigital.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
+
 baseurl: ""
 imageurl: "/images/"
 

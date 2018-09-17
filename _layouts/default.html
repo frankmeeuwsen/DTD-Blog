@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>
+        {% case page.title %}
+        {% when '' %}
+          {{content | strip_html |truncatewords: 4}}
+        {% else %}
+        {% if page.mf-like-of %}
+          {{ page.mf-like-of }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      {% endcase %}
+      • {{ site.name }}
+    </title>
     {% include meta.html %}
     {% include css.html %}
     {% include head.html %}
@@ -15,7 +27,7 @@
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" class="u-photo" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <a href="{{ site.baseurl }}/" class="site-name">{{ site.name }}</a>
             <p class="site-description">{{ site.description }}</p>
           </div>
           </div>

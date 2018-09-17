@@ -13,24 +13,24 @@ Ik kan op verschillende Mastodon servers een account aanmaken, zoals ik mailadre
 
 Maar hoe weet de buitenwereld op welk Mastodon adres ik het meest actief ben? Op dit moment is er niet één strategie of manier om dat te achterhalen. Het is aan de eigenaar van de accounts om dat zelf vorm te geven. Hier zijn wat ideeën die je kunt gebruiken.
 
-### Maak je actieve account "verified"
+## Maak je actieve account "verified"
 
 Ga naar de instellingen van je meest actieve account en zet een checkmark achter je naam. Inderdaad. Een ✅. Een kleine *fuck-you* naar het ingewikkelde en ondoorzichtige verificatie-proces van Twitter waar niemand nu exact wist hoe en wanneer je dat vinkje zou krijgen. Met deze emoji geef je aan dat dit je actieve account is.
 
 
-### Verwijs de inactieve accounts naar de actieve
+## Verwijs de inactieve accounts naar de actieve
 
 ![>](https://cl.ly/28473p3z3r31/2017-04-11_16-00-58.png "curry")Ik heb [een tweede account](https://mastodon.network/@frankmeeuwsen) op een ander netwerk. Ik doe daar niets mee, maar heb het aangemaakt als backup voor mijn actieve account. Ik weet nog niet of de huidige instantie Mastodon.social mijn langdurige verblijfplaats gaat zijn. Misschien verhuis ik naar een andere instantie omdat de lokale tijdlijn daar gewoon leuker is. Maar tot die tijd meld ik in gebruikersnaam dat het een inactief account is en in de bio link ik naar mijn actieve account. Omdat ik het in de gebruikersnaam meld zal dit ook in zoekresultaten op het netwerk zichtbaar zijn en zo voor nieuwe volgers duidelijker wat mijn actieve account is. Zie bijvoorbeeld het resultaat van de zoekopdracht naar het account van Adam Curry. Ik twijfel welke van de twee ik zou moeten hebben. Misschien moet ik ze allebei volgen? Maar een kleine hint zou al kunnen helpen welk account het meest actief is.
 
-### Doe iets met je avatar
+## Doe iets met je avatar
 
 Bij bovengenoemde account heb ik eveneens de avatar aangepast. Op Mastodon kun je een animated gif als avatar maken. Met een glitch-app heb ik een kleine storing in de avatar aangebracht zodat je al een idee hebt dat er iets mee aan de hand is. Maar je kunt natuurlijk vanalles doen met je avatar. Hou er rekening mee dat je avatar en gebruikersnaam in zoekresultaten zichtbaar zijn, dus daar kun je van profiteren om duidelijk te maken wat je actieve account is.
 
-### Promoot één actief account op andere kanalen.
+## Promoot één actief account op andere kanalen.
 
 Op mijn Twitter account noem ik mijn actieve account. Als ik ergens schrijf over Mastodon dan noem ik mijn actieve account. Natuurlijk is dat laatste minder makkelijk te wijzigen in publicaties van anderen. Maar je moet roeien met de riemen die je hebt.
 
-### Alle bovenstaande
+## Alle bovenstaande
 
 Doe gewoon alles wat hier staat en nog zul je mensen krijgen die je op inactieve of andere accounts gaan volgen. So be it. Het is allemaal nog wat rafelig aan de randen en we zoeken allemaal nog naar de juiste vorm. Verwacht niet dat alles in één keer netjes en gepolijst werkt. Spullen gaat stuk, werken niet, doen andere dingen dan je verwacht. Ben er niet bang voor maar beweeg mee.
 
@@ -49,9 +49,9 @@ De vraag is of we het probleem moeten oplossen dat iemand meerdere identiteiten 
 
 Lijkt me niet te moeilijk.
 
-### Update: Zo kan het ook
+## Update: Zo kan het ook
 
-![Aral](/images/aral.png "aral")
+![Aral](../images/aral.png "aral")
 
 Zie dit screenshot van het account van Aral Balkan. Drie duidelijke aandachtspunten over zijn verhuizing naar een ander account
 
