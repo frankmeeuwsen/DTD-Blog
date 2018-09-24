@@ -4,6 +4,7 @@ title: Presentatie Digitale vrijheid
 date: 2018-09-24 9:09:49 +2h
 excerpt:
 published: true
+header: thecycle.jpg
 ---
 Afgelopen zaterdag mocht ik de aftrap doen op de Webmaster-dag van Amnesty International. De mensenrechten-organisatie heeft jaarlijks een dag voor iedereen die verantwoordelijk is voor de lokale websites. Naast de landelijke site heeft elke afdeling zijn eigen site, onderhouden in WordPress of Joomla. De dag is om nieuwe kennis over te dragen over de twee CMS-systemen, om nieuwe inzichten te krijgen om online fondsen te werven en uiteraard elkaar in levende lijve te ontmoeten en te spreken. 
 
