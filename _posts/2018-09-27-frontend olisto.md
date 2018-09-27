@@ -9,10 +9,10 @@ De afgelopen weken ben ik behoorlijk _deep down_ in een project bij Olisto. Omda
 
 Dus heb ik samen met Patrick Loonstra de schone taak om de site van een nieuwe motor en een nieuwe carosserie te voorzien. Dat betekent dat we ons de afgelopen weken in een sneltreinvaart hebben verdiept in onderwerpen als:
 
-* Git en versiebeheer, vooral in samenwerking met ieder eigen taken (*git rebase* anyone?)
-* CSS Grid en Flexbox
+* [Git](https://git-scm.com/book/en/v2) en versiebeheer, vooral in samenwerking met ieder eigen taken (*git rebase* anyone?)
+* CSS [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) en [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * PHP en WordPress ontwikkeling
-* Vagrant en Ansible Playbooks voor lokale webontwikkeling
+* [Vagrant](http://vccw.cc/) en Ansible Playbooks voor lokale webontwikkeling
 * SVG en CSS
 
 En allerlei kleine klusjes die er tussendoor bij komen waar je voor het minste of geringste al een zoekvenster bij pakt. 
