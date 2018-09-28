@@ -19,6 +19,7 @@ De afgelopen maanden heb ik hier zelf mee geëxperimenteerd en wat bevindingen h
 * Wat zijn alternatieve netwerken, zoals [Mastodon](/Mastodon/)?
 * Hoe gebruik ik RSS als [mijn online leesmap](/RSS-revisited/)?
 * Wat is het [Indieweb](/Indieweb)?
+* Blogs zijn een open einde. [Begin gewoon](/Een-open-einde/).
 * Bloggen is [Punkrock Publishing](/Punkrock-Publishing/) volgens mij. Met een overzichtje van mijn [blogjaren](/blogjaren/).
 
 Mijn blog is niet in WordPress gemaakt, alles is met de hand in elkaar geklust. Ik begin nu wel de beperkingen te merken. Bovenstaande lijstje heeft me zo'n 15 minuten gekost om bij elkaar te zoeken en ik weet dat er meer is over deze onderwerpen. Misschien moet ik toch weer eens een volgende stap zetten met dit blog. Zoals een zoekmachine toevoegen. Al is het maar voor mijn eigen gemak...
