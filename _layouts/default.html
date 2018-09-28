@@ -2,15 +2,15 @@
 <html>
   <head>
     <title>
-        {% case page.title %}
+      {% case page.title %}
         {% when '' %}
           {{content | strip_html |truncatewords: 4}}
         {% else %}
-        {% if page.mf-like-of %}
-          {{ page.mf-like-of }}
-        {% else %}
-          {{ page.title }}
-        {% endif %}
+          {% if page.mf-like-of %}
+            {{ page.mf-like-of }}
+          {% else %}
+            {{ page.title }}
+          {% endif %}
       {% endcase %}
       • {{ site.name }}
     </title>
@@ -34,8 +34,8 @@
          <nav>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/blogroll">Blogroll</a>
-            <a href="https://micro.blog/frank" rel="me" />Micro.blog</a>
             <a href="{{ site.baseurl }}/privacy">Privacy</a>
+            <a href="https://me.frankmeeuwsen.xyz/@frank" rel="me" />Mastodon</a>
           </nav>
         </header>
       </div>
@@ -79,7 +79,9 @@
         </p>
         <p class="small">
           Everything on this site is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Source code is available on <a href="https://gitlab.com/frankmeeuwsen/DTD-Blog">Gitlab</a>
-
+        </p>
+        <p>
+          <a href="http://www.kopimi.com/kopimi/"><img src="/images/k.png" width="22px" height="23px" alt="kopimi" /></a>
         </p>
         </footer>
       </div>
