@@ -17,6 +17,7 @@ De afgelopen maanden heb ik hier zelf mee geëxperimenteerd en wat bevindingen h
 * Hoe [verwijder je je Facebook account](/mijn-facebook-account-is-echt-weg/)?
 * Hoe [stop je met de diensten van Google](/Afscheid-Google-Apps/)?
 * Wat zijn alternatieve netwerken, zoals [Mastodon](/Mastodon/)?
+* Hoe start je een [eigen Mastodon server](/Nieuw-Mastodon-account/)?
 * Hoe gebruik ik RSS als [mijn online leesmap](/RSS-revisited/)?
 * Wat is het [Indieweb](/Indieweb)?
 * Blogs zijn een open einde. [Begin gewoon](/Een-open-einde/).
