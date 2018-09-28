@@ -6,7 +6,7 @@ excerpt: Mijn kleine gids met artikelen om uit de online algoritmes te komen.
 published: true
 header: header_internetstuk.jpg
 ---
-Michael Minneboo is een van de presentatoren van de podcast Geeky Dingen en schrijver van het boek "Mijn vriend Spiderman". Ik volg Michael al enige tijd, met name vanwege [zijn onophoudelijke geeky kennis](http://www.michaelminneboo.nl/) over strips en cartoons. We delen onze twijfels en tegenstand voor het online verdienmodel waar mensen worden behandeld als algoritmisch afgeleide gedragsprofielen. Hij heeft sinds kort eveneens een vlog, waar hij me attendeerde op zijn laatste episode "Is het internet stuk". Kijk even 12 minuten mee en kom dan weer hier terug.
+Michael Minneboo is een van de presentatoren van de podcast [Geeky Dingen](/geekydingen) en schrijver van het boek "Mijn vriend Spiderman". Ik volg Michael al enige tijd, met name vanwege [zijn onophoudelijke geeky kennis](http://www.michaelminneboo.nl/) over strips en cartoons. We delen onze twijfels en tegenstand voor het online verdienmodel waar mensen worden behandeld als algoritmisch afgeleide gedragsprofielen. Hij heeft sinds kort eveneens een vlog, waar hij me attendeerde op zijn laatste episode "Is het internet stuk". Kijk even 12 minuten mee en kom dan weer hier terug.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3_03OHhAJ6g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
