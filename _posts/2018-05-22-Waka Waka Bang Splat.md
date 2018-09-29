@@ -4,6 +4,8 @@ title: Waka Waka Bang Splat
 date: 2018-05-22 11:26:57 +2h
 excerpt: Poetry in code
 published: true
+categories: 
+    - random
 ---
 
 

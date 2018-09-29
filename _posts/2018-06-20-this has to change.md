@@ -5,6 +5,8 @@ date: 2018-06-20 10:26:04 +2h
 excerpt: While I don't use Facebook anymore on a personal account, every now and again I come across a link to a story on Facebook that needs to be told. 
 published: true
 header: thishastostop.jpg
+categories: bloggen
+tags: open-web facebook
 ---
 
 While I don't use Facebook anymore on a personal account, every now and again I come across a link to a story on Facebook that needs to be told. Personally, I would like to see stories like the one below to be shared on owned property like a blog or a website, instead of leased and data-driven property like Facebook. While I normally try to refrain myself on this site from political standpoints, big issues and anything related to current state of affairs, right now I want to share the story below. Because it needs te be told on the open web. As a lot of other stories need to be told, shared, stored and archived on the open web.

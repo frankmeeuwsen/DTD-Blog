@@ -4,6 +4,8 @@ title: Blogdrift
 excerpt: Wat is Blogdrift en hoe kom je er aan? Of weer vanaf?
 published: true
 header: blogdrift.jpg
+categories: 
+    - bloggen
 ---
 Gisteren vroeg mijn goede vriendin [Gonnie][1] me waar die plotselinge blogdrift ineens vandaan kwam. Ik was er even stil van. Niet alleen omdat ik moest nadenken over het antwoord, maar ook voor de term die ze gebruikt. Blogdrift.
 

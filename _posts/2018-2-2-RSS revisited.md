@@ -6,6 +6,9 @@ excerpt:
 published: true
 header: feedreader.jpg
 syndication: indienews
+categories: 
+    - webtech
+tags: rss indieweb
 ---
 Het is sinds een jaar of 10 heel normaal om _iemand_ te volgen op het web. Via Twitter, Facebook, Instagram, Snapchat of een ander sociaal kanaal. Iedereen vindt dat heel logisch en het voelt heel natuurlijk. 
 

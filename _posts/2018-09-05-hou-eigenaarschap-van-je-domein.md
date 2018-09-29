@@ -3,6 +3,8 @@ layout: micropubpost
 date: '2018-09-05T06:05:24.301Z'
 title: Hou eigenaarschap van je domein
 slug: hou-eigenaarschap-van-je-domein
+categories: bloggen
+tags: bloggen indieweb
 ---
 "[Medium Deprecates Custom Domains Service](https://help.medium.com/hc/en-us/articles/115003053487-Custom-Domains-service-deprecation)". Ik vermoed dat Medium naarstig op zoek is naar een model om zichzelf relevant te houden. Door nu alleen nog sites toe te staan het medium.com domeinnaam te gebruiken, verwachten ze meer zichtbaarheid van hun naam? Of zou er een andere reden zijn?
 

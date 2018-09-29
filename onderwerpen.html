@@ -1,0 +1,19 @@
+---
+layout: default
+title: Onderwerpen op de site
+---
+Op Digging the Digital komen allerlei onderwerpen aan bod. Hier vind je een zo volledig mogelijk overzicht.
+{% for category in site.categories %}
+  {% unless category[0] == "instagram"%}
+    <h3>{{ category[0] }}</h3>
+    <ul>
+      {% for post in category[1] %}
+        {% if post.title != ''%}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% elsif post.title == '' %}
+        <li><a href="{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></li>  
+        {% endif%}
+      {% endfor %}
+    </ul>
+  {% endunless %}
+{% endfor %}

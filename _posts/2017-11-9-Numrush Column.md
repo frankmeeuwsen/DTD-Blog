@@ -4,6 +4,8 @@ title: Facebook heeft jou harder nodig dan andersom
 excerpt: Mijn maandelijkse column bij Numrush gaat deze keer over de sociale silo's en de opkomst van het open IndieWeb
 published: true
 header: indieweb-silo.jpg
+categories: 
+    - indieweb
 ---
 
 Elke maand schrijf ik een column op Numrush over nieuwe technologie, interessante ontwikkelingen en hoe ik er tegen aan kijk. Dat is het mooie van een column, het kan lekker over mij gaan :-)

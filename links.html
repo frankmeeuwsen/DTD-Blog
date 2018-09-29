@@ -1,0 +1,14 @@
+---
+layout: default
+title: Onderwerpen op de site
+---
+Linkdump!
+{% for category in site.categories %}
+{% if category[0] == "links"%}
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endfor %}

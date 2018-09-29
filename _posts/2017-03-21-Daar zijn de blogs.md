@@ -2,7 +2,9 @@
 layout: post
 title: Dus dáár is de Nederlandse blogosfeer!
 excerpt: Ik moest echt even wat verder zoeken
-tags: blog
+tags: bloggen
+categories: 
+    - bloggen
 ---
 
 ![Whatever >](http://gifs.frankmeeuwsen.com/whatever/bw-whatever.gif)Ja zeg. Wist ik veel. Ik zat nog in mijn kleine bubbeltje toen ik [dit schreef](/Nederlandse-Blogs/), een week geleden. En wist ik veel dat het even een dagje wat zou losmaken bij de bloggers van nu.

@@ -6,6 +6,7 @@ excerpt: Vandaag vieren we de verjaardag van het World Wide Web en geef ik je ee
 published: true
 header: digitalebevrijdingsdag.jpg
 syndication: indienews
+categories: webtech
 ---
 Vandaag vieren we de verjaardag van [de eerste website](http://info.cern.ch/hypertext/WWW/TheProject.html) op het internet. 27 Jaar geleden, op 6 augustus 1991, kwam deze pagina online en het wordt algemeen gezien als de allereerste website op het toen net publieke World Wide Web. De geboorte van het web is onlosmakelijk verbonden aan Sir Tim Berners-Lee, maar wist je dat er eveneens twee Nederlanders bij betrokken waren? Willem van Leeuwen was verbonden aan [Nikhef](https://www.nikhef.nl/),het Nationaal instituut voor subatomaire fysica. Ze houden zich bezig met onderwerpen als het higgsdeeltje, antimaterie en de oerknal. In 1992 was het van Leeuwen die servers [online zette](https://nic.nikhef.nl/~a03/www/default/NikhefGuide.html) (Chrome geeft een waarschuwing voor een onveilige site, gewoon doorklikken) vanaf het instituut en veel feedback gaf op de originele W3 browsercode. 
 [Eelco van Asperen](https://en.wikipedia.org/wiki/Eelco_van_Asperen) was werkzaam bij de Erasmus Universiteit in Rotterdam. Hij herschreef de software van de tweede browser ooit, de [Line Mode Browser](https://en.wikipedia.org/wiki/Line_Mode_Browser) zodat deze onder andere systemen beschikbaar werd. 

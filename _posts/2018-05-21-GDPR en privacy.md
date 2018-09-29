@@ -6,6 +6,8 @@ excerpt: Een privacypolicy met een Creative Commons licentie. Omdat het kan.
 published: true
 header: aypabtu.png
 syndication: indienews
+categories: indieweb
+tags: gdpr indieweb
 ---
 Nu de laatste week in gaat voor de AVG/GDPR echt in werking treedt, is het tijd om deze site aan te vullen met een [privacy-verklaring](/privacy). Hier kun je lezen wie ik ben, welke datapunten je op deze site achterlaat, hoe je je daar van kunt ontdoen en welke publiek beschikbare data ik toon als jij besloot iets te vinden over een blogpost. Wil je meer achtergrond over het hoe en waarom, dan raad ik je aan om de artikel-serie ***GDPR en het Indieweb*** ([deel 1](http://diggingthedigital.com/GDPR-en-het-Indieweb/), [deel 2](http://diggingthedigital.com/GDPR-en-het-Indieweb-deel-2/) en [deel 3](http://diggingthedigital.com/GDPR-en-het-Indieweb-deel-3-Webmentions/)) en te lezen waarin ik onderzoek hoe en wat ik moet doen om zo goed mogelijk te voldoen aan de GDPR wetgeving.
 

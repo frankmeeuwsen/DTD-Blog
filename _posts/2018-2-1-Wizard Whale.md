@@ -5,6 +5,9 @@ date: 2018-02-01T212155CET
 excerpt: On a ceiling, on a voice a glitter fairy (wat?)
 published: true
 header: yellowledbetter.jpg
+categories: 
+    - random
+tags: pearl-jam
 ---
 Op mijn dagelijkse rit van en naar [Olisto](https://olisto.com) luister ik vaak naar podcasts. Op zich is dat niet meer zo bijzonder, er zijn steeds meer podcasts en steeds meer luisteraars. De downloadbare radioshows of losse flodders zijn sterk in opkomst en ik ben dan ook blij dat er steeds meer genres van podcasts zijn te vinden. 
 

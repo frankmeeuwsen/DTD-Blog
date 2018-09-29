@@ -3,7 +3,9 @@ layout: post
 title: Mastodon communities
 excerpt:
 published: false
-tags: Mastodon
+tags: mastodon internet
+categories: 
+    - indieweb
 ---
 
 

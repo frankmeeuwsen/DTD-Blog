@@ -5,6 +5,7 @@ date: 2018-08-18 08:28:47 +2h
 excerpt: Ik heb er nog een paar liggen...
 published: true
 header: kofferbakhandel.jpg
+categories: bloggen
 ---
 In 2010 publiceerde ik het boek Bloghelden, het eerste boek over de geschiedenis van 10 jaar webloggen in Nederland. Aan de hand van vijftien interviews schets ik een beeld van een groep pioniers die het medialandschap in Nederland een belangrijke impuls gaven in de jaren 1995 - 2005. Het is een illustratieve bloemlezing van de Nederlandse blogosfeer.
 

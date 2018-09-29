@@ -5,6 +5,8 @@ date: 2018-01-28T072518CET
 excerpt:
 published: true
 header: leesmap.png
+categories: 
+    - random
 ---
 De afgelopen week zijn er wat weinig echt boeiende artikelen voorbij gekomen.  Dat heeft niets te maken met het schrijfethos van online auteurs, maar met mijn gebrek aan aandacht voor wat er is gepubliceerd. Het dagelijkse leven slokt je soms op. 
 

@@ -4,6 +4,9 @@ title: De leesmap van week 49
 excerpt: Instagram, IndieWebcamp en de Nederlandse Curatoren Club
 published: true
 header: leesmap.png
+categories: 
+    - random
+tags: leesmap pinboard indieweb
 ---
 
 Kerstmis 2016 vierde ons gezin tussen de verhuisdozen omdat we op het punt stonden om naar een nieuw huis te verhuizen. In die periode overleed mijn oma nog eens. Wat een vreemde periode was het. Hoe anders is dat deze zondag. Met een besneeuwde achtertuin op de achtergrond zetten we met z'n allen de kerstboom en maken we het nog gezelliger in huis. Daarom een kleine vertraging in deze leesmap. Het leven is belangrijker.

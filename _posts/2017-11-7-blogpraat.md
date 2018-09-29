@@ -4,6 +4,9 @@ title: Blogpraat
 excerpt: Een avondje online blog gebabbel. 
 published: true
 header: blogpraat.jpg
+categories: 
+    - bloggen
+
 ---
 Gisteren deed ik al [een petje af][1] voor ome Seth Godin die 7000 blogposts heeft geschreven op zijn eigen moederschip. Diezelfde avond was er een #Blogpraat chatuurtje op Twitter. 
 

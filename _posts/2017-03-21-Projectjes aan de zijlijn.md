@@ -2,6 +2,8 @@
 layout: post
 title: Projectjes aan de zijlijn
 excerpt: Je moet naast je werk altijd nog een hobby hebben. Die van mij is Digitale Overdaad.
+categories: 
+    - random
 ---
 
 Ik werk in de online industrie sinds 1996. Toen er nog geen industrie was en we allemaal wat aanklooiden. Wat dat betreft is er voor sommigen in 20 jaar weinig veranderd, maar ik ben altijd al met online publiceren bezig geweest en ik heb me altijd geïnteresseerd in de mogelijkheid om als individu op je eigen domein, met je eigen regels en je eigen keuzes, je eigen publiek te bereiken. DIY. Natuurlijk is de online wereld veranderd en natuurlijk is het makkelijker dan ooit om rechtsreeks op je smartphone _iets_ te publiceren. Op een eigen of een netwerk als Facebook, Twitter, Instagram of Snapchat. De discussie over geleende grond en je eigen grond komt later wel. Waar ik heen wil is dat die interesse bij mij onherroepelijk leidt tot de aandrang om het dan ook zelf te doen. 

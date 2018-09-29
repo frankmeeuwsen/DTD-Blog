@@ -3,6 +3,10 @@ layout: post
 title: Wat is Jekyll en waarom?
 excerpt: Weer iets nieuws qua blogsoftware, maar waarom dan?
 published: false
+categories: 
+    - webtech
+tags: jekyll
+
 ---
 
 Waarom geen wordpress meer?

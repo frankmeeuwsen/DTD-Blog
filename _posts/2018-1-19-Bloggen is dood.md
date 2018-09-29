@@ -3,6 +3,8 @@ layout: post
 title: Bloggen is voorbij?
 excerpt: Volgens de New Yorker in elk geval wel
 published: true
+categories: 
+    - bloggen
 ---
 Het artikel in de New Yorker begint met de volgende quote:
 

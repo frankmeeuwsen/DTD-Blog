@@ -4,7 +4,8 @@ title: Een half jaar zonder Facebook
 date: 2018-08-08 08:43:43 +2h
 excerpt: Ik mis niets
 published: true
-header:
+categories: webtech
+tags: facebook cheatsheet
 ---
 Vandaag is het [een half jaar geleden](/mijn-facebook-account-is-echt-weg/) dat ik mijn Facebook account verwijderde. Het is niet dat ik de datum op mijn kalender heb gemarkeerd, ik kwam er toevallig achter toen ik wat rond zat te klikken op mijn eigen blog. Zo is het nog eens ergens goed voor. 6 Maanden weg bij Facebook lijkt mij een prima ijkmoment om de beslissing eens te evalueren en te zien hoe het me bevalt. 
 

@@ -4,6 +4,8 @@ title: Wanneer is iets lezenswaardig?
 excerpt: En voor wie moet het lezenswaardig zijn?
 published: true
 header: lezenswaardig.jpg
+categories: 
+    - bloggen
 ---
 
 ""Van je af tikken"?

@@ -4,6 +4,8 @@ title: Hoe ik vijf jaar nodig had om te leren hoe ik een gewoonte kan maken
 excerpt: Of ik nu iets wil schrijven of wil hardlopen. Inmiddels heb ik wel wat meer over mezelf geleerd...
 published: true
 header: panobook-2.jpg
+categories: 
+    - bloggen
 ---
 In 2012 kocht ik de Mac app Day One. Een digitaal dagboek, of de wat meer _neutrale_ benaming, een *journal*. Want kom, ik ga toch niet in een dagboek schrijven? Ik besloot dat ik de uitdaging met mezelf wilde aan gaan om privé meer te schrijven wat me bezig houdt, wat ik zoal meemaak op een dag. Wat ik lees, doe en deel. Day One is een prima app, ik kan het zeker aanraden als je 2018 vol goede voornemens begint. Ik heb inmiddels geleerd dat het voor mij niet een app is die me helpt om de gewoonte van het dagelijks loggen vol te houden. 
   

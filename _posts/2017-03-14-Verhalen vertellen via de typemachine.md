@@ -3,6 +3,9 @@ layout: post
 title: Verhalen vertellen via de typemachine
 excerpt: De waarheid is altijd genuanceerder dan het internet doet vermoeden
 date: 2014-03-08 19:26
+categories: 
+    - bloggen
+
 ---
 !["img-post-cover"](/images/hipster_park_typewriter.jpg) 
 

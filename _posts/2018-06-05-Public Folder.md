@@ -6,6 +6,8 @@ excerpt: Hoe je makkelijk je statische site van Github Pages kunt verplaatsen na
 published: true
 header: publicfolder.png
 syndication: indienews
+categories: webtech
+tags: nodejs cheatsheet code bloggen
 ---
 Ik was vanochtend eigenlijk op zoek in mijn Programma's map of ik nog een offline RSS-lezer had. Zover kwam ik niet, want mijn oog viel op het programma [PublicFolder](http://this.how/publicFolder/). Ik wist eerst even niet wat het was maar nadat ik het opende zag ik al snel dat het een projectje van Dave Winer was. Een relatief kleine NodeJS applicatie die als losstaand programma kan fungeren. Wat doet het? Het fungeert als een soort privé Dropbox. Als het programma is gestart kun je bestanden in een zelf gekozen map plaatsen. Vervolgens, na wat configuratie, gaat PublicFolder deze bestanden automatisch kopieren naar Amazon S3, een [online opslagplaats](https://www.wat-betekent.nl/wat-betekent-s3/) (**S**imple **S**torage **S**ervice)voor vanalles en nog wat.
 

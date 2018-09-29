@@ -4,6 +4,8 @@ title: Een leesmap over openheid, meningsuiting en Ice Cube.
 excerpt: Week 3 alweer. Tijd voor een nieuwe leesmap!
 published: true
 header: leesmap.png
+categories: 
+    - random
 ---
 De CES zit er op, mijn jetlag is wel weg en de Kerstvakantie voelt als een verre vrije dag uit het verleden. Zoals ik al eerder deze week schreef, er was vorige week geen leesmap. Daarom deze week een iets dikkere editie. Niet direct méér links, maar dat wat is gelinkt, heeft meer inhoud. Vind ik dan. 
 

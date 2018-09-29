@@ -5,8 +5,10 @@ excerpt: Of juist niet...
 published: false
 tags: 
 - mastodon
-- uitleg
 header: mastodon.png
+categories: 
+    - mastodon
+
 ---
 Inmiddels zijn we een dikke maand verder en de activiteiten op Mastodon blijven doorgaan. De Nederlandse delegatie zoals verwacht is flink geslonken maar het weerhoudt een groeiende groep internationale gebruikers om nog dagelijks in te loggen op een van de instanties en contact met elkaar te hebben.  
 

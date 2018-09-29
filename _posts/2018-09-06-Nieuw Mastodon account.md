@@ -6,6 +6,8 @@ excerpt: Hoe ik een eigen Mastodon-instance nam en zo nog steeds actief ben op d
 published: true
 header: mestodon.jpg
 syndication: indienews
+categories: indieweb
+tags: mastodon
 ---
 Sinds vandaag ben ik verhuisd met een van mijn social netwerk-accounts naar een account wat ik nog meer [in eigen beheer heb](https://me.frankmeeuwsen.xyz/@frank). Vanaf de vroege start van Mastodon heb ik een account op het Mastodon.social-account, het vlaggeschip van het  decentrale netwerk. 
 Gisteren las ik [een blogpost van Laura Kalbag](https://laurakalbag.com/what-is-mastodon-and-why-should-i-use-it/), zij is de helft van het duo achter onder andere [In.die](https://ind.ie/) en de privacy tool [Better](https://better.fyi/). Zij beschrijft waarom ze er voor kiest om aanwezig te zijn op het Mastodon-netwerk via een eigen server, een zogenaamde *instance*. 

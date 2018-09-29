@@ -4,6 +4,9 @@ title: Wat is POSSE en PESOS op het IndieWeb?
 excerpt: Nieuwe termen, nieuwe wijn? Of is het meer van wat we al kenden?
 published: true
 header: posse.jpg
+categories: 
+    - indieweb
+tags: cheatsheet indieweb open-web
 ---
 De afgelopen tijd heb ik meer geschreven over het IndieWeb, zowel [hier][1] als bij [Numrush][2]. Nu ben ik nog steeds op zoek naar een echt pakkende en passende omschrijving van deze community of _movement_. Ik neig steeds naar "Het internet zoals het was vóór Facebook, Google en Twitter". 
 Op de [IndieWeb wiki][3] is heel veel informatie te vinden over het gedachtengoed, de manieren waarop en waarom iets IndieWeb is en ik kom er nieuwe termen tegen. Ik wil er nu drie uitlichten, de acroniemen POSSE, PESOS en PESETAS. Vooral om mijn eigen gedachten er bij te krijgen en te ordenen, het zelf vast te leggen en natuurlijk met jullie te delen. 

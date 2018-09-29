@@ -4,6 +4,9 @@ title: Feedbase opnieuw bekeken
 date: 2018-04-07T220719CEST
 excerpt: Abonneer je op interessante sites 
 published: true
+categories: 
+    - bloggen
+tags: open-web bloggen cheatsheet rss
 ---
 
 Een week of wat terug schreef ik [een korte introductie](/feedbase/) over feedBase, de nieuwe app van The Blogfather, Dave Winer ([tweet!](https://twitter.com/davewiner/status/979128364526170112)). Deze gecentraliseerde database van RSS-abonnementen brengt weer een extra duwtje in het tweede leven van RSS zo lijkt het. Vlak na de start van feedBase verscheen een artikel in Wired, "[It's time for an RSS revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)". Naast de verplichte uitleg over RSS en de korte opkomst en neergang (we kijken naar je Google Reader!) komen de ontwikkelaars van RSS-software aan het woord. Waarom bijvoorbeeld Feedly meer een onderzoeksinstrument is dan een eenvoudige *feedreader*? Simpel, voor entertainment moet je concurreren met Instagram en Facebook, dat ga je niet redden als RSS-reader. Maar focus je meer op dieper onderzoek of meer eigen keuze dan zijn er alternatieven voor je. 

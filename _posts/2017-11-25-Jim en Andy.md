@@ -4,6 +4,8 @@ title: Jim and Andy - The Great Beyond
 excerpt: De parallelle persoonlijkheden van Jim Carrey en Andy Kaufman in een unieke kijk achter de schermen.
 published: true
 header: jim.jpg
+categories: 
+    - random
 ---
 > "Ik ga onder ogen zien dat ik niet weet of mensen dit fijn vinden of niet"
 

@@ -4,6 +4,8 @@ title: Threads versus posts
 excerpt: Twitter threads zijn hotter dan blogposts. Maar er is een weg terug
 published: true
 header: tape.jpg 
+categories: 
+    - bloggen
 ---
 
 Het viel me al een tijdje op dat er steeds meer threads op Twitter verschijnen. Een Twitter thread is een serie tweets die iemand post door steeds op zijn (of haar) vorige tweet te reageren. Daarbij nummert hij zijn tweets en geeft aan het einde aan dat de thread voorbij is. Zie [dit voorbeeld](https://twitter.com/Noahpinion/status/904366578149408769) van een politiek geladen thread en [hier een voorbeeld](https://twitter.com/hondanhon/status/868512789815361536) hoe Dan Hon een verhaal maakt in tweets. 

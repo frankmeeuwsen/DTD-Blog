@@ -5,6 +5,9 @@ date: 2018-02-23T15:48:26+01:00
 excerpt: Je Facebook account verwijderen is supersimpel. Je moet wel 14 dagen geduld hebben.
 published: true
 header: header-facebook.jpg
+categories: 
+    - webtech
+tags: facebook indieweb social-media
 ---
 Ik moet eerlijk zijn, ik had er mijn twijfels bij! Heel vaak hoor ik geluiden over het verwijderen van Facebook accounts in de volgende trant: "Ik had mijn Facebook account verwijderd maar zelfs na die periode kon ik nog gewoon inloggen" of "Na een paar maanden kon ik nog gewoon inloggen en was alles er weer".
 

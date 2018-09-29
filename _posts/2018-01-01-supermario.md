@@ -4,6 +4,8 @@ title: In het nieuwe jaar een oud spel spelen
 excerpt: Lekker Super Mario spelen!
 date: 2018-01-01 22:42:52
 published: true
+categories: 
+    - random
 ---
 
 De eerste dag van het jaar is bij ons altijd een wat luie dag. Lekker niets doen, beetje film kijken, restjes van oudjaar opknagen. 

@@ -4,6 +4,8 @@ title: Hippe marketingtermen
 excerpt: Is je social contentstrategy al geconverteerd naar een offline branded experience? 
 published: true
 header: hippetermen.jpg
+categories: 
+    - random
 ---
 
 Komende week maak ik samen met buurman Elger een podcast en in de voorbereiding zit ik eens een avondje buiten mijn comfortzone te klikken.

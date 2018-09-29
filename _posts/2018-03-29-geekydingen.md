@@ -5,6 +5,8 @@ date: 2018-03-29T193419CEST
 excerpt: Ik ontdekte de podcast Geeky Dingen en wat is het heerlijk!
 published: true
 header: header-geekydingen.jpg
+categories: 
+    - random
 ---
 De 24 uur die in een dag zitten...
 \\

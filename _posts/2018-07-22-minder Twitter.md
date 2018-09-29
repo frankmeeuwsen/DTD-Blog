@@ -5,6 +5,8 @@ date: 2018-07-22 10:55:33 +2h
 excerpt: Herstart het Twitter spel en speel opnieuw. Hoe ik na een week naar mijn Twitter-ontvolg actie kijk.
 published: true
 header: arcade.jpeg
+categories: webtech
+tags: twitter
 ---
 Een week geleden besloot ik mijn volledige lijst van Twitter-volgers te verwijderen en opnieuw te beginnen met mensen te volgen op het netwerk. Een nieuwe start.
 

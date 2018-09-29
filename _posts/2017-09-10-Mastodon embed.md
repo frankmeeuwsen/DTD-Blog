@@ -4,6 +4,9 @@ title: Mastodon leeft toch nog?
 excerpt: Het lijkt dat Mastodon nog steeds tekenen van leven geeft
 published: true
 header: mastodon.png
+categories: 
+    - indieweb
+tags: mastodon
 ---
 
 True... ik laat me niet veel meer horen op en over Mastodon. Maar toch kijk ik er minimaal twee keer per week wat er zoal wordt gedeeld en besproken op een van de grootste instanties, Mastodon.social.

@@ -4,7 +4,8 @@ title: GDPR en het Indieweb (deel 2)
 date: 2018-05-09T214044CEST
 excerpt:
 published: true
-header:
+categories: indieweb
+tags: gdpr indieweb
 ---
 
 _Dit is het tweede deel in een serie van drie artikelen. In [deel 1](/GDPR-en-het-Indieweb/) maak ik een eerste overzicht wat er zou moeten gebeuren, [deel 3](/GDPR-en-het-Indieweb-deel-3-Webmentions/) gaat over webmentions en reacties._

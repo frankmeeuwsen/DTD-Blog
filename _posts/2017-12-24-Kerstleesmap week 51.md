@@ -4,6 +4,8 @@ title: Ho ho ho! Vrolijke leesdagen!
 excerpt: Hoeveel Home Alone en Die Hard kan een mens verdragen met Kerst? Daarom lekker lezen met deze Kerstleesmap!
 published: true
 header: leesmapkerst.jpg
+categories: 
+    - random
 ---
 De 3FM DJ's mogen bijna weer naar huis, de eerste levende kerststallen worden klaargezet voor vanavond. Nog even voor de laatste vergeten ingrediënten naar de winkel, oh shit het kerstinpakpapier is op, en waar is dat tafelkleed eigenlijk gebleven? Tijd om even bij te komen met de leesmap. Lekker onder de kerstboom of bij de open haard. Of beiden.
 

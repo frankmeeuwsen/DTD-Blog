@@ -5,6 +5,9 @@ date: 2018-03-15T101444CET
 excerpt: Read and download old Pearl Jam fanzines from the nineties!
 published: true
 header: header-pj.jpg
+categories: 
+    - random
+tags: pearl-jam
 
 ---
 

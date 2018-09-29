@@ -3,6 +3,10 @@ layout: post
 title: Lees dit niet op een scherm!
 excerpt: Nuance is altijd lastig te verkopen.
 date: 2014-05-18 05:49
+categories: 
+    - random
+tags: zine internet
+
 ---
 
 ![](/images/resource.jpg)

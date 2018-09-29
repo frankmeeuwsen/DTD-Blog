@@ -4,6 +4,8 @@ title: Columns op Numrush
 excerpt: Ik schrijf periodiek op Numrush. Hier vind je het overzicht
 published: true
 header: numrush.jpg
+categories: 
+    - bloggen
 ---
 
 Naast dit blog, de Triggi site, sociale kanalen en wat side-projects, schrijf ik periodiek voor [Numrush][1], dé nieuwssite rondom smart technology en innovatie. Gelukkig hoef ik er geen redactiedienst te doen. Ik schrijf columns over de ontwikkelingen rondom smart devices, smart homes en andere smart dingen. Omdat ik het fijner vind de columns in hun natuurlijke omgeving te tonen, zie hier een chronologische linkdump van de columns. Lekker doorklikken!

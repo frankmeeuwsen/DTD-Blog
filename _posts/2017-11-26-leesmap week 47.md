@@ -4,6 +4,8 @@ title: De leesmap van week 47
 excerpt: Een smorgasbord van links en fijne artikelen op deze zondag. En Mariah Carey.
 published: true
 header: marsselfie.jpg
+categories: 
+    - random    
 ---
 Een smorgasbord van links en fijne artikelen op deze zondag. Geniet van de dag, maak een wandeling en bezoek een onbekende site online. Veel plezier!
 

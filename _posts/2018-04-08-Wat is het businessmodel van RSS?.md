@@ -6,6 +6,9 @@ excerpt: RSS herinnert ons er aan dat het internet juist een plek is waar je een
 published: true
 header: leesmap.png
 syndication: indienews
+categories: 
+    - webtech
+tags: bloggen rss
 ---
 
 Danny Crichton schrijft op Techcrunch een aardige column, "[RSS is Undead](https://techcrunch.com/2018/04/07/rss-is-undead/)", waarin hij de oude koeien uit de sloot haalt en afdroogt als het om RSS gaat. In de column beschrijft hij de problemen die RSS had en heeft. Zowel het protocol als de software. Tevens geeft hij een paar ideeën die de moeite van het overdenken waard zijn. 

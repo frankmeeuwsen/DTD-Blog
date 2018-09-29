@@ -4,9 +4,8 @@ title: Waar te beginnen met Webmentions
 date: 2018-07-05 10:12:00 +2h
 excerpt: Het begint een terugkerend onderwerp te worden...
 published: true
-categories: 
-    - indieweb
-    - webmention
+categories: indieweb
+tags: webmentions indieweb open-web cheatsheet
 ---
 Er zijn van die momenten dat ik het liefste de hele dag ga zitten puzzelen hoe ik nu de [webmentions](/webmentions/) op deze site in orde moet maken. Het loopt allemaal nog steeds niet lekker, maar ik weet niet goed welke kant ik op moet denken en werken voor een oplossing. 
 

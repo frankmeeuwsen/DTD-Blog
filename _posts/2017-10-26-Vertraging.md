@@ -3,6 +3,9 @@ layout: post
 title: Het tempo van je blog
 excerpt: Kun je een tempo in een blogpost bepalen?
 published: true
+categories: 
+    - bloggen
+
 ---
 
 Persoonlijke weblogs, of eigenlijk, blogs zonder een winstoogmerk, hebben een heel fijn tempo merk ik. Al sinds jaar en dag zijn er diverse blogs die ik volg rondom marketing, social strategie, content en nieuwe technologie. Misschien is het de tijd van het jaar, misschien is het mijn gemoedstoestand, maar ik krijg het steeds meer _benauwd_ van die blogs. Het gevoel dat vanalles _moet_. 

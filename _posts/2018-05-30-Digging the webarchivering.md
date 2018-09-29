@@ -5,6 +5,7 @@ date: 2018-05-30 09:18:01 +2h
 excerpt: Afgelopen week ontving ik een e-mail van de Koninklijke Bibliotheek te Den Haag met de mededeling dat ze deze site opnemen in hun collectie. Hashtag Trots!
 published: true
 header: webarchief.jpeg
+categories: bloggen
 ---
 Afgelopen week ontving ik een e-mail van de Koninklijke Bibliotheek te Den Haag. Deze bibliotheek heeft een redelijk recht-door-zee opdracht: Verzamel alle Nederlandse publicaties zodat ze voor toekomstige wetenschappers en studenten beschikbaar zijn. De KB is in 2007 gestart met het selectief archiveren van websites over de Nederlandse taal, cultuur en geschiedenis. Dat betekent dat de websites niet alleen worden binnengehaald (crawlen of harvesten genoemd), maar dat er ook een strategie wordt ontwikkeld om de informatie voor de lange termijn bruikbaar te houden. (Bron: [Site KB](https://www.kb.nl/organisatie/onderzoek-expertise/e-depot-duurzame-opslag/webarchivering))
 

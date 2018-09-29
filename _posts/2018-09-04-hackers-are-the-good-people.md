@@ -6,6 +6,7 @@ mf-bookmark-of:
   - 'https://daniel.haxx.se/hackers.html'
 slug: hackers-are-the-good-people
 category: links
+tags: cli hack
 ---
 Van de man die onder andere het [curl en libcurl commando](https://curl.haxx.se/) heeft geschreven en het onderhoudt (waarmee bv Fortnite wordt gedownload op je computer...)
 

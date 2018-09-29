@@ -4,6 +4,11 @@ title: Punkrock Publishing
 excerpt: 
 published: true
 header: fugazi.jpg
+categories: 
+    - indieweb
+    - bloggen
+tags: indieweb internetgeschiedenis open-web
+
 ---
 Vandaag las ik [dit veel gedeelde artikel][1] van Mike Monteiro over de teloorgang van Twitter. Of in elk geval, zijn perceptie van de teloorgang van Twitter. Welnu, het gaat me nu niet over Twitter en of ze over een jaar niet meer bestaan. 
 

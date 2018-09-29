@@ -3,7 +3,12 @@ layout: post
 title: Too Many Cooks
 excerpt: Een van mijn favoriete Youtube videos aller tijden.
 date: 2014-11-09 19:05
-tags: internet
+tags: 
+    - internet
+    - youtube
+categories: 
+    - random
+
 ---
 
 ![](/images/too-many-cooks.gif "Too many cooks")

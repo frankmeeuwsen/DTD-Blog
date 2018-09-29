@@ -4,6 +4,9 @@ title: De obligate Ik Ben Er Nog blogpost
 date: 2018-04-19T211312CEST
 excerpt:
 published: true
+categories: 
+    - random
+tags: bloggen
 ---
 Sinds ik bezig ben met dit blog merk ik dat mijn activiteiten hier lekker vertrouwd met eb en vloed gaan. Er is genoeg te zeggen over alle gebeurtenissen de afgelopen weken. Van het nieuws rondom Facebook en Cambridge Analytica, mijn aanwezigheid in een panel over de toekomst van de opleiding CMD, succesjes met het hardlopen, boeiende artikelen die ik heb gelezen. Maar soms komt het er gewoon niet van om het allemaal op deez' blog te delen. Ik wil dat nog makkelijker maken voor mezelf. Bijna met een soort one-click oplossing om een link te delen inclusief een extra opmerking waarom het lezenswaardig is. 
 

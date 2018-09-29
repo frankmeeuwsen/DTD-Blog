@@ -3,6 +3,10 @@ layout: post
 title: Give me your GIF!
 excerpt: Zie hoe de GIF zich losrukt van het digitale domein!
 date: 2014-02-13 20:29
+categories: 
+    - random
+    - links
+
 ---
 
 Wie me kent, weet dat ik een onvoorwaardelijke liefde heb voor animated GIF's. Ik vind het heerlijk hoe bestaande technologie wordt hergebruikt in andere vormen. De GIF is een oud bestandsformaat maar door onder andere de tijdverdrijf-lijstjes van Upcoming en Buzzfeed zijn ze meer populair dan tevoren.

@@ -4,6 +4,9 @@ title: De leesmap van week 45
 excerpt: Een gecureerde verzameling van links en artikelen die ik deze week las
 published: true
 header: leesmap.png
+categories: 
+    - random
+tags: pinboard indieweb bloggen rss leesmap
 ---
 
 Zolang ik online schrijf deel ik links met de buitenwereld. Dat begon al op mijn eerste blog en al die jaren merk ik dat die links het meeste op prijs worden gesteld. Daarom begin ik hier weer met wat ik vroeger al had, de Incredible Leesmap. Op het blog van http://incredibleadventure.nl (nu nog offline) had ik elke zondag de [Incredible Leesmap][1], zie hier [de volledige lijst][2]. Omdat ik elke dag wel boeiende artikelen tegenkom, waarom niet weer delen met jullie? 

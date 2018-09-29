@@ -5,6 +5,8 @@ date: 2018-05-28 10:26:32 +2h
 excerpt:
 published: true
 header: kelly.jpg
+categories: 
+    - webtech
 ---
 De jaarlijks terugkerende tech-conferentie [The Next Web](https://thenextweb.com/event/tnw-conference/) zit er weer op. Elk jaar tovert het team van dit techblog het Westergas terrein om tot een festivalterrein waar je twee dagen kunt onderdompelen in sprekers en een live rondlopend Twitter en LinkedIn netwerk. Maar even zo goed live muziek, foodtrucks met prima eten, een eigen aankleding en geweldige podia waar de sprekers hun verhaal doen. 
 

@@ -4,7 +4,8 @@ title: PhantomJS. Browsen zonder browser
 date: 2018-05-06T113242CEST
 excerpt:
 published: true
-header:
+categories: 
+    - webtech
 ---
 
 Bij Olisto hebben we te maken met de GDPR wetgeving die eind deze maand in werking treedt. Dat is nogal logisch, aangezien we best wat (persoonlijke) data ontvangen en versturen via onze dienst. Vanaf de start van de app zijn we al behoorlijk *privacy-aware* maar het kan altijd beter. Met een team werken we al een tijdje aan het vernieuwen van de privacy policy, verbeteren we de manieren waarop je je data kunt downloaden en je account kunt verwijderen en nog meer.

@@ -3,6 +3,8 @@ layout: post
 title: Mijn eerste bot. In Node.js en met Twitter
 excerpt:
 published: false
+tags: code cheatsheet
+categories: webtech
 ---
 
 Bron: [Make a Twitter bot that random tweets images](https://botwiki.org/tutorials/random-image-tweet/)

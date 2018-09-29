@@ -4,6 +4,8 @@ title: Hoe werken Webmentions?
 excerpt: Wat zijn Webmentions en waar zijn de comments en omekot wat nu?
 published: true
 header: webmentions.jpg
+categories: indieweb
+tags: webmentions indieweb jekyll
 ---
 
 Er was ooit een tijd dat we geen sociale netwerken hadden. Ja lieve kinders, opa gaat weer vertellen....  

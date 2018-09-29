@@ -4,6 +4,7 @@ title: Mijn lijst van blogs die ik volg
 date: 2018-06-09 09:51:10 +2h
 excerpt: Pak direct een lijst met alle blogs waar ik op ben geabonneerd
 published: true
+categories: bloggen
 ---
 Hey Ton, bedankt voor [je vraag op je (micro)blog](https://www.zylstra.org/blog/2018/06/4125/). Mijn lijst van blogs is deels gevoed door _jouw_ lijst dus je zult veel bekende namen tegenkomen. Tevens heb ik een deel van de top 100 blogs uit Feedbase gepakt, met name degene die niet te veel posten. En dan nog eens mijn eigen voorkeuren door de jaren heen, opgebouwd uit allerlei OPML-bestanden uit het verleden. 
 

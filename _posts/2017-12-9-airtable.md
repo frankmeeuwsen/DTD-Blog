@@ -4,6 +4,8 @@ title: Mijn highschool films op orde dankzij Airtable
 excerpt: Och hadden die nablijvers maar Airtable in plaats van zo'n saaie schrijfopdracht!
 published: true
 header: breakfastclub.jpg
+categories: 
+    - webtech
 ---
 Naast internet, bloggen, muziek en biertjes heb ik nog een liefde. Ja vrouw en kinderen natuurlijk, maar een hobby-liefde. Al weet ik niet of je het een hobby kunt noemen. Evenzogoed, zoals we allemaal een favoriet filmgenre hebben, ben ik redelijk dol op highschool-films uit de jaren '80. Elke veertiger die dit leest kent ze, Pretty in Pink, St. Elmo's Fire en de topper The Breakfast Club. 
 

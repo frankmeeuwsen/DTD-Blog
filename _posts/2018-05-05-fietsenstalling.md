@@ -5,6 +5,8 @@ date: 2018-05-05T082757CEST
 excerpt: 
 published: true
 header: header-stalling.png
+categories: 
+    - random
 ---
 "But what about the fish? The fish?"
 

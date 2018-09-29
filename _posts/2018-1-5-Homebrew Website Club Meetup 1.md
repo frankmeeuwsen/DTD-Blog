@@ -5,6 +5,8 @@ excerpt: Op 11 januari vindt de eerste Nederlandse editie plaats van de Homebrew
 published: true
 header: homebrewwebsiteclub.jpg
 syndication: indienews
+categories: 
+    - indieweb
 ---
 Tijdens mijn eerste kennismaking met de principes en ideeën van het IndieWeb kwam ik eveneens terecht op verslagen van bijeenkomsten van de [Homebrew Website Club][1]. Iedereen met een beetje kennis van de computergeschiedenis, weet dat dit een ode is aan de Homebrew Computer Clubs uit de jaren '70. Een club computerhobbyisten die bestaan heeft van 1975 tot 1977. Op deze bijeenkomsten praatten de leden over computers en om schema's programmeertips te delen. Uit [deze club][2] kwamen beroemde oprichters van bedrijven voort zoals Steve Jobs en Steve Wozniak van Apple. 
 

@@ -6,6 +6,8 @@ excerpt: Vertoont de hegemonie van grote sociale silo's de eerste scheurtjes?
 published: true
 header:
 syndication: indienews
+categories: 
+    - webtech
 ---
 Natuurlijk is het de tijd van het jaar. De eerste week van januari. "We gaan het helemaal anders doen!"
 

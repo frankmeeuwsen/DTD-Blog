@@ -3,7 +3,10 @@ layout: post
 title: Blogheld Wim de Bie
 excerpt: Een interview wat ik met Wim de Bie had voor mijn boek Bloghelden
 date: 2015-01-06 13:11
-tags: blog blogosfeer Bloghelden
+tags: bloggen internet
+categories: 
+    - bloggen
+
 ---
 
 In 2010 publiceerde ik het boek [Bloghelden](https://www.managementboek.nl/boek/9789022996997/bloghelden-frank-meeuwsen), een persoonlijke geschiedenis van de Nederlandse weblogwereld tussen 1995 en 2005. Een van de bloggers die ik interviewde was Wim de Bie. Een hele eer om bij hem thuis te zijn en hem in zijn werkkamer te spreken. Daar waar hij al die geweldige stukken voor [Bieslog](http://www.bieslog.nl) schreef. Op 6 januari is Wim de Bie te gast bij [Top Names](http://fastmovingtargets.nl/2015/01/05/wim-de-bie-en-peter-olsthoorn-6-januari-top-names/) van Fast Moving Targets. Daarom vind je hieronder het interview wat ik met Wim had, zoals het in [Bloghelden](https://www.managementboek.nl/boek/9789022996997/bloghelden-frank-meeuwsen) is verschenen.

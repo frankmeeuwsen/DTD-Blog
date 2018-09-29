@@ -3,6 +3,8 @@ layout: post
 title: Nog één keer over die blogroll
 excerpt: Er lijken wat misverstanden te ontstaan. 
 published: true
+categories: 
+    - bloggen
 ---
 
 OK, ik leg het nog een keer uit. Hoe zit dat nu met die blogroll van me en de vraag die ik stelde. Misschien was ik te dubbelzinnig in mijn vraagstelling. Dat is prima mogelijk. Zo rol ik. Ik schreef in mijn [oorspronkelijke post](/Nederlandse-blogs)

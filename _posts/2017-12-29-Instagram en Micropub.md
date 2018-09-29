@@ -5,12 +5,16 @@ excerpt: Hoe maak je een lokale kopie van je Instagram posts met gebruik van eig
 published: true
 header: instagram.jpg
 syndication: indienews
+categories: 
+    - indieweb
+tags: micropub indieweb instagram
 ---
 Als je deze blog volgt via RSS (laat het me even weten!) dan zul je de afgelopen dagen wat aparte berichten voorbij hebben zien komen. Mocht je hier toevallig via Google of op een andere wijze zijn gekomen, dan zie je wellicht wat opvallende berichten die je normaal elders verwacht. 
 
 Tussen de Kerstgangen, oliebollen en vrije-dagen-met-kinderen door ben ik wat aan het klussen op de site. Omdat het kan. Omdat ik het leuk vind. Ik ben geen *webdeveloper* van origine, ik autodidact en [Stack Overflow][1] me een slag in de rondte. Ik leer steeds beter om in documentatie van programmeertalen snel het juiste te vinden zonder alle bagage van de complete taal mee te moeten nemen. Natuurlijk kan ik dit blog lekker veilig in WordPress maken, dat doe ik immers al jaren. Dan kan ik me richten op de inhoud. Op het geschrevene in plaats van het getoonde. Kies een theme, pak een aantal standaard plugins, next next finish en boem, de site staat. Uiteraard is daar niets mis mee. Maar het kriebelde dat er meer moest zijn. Mede gedreven door mijn interesse in het [Indieweb][2] de afgelopen maanden, merkte ik dat ik er liever op een andere manier mee bezig wilde zijn. 
 
-De afgelopen dagen heb ik dan ook het volgende gedaan: 
+De afgelopen dagen heb ik dan ook het volgende gedaan:
+
 * Een koppeling gemaakt tussen [mijn Instagram account][3] en deze site
 * Een navigatie-item onderaan elke pagina gemaakt om het aantal blogposts per pagina terug te brengen
 * Het template van elke pagina wat kleiner gemaakt zodat het beter laadt

@@ -5,6 +5,7 @@ date: 2018-08-24 08:57:01 +2h
 published: true
 mf-bookmark-of: https://boingboing.net/2018/08/23/find-out-whos-manipulating-y.html
 category: links
+tags: facebook
 ---
 Het mag voor de lezer van deze blog geen geheim meer zijn dat Facebook geen sociaal netwerk is, maar een wereldwijd surveillance instrument voor adverteerders en andere belanghebbenden in jouw data. Met de _midterm_ verkiezingen in aantocht in de USA heeft ProPublica de [Political Ad Collector](https://projects.propublica.org/political-ad-collector/) ontwikkeld. Zodat jij je beter kunt informeren wie aan de hand van je eigen data je probeert te <strike>manipuleren</strike> informeren met politieke advertenties op Facebook. 
 

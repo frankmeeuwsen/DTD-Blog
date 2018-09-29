@@ -3,6 +3,10 @@ layout: post
 title: Waar is de Nederlandse blogosfeer?
 excerpt: Een eerste vraag en verkenning. Ik weet het antwoord nog niet. Voor het geval je dat zou verwachten als je doorklikt.
 comments: true
+categories: 
+    - bloggen
+tags: bloggen
+
 ---
 
 Toen ik gisteren mijn blogpost over [de Piraten Partij](/PPNL) live zette had ik even dat euforische gevoel weer. Dat momentje van "iets te hebben gepost". Want laten we eerlijk zijn, het [blog bij Triggi](http://triggi.com/blog) heet wel een blog, maar ik heb moeite om daar het *shooting from the hip* gevoel in te leggen. Omdat de belangen anders zijn. Hier schrijf ik wat ik wil en strijk ik tegen haren met elke vorm van genadeloze onwetendheid. Mijn domein, mijn regels. 

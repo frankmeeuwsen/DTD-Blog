@@ -4,6 +4,9 @@ title: Een DM app voor Twitter. Handig!
 excerpt: Geen Twitter op je telefoon, toch bereikbaar.
 published: true
 header: twim.jpg
+categories: 
+    - indieweb
+tags: twitter social-media
 ---
 Ik heb het hier al vaker betoogd, ik ben me bewuster aan het worden van mijn aanwezigheid en de tijd die ik besteed op sociale netwerken. Dat heeft niets te maken met de vermeende voordelen en nadelen van elk platform, al spelen die natuurlijk wel een rol. Het is meer een besef dat ik meer wil produceren en minder tijdlijnen wil consumeren. [Blogdrift][1] heb ik het al eens eerder genoemd.
 

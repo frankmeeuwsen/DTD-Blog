@@ -4,7 +4,8 @@ title: GDPR en het Indieweb (deel 3) - Webmentions
 date: 2018-05-12T145101CEST
 excerpt:
 published: true
-header:
+categories: indieweb
+tags: gdpr indieweb webmentions
 syndication: indienews
 ---
 

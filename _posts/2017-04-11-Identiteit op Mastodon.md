@@ -4,7 +4,9 @@ title: Identiteit op Mastodon
 excerpt: Er is best wat discussie op Mastodon hoe je met identiteit omgaat. Maar is het echt een probleem?
 published: true
 header: header_locationtriggs.png
-tags: Mastodon
+tags: mastodon
+categories: 
+    - indieweb
 ---
 Het grote verschil tussen Mastodon en bijvoorbeeld Twitter is het gebruik van de *instances*. Dit zijn losstaande servers waar een kopie van de Mastodon software op draait. Elke server heeft zijn eigen installatie en elke beheerder van deze installatie kan zelf de regels bepalen voor zijn Mastodon-instantie.
 Net als met email diensten kun je op al die instanties een account aanmaken. Zo heb ik een email account bij Gmail, bij Protonmail en bij Outlook. Dat zijn dus drie instanties waar ik een identiteit heb.

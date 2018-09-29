@@ -2,6 +2,9 @@
 layout: post
 title: Bekijk de binnenkant van dit blog
 excerpt: Dit complete blog kun je zo overnemen en zelf hergebruiken. Easy. 
+categories: bloggen
+tags: internet github code cheatsheet
+
 ---
 
 De grootste uitvinding van het internet is het menu-item "View Source" in de browser. Ooit voor het eerst gezien ([lang leve Quora](https://www.quora.com/Who-came-up-with-view-source-in-browsers)!) in de ViolaWWW browser (nee ik ook niet) met als simpele doel om te leren hoe de pagina in elkaar zat. De granddaddy van het web Sir Tim Berners-Lee had wel een editor in zijn eerste browser zodat je zelf pagina's op het web kon zetten. Als dat toch ooit was doorgezet, een web-editor in elke browser. Dan was de complete bedrijfstak van CMS-systemen en blogplatformen nooit zo groot geworden. Ik laat het sentiment of dat een gemis of een geluk was aan u. 

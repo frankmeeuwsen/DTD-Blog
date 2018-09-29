@@ -4,6 +4,8 @@ title: Een extra abonnee mogelijkheid op deze site
 excerpt: Je kunt artikelen hier op de site lezen. Of in je eigen leesmap-software. Met RSS of JSON. 
 published: true
 header: jsonfeed.jpg
+categories: 
+    - webtech
 ---
 ## RSS, kent u die term nog?
 Elke blogger die begin deze eeuw actief was kan zich nog herinneren dat er ineens zoiets was als RSS. Een blog had een klein oranje knopje waarmee je je kon abonneren en automatisch nieuwe posts ontvangen in eigen lees-software.    
