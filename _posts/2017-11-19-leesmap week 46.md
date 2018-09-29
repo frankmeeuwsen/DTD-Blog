@@ -6,6 +6,7 @@ published: true
 header: leesmap.png
 categories: 
     - random
+tags: leesmap internethistorie
 ---
 
 Je digitale schoen is gevuld met de leesmap van deze week. Vijf artikelen of websites die mij opvielen en de moeite waard zijn om met jullie te delen. Een fijne week!

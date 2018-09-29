@@ -4,9 +4,8 @@ title: Gereedschapskist
 excerpt: Welke instrumenten zitten in mijn digitale gereedschapskist?
 published: false
 categories: 
-    - software
     - random
-
+tags: jekyll
 ---
 
 ## Bloggen

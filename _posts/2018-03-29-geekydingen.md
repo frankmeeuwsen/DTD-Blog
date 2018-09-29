@@ -7,6 +7,7 @@ published: true
 header: header-geekydingen.jpg
 categories: 
     - random
+tags: podcast
 ---
 De 24 uur die in een dag zitten...
 \\

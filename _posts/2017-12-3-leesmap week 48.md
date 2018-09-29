@@ -7,6 +7,7 @@ header: mozcool.gif
 categories: 
     - random
     - bloggen
+tags: leesmap indieweb open-web bloggen internethistorie muziek podcast
 ---
 
 De intro schrijf je altijd pas aan als je klaar bent de rest (gratis tip!) en nee, die hoeft deze week echt niet in rijm (inhakers-alert!). Een nieuwe leesmap die vooral richting blogs en _self-publishing_ stuurt maar aan het einde even uit de bocht vliegt met wat gitaarkabaal. Have fun!

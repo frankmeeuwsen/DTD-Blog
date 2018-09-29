@@ -5,8 +5,8 @@ excerpt: Over een van mijn favoriete podcasts van de laatste tijd.
 date: 24 januari 2018 20:19:08
 published: true
 header: internethistory.jpg
-categories: 
-    - webtech
+categories: webtech
+tags: podcast internethistorie
 ---
 Geschiedenisboeken zijn per definitie subjectief. Of het nu om onze Nederlandse geschiedenis gaat, de geschiedenis van een tijdperk zoals de Romeinse tijd of de geschiedenis van een medium zoals het Internet. Dat is op zich niet erg, enige vorm van subjectiviteit kan wat meer verhaal brengen in wellicht saaie en droge feiten. De geschiedenis tot leven brengen. 
 

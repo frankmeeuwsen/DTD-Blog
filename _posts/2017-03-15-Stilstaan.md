@@ -4,7 +4,7 @@ title: Stilstaan? No way
 excerpt: Alsof ik de laatste dagen hier niks heb gedaan...
 categories: 
     - random
-
+tags: github
 ---
 
 Dacht het niet nee. Zo ben ik een weekend wat van me af aan het schrijven op deez' blog en zo is het ineens weer stil. Zo kun je toch geen publiek opbouwen? Maar het is niet dat ik niks heb zitten staan lopen te doen hé. ([bron](https://www.youtube.com/watch?v=o_8XAl0N5Vg)) Ik heb in elk geval nágedacht over wat ik hier eigenlijk mee wil. Gaat dit weer een wat serieuzere plek worden voor schrijfsels of blijft het een experimenteel verdomhoekje? 

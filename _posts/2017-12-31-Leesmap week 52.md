@@ -7,6 +7,7 @@ header: leesmap.png
 syndication: indienews
 categories: 
     - random
+tags: leesmap code indieweb bloggen internethistorie
 ---
 De laatste leesmap van 2017. Een bijzonder jaar voor me op digitaal gebied. De afgelopen maanden heb ik me weer vol enthousiasme en interesse gestort op het zelf bouwen, onderhouden en beheren van mijn website. Waar je nu naar kijkt. Ik leer nog elke dag en ik voel me lekker bij het zelf klussen, volledig alles zelf in de hand hebben. Er is niets mis met klik-en-klare oplossingen als WordPress of Medium, maar ik kies liever een ander pad voor nu. Een pad wat ik in 2018 verder zal uitdiepen voor mezelf. Veel goeds voor al mijn lezers, geniet van elkaar en de oliebollen vanavond en laat het vuurwerk gewoon links liggen. Dan liever het lees-vuurwerk in deze editie!
 

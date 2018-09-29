@@ -6,6 +6,7 @@ published: true
 header: hippetermen.jpg
 categories: 
     - random
+tags: podcast
 ---
 
 Komende week maak ik samen met buurman Elger een podcast en in de voorbereiding zit ik eens een avondje buiten mijn comfortzone te klikken.

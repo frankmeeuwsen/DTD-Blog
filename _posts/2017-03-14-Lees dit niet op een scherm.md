@@ -5,7 +5,7 @@ excerpt: Nuance is altijd lastig te verkopen.
 date: 2014-05-18 05:49
 categories: 
     - random
-tags: zine internet
+tags: zine internet podcast
 
 ---
 

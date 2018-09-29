@@ -66,15 +66,19 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
 .meta .date,
 .meta .tags,
 .meta .history,
+.meta .category,
 .meta .edit { padding-right: 10px }
+
 .meta .date:before,
-.meta .tags:before {
+.meta .tags:before,
+.meta .category:before {
     color: #ccc;
     font: 1.1em FontAwesome;
     left: 0;
     margin-right: 5px;
 }
 .meta .history a:before,
+.meta .category a:before,
 .meta .edit a:before {
     color: #ccc;
     font: 1.1em FontAwesome;
@@ -83,6 +87,7 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
 }
 .meta .date:before { content: "\f073" }
 .meta .tags:before { content: "\f02c" }
+.meta .category:before { content: "\f07c" }
 .meta .history a:before { content: "\f1da" }
 .meta .edit a:before { content: "\f044" }
 
@@ -272,7 +277,7 @@ footer .small {
 }
 
 .post code {
-    padding: 0 5px 2px;
+    padding: 2px 5px 0;
     font-size: 0.8em;
     line-height: 1em;
     font-weight: 400 !important;

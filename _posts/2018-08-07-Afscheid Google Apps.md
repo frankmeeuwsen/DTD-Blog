@@ -4,7 +4,7 @@ title: Verwijder je Google diensten, een stappenplan
 date: 2018-08-07 09:24:55 +2h
 excerpt: Nadat ik in 2017 al mijn email verwijderde bij Google apps, ben ik nu alles aan het omzetten. Hier lees je over het hoe en wat. 
 published: true
-tags: [Google, Digital ownership, Gids]
+tags: Google Digital ownership Gids
 header: wavegoodbye.jpg
 categories: webtech
 tags: google social-media cheatsheet

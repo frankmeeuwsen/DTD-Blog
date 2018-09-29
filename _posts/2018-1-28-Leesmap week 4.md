@@ -7,6 +7,7 @@ published: true
 header: leesmap.png
 categories: 
     - random
+tags: leesmap facebook cyberpunk webmentions
 ---
 De afgelopen week zijn er wat weinig echt boeiende artikelen voorbij gekomen.  Dat heeft niets te maken met het schrijfethos van online auteurs, maar met mijn gebrek aan aandacht voor wat er is gepubliceerd. Het dagelijkse leven slokt je soms op. 
 

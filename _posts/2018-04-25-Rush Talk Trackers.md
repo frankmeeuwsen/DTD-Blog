@@ -7,7 +7,7 @@ published: true
 header: header-pixel.jpg
 categories: 
     - webtech
-tags: facebook
+tags: facebook podcast
 ---
 Het is altijd weer leuk om met _buddy_ Elger wat te bomen over wat er toch allemaal gebeurd op dat internet en hoe we er mee om moeten gaan. Gisteren mocht ik weer aanschuiven als gast bij de podcast Rush Talk waar we spraken over de Facebook pixel, waar onze data eigenlijk allemaal rondzwerft, hoe Google Maps zou kunnen weten waar ik heen wil en waarom scholen en bibliotheken hun deuren moeten openen voor Privacy Cafe's.
 

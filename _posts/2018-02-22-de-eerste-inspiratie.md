@@ -6,7 +6,7 @@ excerpt:
 published: true
 categories: 
     - bloggen
-tags: open-web internetgeschiedenis
+tags: open-web internethistorie podcast bloggen
 ---
 Wat geeft jou de inspiratie om online iets te gaan doen? Wanneer besloot jij om dat blog te beginnen, of die podcast op te nemen? Veelal is het een ander blog of een andere podcast die je over de streep trekt om zelf iets te gaan maken. Om zelf te produceren in plaats van alleen te consumeren. Hoe meer diversiteit we kunnen houden online, zowel in inhoud als in stijl, hoe beter dat is voor het internet. Het open web blijft een groot goed waar we zuinig op moeten zijn en vaak voor moeten strijden. 
 

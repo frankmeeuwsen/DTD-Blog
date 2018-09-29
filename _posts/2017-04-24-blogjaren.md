@@ -4,10 +4,9 @@ title: Mijn jaren als blogger
 excerpt: Ik vroeg me af hoe lang ik eigenlijk al blog en waar ik dat allemaal deed.
 published: true
 header: punkey.png
-tags: bloggen internet internetgeschiedenis
+tags: bloggen internet internethistorie
 categories: 
     - bloggen
-
 ---
 
 Ik vroeg me vandaag af hoe lang ik eigenlijk al blog en op welke domeinen ik dat zoal heb gedaan. Ik moest de grijze massa bovenin goed aan het werk zetten en gelukkig vergeet het internet nooit iets, dankzij The Web Archive. Dus hierbij een poging tot een overzicht. Ik laat alle gastposts op allerlei blogs achterwege.

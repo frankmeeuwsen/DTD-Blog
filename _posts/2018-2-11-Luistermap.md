@@ -6,6 +6,7 @@ excerpt: Deze week eens geen leesmap, maar een luistermap
 published: true
 categories: 
     - random
+tags: leesmap podcast
 ---
 Vorige week was er geen leesmap, daarvoor was het al net zo moeilijk om op zondag een post met vijf artikelen klaar te hebben. Afgelopen week  merkte ik dat het me tegen begon te staan. Een dwingend _format_ wat ik mezelf heb opgelegd. Elke zondag 5 interessante artikelen. Het liefst uniek en nog niet elders al wijdverspreid. Hoe zeer ik van mijn lezers hou en hoe erg ik kan genieten van strakke formats, ik stop met de wekelijkse leesmap op zondag. Als ik tegen mijn zin of me te gedwongen voel om hier elke zondag die links te plaatsen, dan moet ik het niet doen. 
 

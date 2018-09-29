@@ -6,6 +6,7 @@ published: true
 header: leesmap.png
 categories: 
     - random
+tags: leesmap privacy internethistorie indieweb muziek
 ---
 De CES zit er op, mijn jetlag is wel weg en de Kerstvakantie voelt als een verre vrije dag uit het verleden. Zoals ik al eerder deze week schreef, er was vorige week geen leesmap. Daarom deze week een iets dikkere editie. Niet direct méér links, maar dat wat is gelinkt, heeft meer inhoud. Vind ik dan. 
 

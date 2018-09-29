@@ -6,6 +6,7 @@ published: true
 header: leesmap.png
 categories: 
     - random
+tags: leesmap bloggen
 ---
 Zo. De kop is er af. De oliebollen zijn op en de kerstboom staat sneu aan de stoeprand. Ik sta op het punt om naar Las Vegas te vertrekken. Samen met drie collega's van Triggi zijn we op [de CES aanwezig][1] als één van de 50 _exciting_ startups uit _The Netherlands_. Ik heb er zin in, een flink weekje _work hard, play hard_. Dus bij deze is de leesmap iets eerder. Heb je iets te lezen terwijl ik ergens in de lucht hang boven de Atlantische Oceaan.
 

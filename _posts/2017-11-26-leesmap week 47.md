@@ -5,7 +5,8 @@ excerpt: Een smorgasbord van links en fijne artikelen op deze zondag. En Mariah 
 published: true
 header: marsselfie.jpg
 categories: 
-    - random    
+    - random
+tags: leesmap bloggen indieweb
 ---
 Een smorgasbord van links en fijne artikelen op deze zondag. Geniet van de dag, maak een wandeling en bezoek een onbekende site online. Veel plezier!
 
