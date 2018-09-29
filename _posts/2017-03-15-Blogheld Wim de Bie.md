@@ -3,7 +3,7 @@ layout: post
 title: Blogheld Wim de Bie
 excerpt: Een interview wat ik met Wim de Bie had voor mijn boek Bloghelden
 date: 2015-01-06 13:11
-tags: bloggen internet
+tags: bloggen internet helden
 categories: 
     - bloggen
 

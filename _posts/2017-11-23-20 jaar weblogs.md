@@ -5,6 +5,7 @@ excerpt: In 1997 werd dit woord voor het eerst gebruikt. Wat is er na 20 jaar no
 published: true
 categories: 
     - bloggen
+tags: helden bloggen internethistorie
 ---
 
 Wikipedia [stelt het][1] erg duidelijk

@@ -5,6 +5,7 @@ date: 2018-06-04 09:51:28 +2h
 excerpt: 'Elja vraagt: Wat is je favoriete blog? Ik antwoord hier.'
 published: true
 categories: bloggen
+tags: bloggen helden
 ---
 Met een schuin oog hield ik vandaag de #blogpraat kolom in Tweetdeck in de gaten. Gelijktijdig stond op TV de WWDC aan, de developers-conferentie van Apple waar veel nieuwe ontwikkelingen worden gepresenteerd. Dus de [maandelijkse Blogpraat](http://www.blogpraat.com/blogpraat/blogpraat-4-juni-2018-voor-iedereen) moest even wijken voor de actualiteit. Desondanks wil ik toch nog een kleine bijdrage leveren. Een van de vragen van moderator Elja deze avond was *Wat is je favoriete blog?*
 

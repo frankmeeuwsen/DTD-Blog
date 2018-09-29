@@ -8,6 +8,7 @@ header:
 syndication: indienews
 categories: 
     - webtech
+tags: facebook twitter social-media
 ---
 Natuurlijk is het de tijd van het jaar. De eerste week van januari. "We gaan het helemaal anders doen!"
 
