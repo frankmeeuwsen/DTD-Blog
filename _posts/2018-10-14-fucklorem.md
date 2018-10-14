@@ -7,4 +7,4 @@ link: http://fucklorem.com/
 categories: random
 tags: funny internet
 ---
-"because life's too short to stare at fake latin". Er zijn enorm veel lorem ipsum generators om als designer je ontwerpen te vullen met allerhande teksten. Dit is er [weer een](http://fucklorem.com/) voor je verzameling. 
+"because life's too short to stare at fake latin". Er zijn [enorm](http://fillerama.io/) [veel](http://lorizzle.nl/) lorem ipsum [generators](http://www.malevole.com/mv/misc/text/) om als designer je ontwerpen te vullen met allerhande teksten. Dit is er [weer een](http://fucklorem.com/) voor je verzameling. 
