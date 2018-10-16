@@ -32,13 +32,13 @@ title: Vol blogdrift!
               {% when '' %}
               <h2><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
               {% else %}
-              {% if post.link %}
+              {% if post.link or post.mf-bookmark-of %}
                 <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
-                {% elsif post.mf-bookmark-of%}
-                <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.mf-bookmark-of }}">{{ post.title }}</a></h2>
-                {% elsif post.mf-like-of %}
+              {% elsif post.mf-like-of %}
                 <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication">{{ post.mf-like-of }}</a></p>
-                {% else %}
+              {% elsif post.mf-in-reply-to %}
+                <p>reply to: </p> <a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">{{ post.mf-in-reply-to }}</a></p>
+              {% else %}
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               {% endif %}
             {% endcase %}
