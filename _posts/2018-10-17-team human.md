@@ -31,7 +31,7 @@ Dit is slechts één voorbeeld hoe op individueel niveau technologie je voedt en
 Dat is wat Team Human doet. Het bevecht het besturingsysteem van de maatschappij, bevraagt het algoritmisch gedreven surveillance-kapitalisme en zoekt naar het non-binaire menselijke geluid in een wereld die door software wordt opgegeten. 
 
 Douglas Rushkoff noemt zijn show "The last best hope for humanity" 
-De podcast is advertentievrij, maar is [afhankelijk van donaties](https://teamhuman.fm/support/). Als dank ontvang je de mooie abonnementskaart, in januari volgt het nieuwe gelijknamige boek van Rushkoff. Tevens is er een groeiende community van luisteraars die elkaar via het forum vinden, zijn er live opnames (in de US, da's dan wel jammer) en kun je inbellen bij opnames als je een vraag hebt. 
+De podcast is advertentievrij en [draait van donaties](https://teamhuman.fm/support/). Als dank ontvang je de mooie abonnementskaart, in januari volgt het nieuwe gelijknamige boek van Rushkoff. Tevens is er een groeiende community van luisteraars die elkaar via het forum vinden, zijn er live opnames (in de US, da's dan wel jammer) en kun je inbellen bij opnames als je een vraag hebt. 
 
 Ben je op zoek naar een ander geluid in de kakefonie van online marketing podcasts, nieuwe technologie trends en verdieping van het dagelijkse nieuws? Dan is [Team Human](https://teamhuman.fm/) zeker de moeite van het luisteren waard. 
 
