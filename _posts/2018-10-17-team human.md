@@ -10,7 +10,7 @@ tags: podcast activisme
 ---
 Een beter "I am not a robot" captcha bewijs kun je je niet wensen dan wat ik gisteren in de analoge brievenbus ontving.
 
-![<>](../images/teamhuman-1.jpg) ![](../images/teamhuman-2.jpg)
+![<>](../images/teamhuman-1.jpg) ![<>](../images/teamhuman-2.jpg)
 
 Team Human is de wekelijkse podcast van schrijver en media-activist [Douglas Rushkoff](https://medium.com/s/douglas-rushkoff). Je kent hem wellicht als de bedenker van de term *viral media* en *digital native*. Hij is zelf niet altijd even happig om het toe te geven, wat blijkt als je periodiek naar zijn podcast [Team Human](https://teamhuman.fm/) luistert. 
 
