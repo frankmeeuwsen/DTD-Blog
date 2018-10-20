@@ -1,7 +1,11 @@
 <span rel="author" class="p-author">Frank Meeuwsen</span>
 <!-- <img class="u-photo" src="{{ site.mf-avatar }}" /> -->
 <span class="dt-published">  {{page.date}}</span>
-<a class="u-url" href="{{ site.url }}{{ page.url }}"></a>
+<a class="u-url u-uid" href="{{ site.url }}{{ page.url }}"></a>
+<span class="p-summary">{{ page.excerpt }}</span>
 {%for categorie in page.categories%}
 <a class="p-category" style="display: none">{{ categorie }}</a>
+{%endfor%}
+{%for tag in page.tags%}
+<a class="p-category" style="display: none">{{ tag }}</a>
 {%endfor%}
