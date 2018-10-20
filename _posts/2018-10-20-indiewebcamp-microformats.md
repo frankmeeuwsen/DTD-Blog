@@ -1,7 +1,8 @@
 ---
 layout: post
-title: date: 2018-10-20 11:26:19 +2h
-excerpt: Microformats zijn mijn eerste winst op IndieWebCamp
+title: Microformats zijn mijn eerste winst op IndieWebCamp
+date: 2018-10-20 11:26:19 +2h
+excerpt: 
 published: true
 header:
 categories: webtech
