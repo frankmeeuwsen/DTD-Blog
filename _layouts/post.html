@@ -10,13 +10,13 @@ layout: default
     <h1><a href="{{ site.baseurl }}{{ page.url }}">{{content | strip_html |truncatewords: 4}}</a></h1>
   {% else %}
   {% if page.link %}
-    <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+    <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
     {% elsif page.mf-bookmark-of%}
-    <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.mf-bookmark-of }}">{{ page.title }}</a></h1>
+    <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.mf-bookmark-of }}">{{ page.title }}</a></h1>
     {% elsif page.mf-like-of %}
     <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication">{{ page.mf-like-of }}</a></p>
     {% else %}
-    <h1 class="entry-title"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+    <h1 class="entry-title p-name"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
   {% endif %}
 {% endcase %}
 
