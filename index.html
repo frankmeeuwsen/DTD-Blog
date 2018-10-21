@@ -30,12 +30,7 @@ title: Vol blogdrift!
             {{ post.date | date: "%Y" }}
             </time>
             {% case post.title %}
-              {% when not '' %}
-              <!-- pretty regular blogpost -->
-              <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-              {% else %}
-              {% if post.link or post.mf-bookmark-of %}
-              <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
+              {% when '' %}
               {% elsif post.mf-like-of %}
                 <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ post.mf-like-of }}</a></p>
               {% elsif post.mf-in-reply-to %}
@@ -44,6 +39,12 @@ title: Vol blogdrift!
               {% else %}
               <!-- empty title -->
               <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
+              {% else %}
+              {% if post.link or post.mf-bookmark-of %}
+              <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
+              {% else %}
+              <!-- pretty regular blogpost -->
+              <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               {% endif %}
             {% endcase %}
         	</header>
