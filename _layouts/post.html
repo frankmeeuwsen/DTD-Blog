@@ -21,7 +21,7 @@ layout: default
       <h2><a href="{{ site.baseurl }}{{ page.url }}" class="p-name u-url u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</a></h2>
       <span class="in-reply-to">Mijn antwoord op: <a href="{{ page.mf-in-reply-to }}" class="u-syndication">{{ page.mf-in-reply-to }}</a></span>
     {% else %}
-      <h1><a class="permalink u-url u-uid" href="{{ site.url }}{{ page.url }}">Niets: {{content | strip_html |truncatewords: 4}}</a></h1>
+      <h1><a class="permalink u-url u-uid" href="{{ site.url }}{{ page.url }}">{{content | strip_html |truncatewords: 4}}</a></h1>
   {% endif %}
 {% endcase %}
 
