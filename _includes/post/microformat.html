@@ -1,6 +1,7 @@
 <!-- Dedicated space to build up the microformats for all sorts of pages -->
 
 <!-- h-card for every page including homepage-->
+{% if page.url == "/" %}
 <div class="h-card">
     <img class="u-photo" src="{{site.url}}{{site.avatar}}" alt="Avatar Frank Meeuwsen" />
     <a class="p-name p-author u-url u-uid" rel="me" href="{{ site.url }}/">{{site.author}}</a>
@@ -8,3 +9,4 @@
     <p class="p-nickname">{{site.nickname}}</p>
     <p class="p-note">{{site.words}}</p>
 </div>
+{% endif %}
