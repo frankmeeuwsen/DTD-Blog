@@ -1,13 +1,13 @@
 <!-- Dedicated space to build up the microformats for all sorts of pages -->
 
 <!-- h-card for every page including homepage-->
-<p class="h-card">
+<div class="h-card">
     <img class="u-photo" src="{{site.url}}{{site.avatar}}" alt="Avatar Frank Meeuwsen" />
     <a class="p-name u-url u-uid" rel="me" href="{{ site.url }}/">{{site.author}}</a>
-    <a class="u-email" href="mailto://{{site.email}}">{{site.email}}</a>
-    <div class="p-nickname">{{site.nickname}}</div>
-    <div class="p-note">{{site.words}}</div>
-</p>
+    <a class="u-email" href="{{site.email}}">{{site.email}}</a>
+    <p class="p-nickname">{{site.nickname}}</p>
+    <p class="p-note">{{site.words}}</p>
+</div>
 
 <span rel="author" class="p-author">Frank Meeuwsen</span>
 <!-- <img class="u-photo" src="{{ site.mf-avatar }}" /> -->

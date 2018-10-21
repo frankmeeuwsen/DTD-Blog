@@ -21,7 +21,7 @@ paginate_path: "/page:num/"
 author: Frank Meeuwsen
 email: frank@incredibleadventure.nl
 nickname: punkey
-Words: Blog on
+words: Blog on
 
 #Timezone because NL
 timezone: Europe/Amsterdam
