@@ -27,7 +27,8 @@ Als ik dit vandaag voor elkaar krijg zou dat al mooi zijn. Op de wat langere ter
 
 1. Ontvangen [webmentions](https://diggingthedigital.com/tag/webmentions/) en notificaties. Ik ontvang nu wel webmentions, maar dat is alleen op individuele blogposts. Ik weet dat er ook wordt gelinkt naar mijn homepage. Die moet dus eveneens webmentions krijgen. Daarnaast wil ik notificaties krijgen (mail, telefoon) als er een webmention binnenkomt.
 2. Weergave en beheer webmentions. De weergave van de webmentions mag nog beter, evenals het eigen beheer, zoals het verwijderen van test-webmentions.
-3. Micropub. Ik kan inmiddels met [Omnibear](https://omnibear.com/) goed posten vanaf elke pagina naar mijn site. Maar in de weergave op mijn site zitten nog wat onhebbelijkheden en ik wil de mogelijkheden van dergelijke tools verder uitdiepen en mogelijk verbeteren.
+3. Syndicatie naar Twitter verbeteren. Middels een Zapier-script heb ik het inmiddels voor elkaar dat elke blogpost automagisch op Twitter verschijnt. Dat is meer een lapmiddel dan een duurzame oplossing. Daar moet ik dus nog aan werken, evenals de presentatie van de tweet. Nu pakt de webmention de eerste 280 karakters en een permalink. Dat wil ik anders. Hoe exact weet ik nog niet, dat zien we gaandeweg wel.
+4. Micropub. Ik kan inmiddels met [Omnibear](https://omnibear.com/) goed posten vanaf elke pagina naar mijn site. Maar in de weergave op mijn site zitten nog wat onhebbelijkheden en ik wil de mogelijkheden van dergelijke tools verder uitdiepen en mogelijk verbeteren.
 
 Kortom, genoeg te doen. Maar nu eerst ontbijt!
 
