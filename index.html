@@ -30,17 +30,20 @@ title: Vol blogdrift!
             {{ post.date | date: "%Y" }}
             </time>
             {% case post.title %}
-              {% when '' %}
-              <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
+              {% when not '' %}
+              <!-- pretty regular blogpost -->
+              <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               {% else %}
               {% if post.link or post.mf-bookmark-of %}
-              <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}"  class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
+              <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
               {% elsif post.mf-like-of %}
                 <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ post.mf-like-of }}</a></p>
               {% elsif post.mf-in-reply-to %}
-                <p>Mijn antwoord op: </p> <a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">{{ post.mf-in-reply-to }}</a></p>
+                <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
+                <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
               {% else %}
-                <h2><a  class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+              <!-- empty title -->
+              <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
               {% endif %}
             {% endcase %}
         	</header>
@@ -54,6 +57,8 @@ title: Vol blogdrift!
           {{ post.excerpt }}
           {% if post.link or post.mf-bookmark-of %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
+          {% elsif post.mf-in-reply-to %}
+            <p><a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a></p>
           {% else %}
             <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
           {% endif %}

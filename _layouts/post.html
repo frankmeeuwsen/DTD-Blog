@@ -6,17 +6,22 @@ layout: default
   <img src="{{ site.url }}{{site.imageurl}}{{ page.header}}">
   {% endif  %}
   {% case page.title %}
-  {% when '' %}
-    <h1><a class="permalink u-url u-uid" href="{{ site.url }}{{ page.url }}">{{content | strip_html |truncatewords: 4}}</a></h1>
-  {% else %}
-  {% if page.link %}
-    <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+  {% when not '' %}
+    {% if page.link %}
+      <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h1>
     {% elsif page.mf-bookmark-of%}
-    <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.mf-bookmark-of }}">{{ page.title }}</a></h1>
-    {% elsif page.mf-like-of %}
-    <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication u-url u-uid">{{ page.mf-like-of }}</a></p>
+      <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.mf-bookmark-of }}">{{ page.title }}</a></h1>
     {% else %}
-    <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid">{{ page.title }}</a></h1>
+      <h1 class="entry-title p-name"><a href="{{ site.url }}{{ page.url }}" class="permalink u-url u-uid">{{ page.title }}</a></h1>
+    {% endif%}
+  {% else %}
+    {% if page.mf-like-of %}
+      <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication u-url u-uid">{{ page.mf-like-of }}</a></p>
+    {% elsif page.mf-in-reply-to %}
+      <h2><a href="{{ site.baseurl }}{{ page.url }}" class="p-name u-url u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</a></h2>
+      <span class="in-reply-to">Mijn antwoord op: <a href="{{ page.mf-in-reply-to }}" class="u-syndication">{{ page.mf-in-reply-to }}</a></span>
+    {% else %}
+      <h1><a class="permalink u-url u-uid" href="{{ site.url }}{{ page.url }}">Niets: {{content | strip_html |truncatewords: 4}}</a></h1>
   {% endif %}
 {% endcase %}
 
@@ -26,6 +31,8 @@ layout: default
 
     {% if page.link %}
       <i class="fa fa-link"></i>: <a href="{{ page.link }}" class="permalink" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
+    {% elsif page.mf-in-reply-to %}
+      <a href="{{ page.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a>
     {% endif %}
   </div>
   <div class="h-card" style="display: none;">

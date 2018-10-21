@@ -284,3 +284,10 @@ footer .small {
     background: #e5eff5;
     border-radius: 3px;
 }
+
+.in-reply-to {
+    font-size: 13px;
+    /* margin-left: 4px; */
+    /* margin-bottom: 4px; */
+    color: #999;
+}
