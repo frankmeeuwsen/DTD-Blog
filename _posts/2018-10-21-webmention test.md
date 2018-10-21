@@ -24,3 +24,7 @@ Ik wil in mijn lokale omgeving zoveel mogelijk testen met het automatisch verstu
 Nu staan [hier](https://webmention.rocks/test/1) [links](https://webmention.rocks/test/2) naar [webmention.rocks](https://webmention.rocks/test/3) die de [webmentions](https://webmention.rocks/test/4) kunnen [ontvangen](https://webmention.rocks/test/5) die ik [verstuur](https://webmention.rocks/test/6). Ik pak alleen de eerste tests. Als die werken, werkt de rest van de 23 tests ook wel. Het gaat tenslotte om verzenden. Eens zien wat er nu gaat gebeuren....
 
 Laat ik voor alle zekerheid ook nog even [naar Ton linken](https://www.zylstra.org/blog/2018/10/solvingwebmentions/), zodat hij weer een webmention krijgt die hij mooi kan weergeven in zijn nog te ontwikkelen CSS-code :-)
+
+## Eerste resultaten
+
+Helaas werkte de eerste test niet. Door een probleem met de versienummers bij het originele script. Dat moest dus eerst worden gefixt. Laten we het daarom nog eens proberen nu.
