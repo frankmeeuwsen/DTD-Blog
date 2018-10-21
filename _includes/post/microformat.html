@@ -3,22 +3,8 @@
 <!-- h-card for every page including homepage-->
 <div class="h-card">
     <img class="u-photo" src="{{site.url}}{{site.avatar}}" alt="Avatar Frank Meeuwsen" />
-    <a class="p-name u-url u-uid" rel="me" href="{{ site.url }}/">{{site.author}}</a>
+    <a class="p-name p-author u-url u-uid" rel="me" href="{{ site.url }}/">{{site.author}}</a>
     <a class="u-email" href="{{site.email}}">{{site.email}}</a>
     <p class="p-nickname">{{site.nickname}}</p>
     <p class="p-note">{{site.words}}</p>
 </div>
-
-<span rel="author" class="p-author">Frank Meeuwsen</span>
-<!-- <img class="u-photo" src="{{ site.mf-avatar }}" /> -->
-<span class="dt-published">  {{page.date}}</span>
-<a class="u-url u-uid" href="{{ site.url }}{{ page.url }}"></a>
-<span class="p-summary">{{ page.excerpt }}</span>
-{%for categorie in page.categories%}
-<a class="p-category" style="display: none">{{ categorie }}</a>
-{%endfor%}
-{%for tag in page.tags%}
-<a class="p-category" style="display: none">{{ tag }}</a>
-{%endfor%}
-
-<!-- h-entry on permalink page -->

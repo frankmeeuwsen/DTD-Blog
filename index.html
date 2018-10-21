@@ -5,10 +5,11 @@ title: Vol blogdrift!
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post">
+
+    <article class="post h-entry">
         <span class="post-meta">
     			<header class="post-header">
-            <time datetime={{ post.date }}>
+            <time datetime={{ post.date }} class="dt-published">
             <!-- Whitespace added for readability -->
             {% assign m = post.date | date: "%-m" %}
             {{ post.date | date: "%-d" }}
@@ -30,21 +31,21 @@ title: Vol blogdrift!
             </time>
             {% case post.title %}
               {% when '' %}
-              <h2><a href="{{ site.baseurl }}{{ post.url }}">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
+              <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
               {% else %}
               {% if post.link or post.mf-bookmark-of %}
-                <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
+              <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}"  class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
               {% elsif post.mf-like-of %}
-                <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication">{{ post.mf-like-of }}</a></p>
+                <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ post.mf-like-of }}</a></p>
               {% elsif post.mf-in-reply-to %}
-                <p>reply to: </p> <a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">{{ post.mf-in-reply-to }}</a></p>
+                <p>Mijn antwoord op: </p> <a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">{{ post.mf-in-reply-to }}</a></p>
               {% else %}
-                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                <h2><a  class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               {% endif %}
             {% endcase %}
         	</header>
     		</span>
-        <div class="front_entry">
+        <div class="front_entry p-summary">
           {% for mf-photo in post.mf-photo limit:1 %}
             <div class="image-front">
               <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ mf-photo }}" class="ig-thumb-front"></a>
@@ -56,8 +57,7 @@ title: Vol blogdrift!
           {% else %}
             <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
           {% endif %}
-          </div>
+        </div>
     </article>
-      <!-- <p><a href="{{ post.mf-syndication }}" class="read-more u-syndication">Check op Instagram</a></p> -->
   {% endfor %}
 </div>
