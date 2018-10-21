@@ -1,3 +1,14 @@
+<!-- Dedicated space to build up the microformats for all sorts of pages -->
+
+<!-- h-card for every page including homepage-->
+<p class="h-card">
+    <img class="u-photo" src="{{site.url}}{{site.avatar}}" alt="Avatar Frank Meeuwsen" />
+    <a class="p-name u-url u-uid" rel="me" href="{{ site.url }}/">{{site.author}}</a>
+    <a class="u-email" href="mailto://{{site.email}}">{{site.email}}</a>
+    <div class="p-nickname">{{site.nickname}}</div>
+    <div class="p-note">{{site.words}}</div>
+</p>
+
 <span rel="author" class="p-author">Frank Meeuwsen</span>
 <!-- <img class="u-photo" src="{{ site.mf-avatar }}" /> -->
 <span class="dt-published">  {{page.date}}</span>
@@ -9,3 +20,5 @@
 {%for tag in page.tags%}
 <a class="p-category" style="display: none">{{ tag }}</a>
 {%endfor%}
+
+<!-- h-entry on permalink page -->

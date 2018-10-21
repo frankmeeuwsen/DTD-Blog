@@ -23,14 +23,14 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <div class="h-card">
-          <a href="{{ site.baseurl }}/" class="u-url site-avatar"><img src="{{ site.avatar }}" class="u-photo" /></a>
+          <!-- <div class="h-card"> -->
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
-            <a href="{{ site.baseurl }}/" class="p-name site-name">{{ site.name }}</a>
+            <a href="{{ site.baseurl }}/" class="site-name">{{ site.name }}</a>
             <p class="site-description">{{ site.description }}</p>
           </div>
-          </div>
+          <!-- </div> -->
          <nav>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/blogroll">Blogroll</a>
@@ -39,6 +39,7 @@
           </nav>
         </header>
       </div>
+      <span class="microformat" style="display: none">{% include /post/microformat.html %}</span>
     </div>
 
     <div id="main" role="main" class="container">

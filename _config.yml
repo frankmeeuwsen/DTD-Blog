@@ -17,8 +17,11 @@ mf-avatar: https://en.gravatar.com/userimage/430112/485038288f32582f20027a121f3f
 paginate: 10
 paginate_path: "/page:num/"
 
-#Author information
+#Author and h-card information
 author: Frank Meeuwsen
+email: frank@incredibleadventure.nl
+nickname: punkey
+Words: Blog on
 
 #Timezone because NL
 timezone: Europe/Amsterdam
