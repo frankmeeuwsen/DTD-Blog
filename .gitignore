@@ -12,3 +12,4 @@ _posts/.Ulysses-Group.plist
 _mdwriter.cson
 rakefile
 scripts/checkupdate.rb
+_posts/.markdownlint.json
