@@ -12,8 +12,8 @@ Als iets herkenbaar is aan mensen die werkzaam zijn in de digitale industrie als
 
 Tijdens deze IndieWebCamp viel het me weer op, velen hebben hun laptop bestickerd met bewijzen van bezochte tech-conferenties, liefdesuitingen voor een specifieke browser, servertaal of programmeerrichting, memes, favoriete tech-producten en politieke voorkeuren. Een paar voorbeelden van de vaak fraaie laptopcases die ik tegenkwam.
 
-![<>]({{site.url}}/images/indiewebcamp-laptop-1.jpg)
-![<>]({{site.url}}/indiewebcamp-laptop-2.jpg)
-![<>]({{site.url}}/indiewebcamp-laptop-3.jpg)
-![<>]({{site.url}}/indiewebcamp-laptop-4.jpg)
-![<>]({{site.url}}/indiewebcamp-laptop-5.jpg)
+![<>]({{site.url}}{{site.imageurl}}indiewebcamp-laptop-1.jpg)
+![<>]({{site.url}}{{site.imageurl}}indiewebcamp-laptop-2.jpg)
+![<>]({{site.url}}{{site.imageurl}}indiewebcamp-laptop-3.jpg)
+![<>]({{site.url}}{{site.imageurl}}indiewebcamp-laptop-4.jpg)
+![<>]({{site.url}}{{site.imageurl}}indiewebcamp-laptop-5.jpg)
