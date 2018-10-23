@@ -2,38 +2,48 @@
 layout: default
 ---
 <article class="post h-entry">
+  <!-- Start -->
   {% if page.header %}
   <img src="{{ site.url }}{{site.imageurl}}{{ page.header}}">
   {% endif  %}
   {% case page.title %}
   {% when '' %}
     {% if page.mf-like-of %}
-      <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ page.mf-like-of }}</a></p>
+<!-- like -->
+    <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ page.mf-like-of }}</a></p>
     {% elsif page.mf-in-reply-to %}
-      <h2><a href="{{ site.baseurl }}{{ page.url }}" class="p-name u-url u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</a></h2>
+      <h2>{{page.excerpt | strip_html |truncatewords: 4}}</h2>
       <span class="in-reply-to">Mijn antwoord op: <a href="{{ page.mf-in-reply-to }}" class="u-syndication">{{ page.mf-in-reply-to }}</a></span>
+    {% elsif page.mf-bookmark-of %}
+      <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> Ik heb iets gebookmarked</h2>
     {% else %}
-    <!-- empty title -->
+      <!-- empty title -->
+
     <h2><a href="{{ site.baseurl }}{{ page.url }}" class="p-name u-url u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</a></h2>
     {% endif %}
   {% else %}
-    {% if page.link or page.mf-bookmark-of %}
-    <h2 class="entry-title"><a href="{{ site.url }}{{ page.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h2>
+    {% if page.link %}
+    <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h2>
     {% else %}
     <!-- pretty regular blogpost -->
-    <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+    <h2>{{ page.title }}</h2>
     {% endif %}
 {% endcase %}
 
 {% include post/meta.html %}
   <div class="entry e-content">
-    {{ content }}
-
     {% if page.link %}
+      {{ content }}
       <i class="fa fa-link"></i>: <a href="{{ page.link }}" class="permalink" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
     {% elsif page.mf-in-reply-to %}
-      <a href="{{ page.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a>
-    {% endif %}
+      {{ content }}
+      <p><a href="{{ page.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a></p>
+    {% elsif page.mf-bookmark-of %}
+      {{ page.mf-summary | remove: "Bookmarked: " }}
+      <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
+    {% else %}
+      {{ content }}
+{% endif %}
   </div>
   <div class="h-card" style="display: none;">
     <span class=" dt-published">{{page.date}}</span>

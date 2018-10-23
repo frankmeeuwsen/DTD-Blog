@@ -37,7 +37,7 @@ title: Vol blogdrift!
                   <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
                   <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
                   {% elsif post.mf-bookmark-of %}
-                <h2 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">Ik heb iets gebookmarked</a></h2>
+                <h2 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h2>
                   
                 {% else %}
                 <!-- empty title -->
@@ -62,15 +62,15 @@ title: Vol blogdrift!
             </div>
           {% endfor %}
           {% if post.mf-summary %}
-          {{ post.mf-summary %}}
+          {{ post.mf-summary }}
           {% else %}
           {{ post.excerpt }}
           {% endif %}
           
           {% if post.link  %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
-          {% elsif post.mf-in-reply-to %}
-            <p><a href="{{ post.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a></p>
+          {% elsif post.mf-bookmark-of %}
+            <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
           {% else %}
             <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
           {% endif %}
