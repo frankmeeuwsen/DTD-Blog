@@ -36,6 +36,9 @@ title: Vol blogdrift!
                 {% elsif post.mf-in-reply-to %}
                   <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
                   <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
+                  {% elsif post.mf-bookmark-of %}
+                <h2 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">Ik heb iets gebookmarked</a></h2>
+                  
                 {% else %}
                 <!-- empty title -->
                 <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
@@ -44,8 +47,7 @@ title: Vol blogdrift!
                 {% if post.link %}
                 <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
                 
-                {% elsif post.mf-bookmark-of %}
-                <h2 class="entry-title"><a href="{{ post.mf-summary }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.mf-summary }}</a></h2>
+                
                 {% else %}
                 <!-- pretty regular blogpost -->
                 <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -59,7 +61,12 @@ title: Vol blogdrift!
               <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ mf-photo }}" class="ig-thumb-front"></a>
             </div>
           {% endfor %}
+          {% if post.mf-summary %}
+          {{ post.mf-summary %}}
+          {% else %}
           {{ post.excerpt }}
+          {% endif %}
+          
           {% if post.link  %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
           {% elsif post.mf-in-reply-to %}
