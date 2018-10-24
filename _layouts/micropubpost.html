@@ -10,20 +10,20 @@ layout: default
   {% when '' %}
     {% if page.mf-like-of %}
 <!-- like -->
-    <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ page.mf-like-of }}</a></p>
+    <p>⭐ <a href="{{ page.mf-like-of }}" class="read-more u-syndication p-name u-uid">{{ page.mf-like-of }}</a></p>
     {% elsif page.mf-in-reply-to %}
       <h2>{{page.excerpt | strip_html |truncatewords: 4}}</h2>
       <span class="in-reply-to">Mijn antwoord op: <a href="{{ page.mf-in-reply-to }}" class="u-syndication">{{ page.mf-in-reply-to }}</a></span>
     {% elsif page.mf-bookmark-of %}
-      <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h2>
+      <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h2>
     {% else %}
       <!-- empty title -->
 
-    <h2><a href="{{ site.baseurl }}{{ page.url }}" class="p-name u-url u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</a></h2>
+    <h2 class="p-name u-uid">{{page.excerpt | strip_html |truncatewords: 4}}</h2>
     {% endif %}
   {% else %}
     {% if page.link %}
-    <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h2>
+    <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ page.link }}">{{ page.title }}</a></h2>
     {% else %}
     <!-- pretty regular blogpost -->
     <h2>{{ page.title }}</h2>
@@ -49,7 +49,7 @@ layout: default
     <span class=" dt-published">{{page.date}}</span>
     <img class="u-photo" src="{{site.url}}{{site.avatar}}" alt="Avatar Frank Meeuwsen" />
     <a class="p-author" rel="author" href="{{site.url}}">{{site.author}}</a>
-    <a class="u-url u-uid" rel="me" href="{{site.url}}{{page.url}}">{{site.name}}</a>
+    <!-- <a class="u-url u-uid" rel="me" href="{{site.url}}{{page.url}}">{{site.name}}</a> -->
     <a class="u-email" rel="me" href="mailto:{{site.email}}">{{site.email}}</a>
     <p class="p-note">{{site.words}}</p>
   </div>  
