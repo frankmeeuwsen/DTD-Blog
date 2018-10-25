@@ -15,7 +15,7 @@ layout: default
       <h2>{{page.excerpt | strip_html |truncatewords: 4}}</h2>
       <span class="in-reply-to">Mijn antwoord op: <a href="{{ page.mf-in-reply-to }}" class="u-syndication">{{ page.mf-in-reply-to }}</a></span>
     {% elsif page.mf-bookmark-of %}
-      <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h2>
+      <h2><a href="{{ page.mf-bookmark-of }}" class="p-name u-uid permalink" rel="bookmark" title="{{ page.title }}"><i class="fa fa-bookmark"></i> {{page.mf-bookmark-of[0] | get_bookmark_title}}</a></h2>
     {% else %}
       <!-- empty title -->
 
@@ -40,7 +40,7 @@ layout: default
       <p><a href="{{ page.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a></p>
     {% elsif page.mf-bookmark-of %}
       {% if page.mf-summary %}
-        {{ page.mf-summary }}
+        Summary: {{ page.mf-bookmark-of | get_bookmark_description}}
       {% else %}
         {{ content }}
       {% endif %}

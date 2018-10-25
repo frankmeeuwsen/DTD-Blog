@@ -1,6 +1,8 @@
 <div class="meta">
   <span class="date">{% include post/date.html %}{{ time }}</span>
-  <span class="tags">{% include post/tag.html %}</span>
+{% if page.tags != '' %}  <span class="tags">{% include post/tag.html %}</span>{% endif %}
+  <span class="readingtime">Leestijd: {{ page.content | reading_time }}</span>
   <span style="display: none;" class="dt-published">{{ page.date }}</span>
+
   <a style="display:none;" class="p-author h-card" rel="author" href="{{site.url}}">{{site.author}}</a>
 </div>
