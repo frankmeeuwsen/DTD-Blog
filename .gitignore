@@ -13,3 +13,6 @@ _mdwriter.cson
 rakefile
 scripts/checkupdate.rb
 _posts/.markdownlint.json
+# jekyll webmention stuff
+js/
+.jekyll-cache/
