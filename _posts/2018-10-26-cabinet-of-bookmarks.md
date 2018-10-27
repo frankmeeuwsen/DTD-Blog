@@ -51,3 +51,5 @@ I store my bookmarks on a few places, depending on the function of the bookmark.
 ### Where to go next?
 
 I would love to have a better connection between my Inoreader Stars and Pinboard. Besides that, I'd love to work some more on an automation like [Brett Terpstra's Web Excursions](http://brettterpstra.com/2018/10/15/web-excursions-for-october-15-2018/) including the [amazing archive](http://brettterpstra.com/topic/bookmarks/). I think my first steps with Pinboard and NodeJS will help me with this, since I now know better how to post articles through automation and the Micropub services. I will stop my foray into Jekyll plugins and Ruby development, for now, and will work on a better service to post bookmarks from Pinboard to this blog on a regular basis. 
+
+This was also posted to <a href="https://indieweb.xyz/en/indieweb" class="u-syndication">/en/indieweb</a> on [Indieweb.xyz](https://indieweb.xyz)
