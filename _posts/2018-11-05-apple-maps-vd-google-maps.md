@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018-11-05-Apple%20Maps%20versus%20Google%20Maps
+title: Apple Maps vs Google Maps
 date: 2018-11-05 09:23:16 +0059
 category: webtech
 tags: [apple google maps]
