@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halfnaakte transgender gaat te ver voor Facebook: Utrechts festival geblokkeerd
+title: Halfnaakte transgender gaat te ver voor Facebook.
 date: 2018-11-02 22:33:37 +1h
 excerpt: 
 published: true
