@@ -1,0 +1,47 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% unless post.mf-like-of or post.mf-in-reply-to  %}
+
+      {% if post.title != "" %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>
+          {{ post.content | xml_escape }}
+        </description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      </item>
+    {% else %}
+      <item>
+        <title>
+        {% if post.mf-bookmark-of %}
+          Nieuwe bookmark
+        {% else %}
+          {{ post.content | strip_html | xml_escape | truncatewords: 4 }}
+        {% endif %}
+        </title>
+        <description>
+        {% if post.mf-summary %}
+        {{ post.mf-summary }}
+      {% else %}
+          {{ post.content | xml_escape }}
+      {% endif %}
+        </description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      </item>
+
+    {% endif %}
+    {% endunless %}
+  </channel>
+</rss>
