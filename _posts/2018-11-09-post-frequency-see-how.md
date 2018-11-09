@@ -9,8 +9,8 @@ tags: blogging tools
 slug: post-frequency-see-how
 category: links
 ---
-Wat een leuk idee! Op basis van je RSS-feed krijg je [een overzicht hoe goed het gaat](https://accountableblogging.com/) met je &quot;content creation goals&quot;. Mocht je die hebben natuurlijk...
+Wat een leuk idee! Op basis van je RSS-feed krijg je [een overzicht hoe goed het gaat](https://accountableblogging.com/post-frequency/) met je &quot;content creation goals&quot;. Mocht je die hebben natuurlijk...
 
 Omdat ik een relatief korte feed heb, alleen de laatste 10 items, krijg ik een waarschuwing. Oh well...
 
-![&lt;&gt;](https://diggingthedigital.com//images/accountableblogging.jpg)
+![<>](https://diggingthedigital.com//images/accountableblogging.jpg)
