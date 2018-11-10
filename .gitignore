@@ -16,3 +16,4 @@ _posts/.markdownlint.json
 # jekyll webmention stuff
 js/
 .jekyll-cache/
+_posts/.vscode
