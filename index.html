@@ -61,12 +61,14 @@ title: Vol blogdrift!
               <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ mf-photo }}" class="ig-thumb-front"></a>
             </div>
           {% endfor %}
+
           {% if post.mf-summary %}
           {{ post.mf-summary }}
+          {% elsif post.mf-like-of %}
+          <p>Een <i class="fa fa-thumbs-up"></i> aan <a href="{{ post.mf-like-of }}" class="u-syndication p-name u-url u-uid">deze blogpost</a> (<a href="{{ post.mf-like-of }}">{{post.mf-like-of }}</a>)</p>
           {% else %}
           {{ post.excerpt }}
-          {% endif %}
-          
+          {% endif %}          
 
           {% if post.link  %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
