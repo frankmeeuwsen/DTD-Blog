@@ -2,57 +2,41 @@
 layout: default
 title: Vol blogdrift!
 ---
+{% assign postsByDay = 
+  site.posts | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
 
 <div class="posts">
-  {% for post in paginator.posts %}
-
+{% for day in postsByDay %}
     <article class="post h-entry">
         <span class="post-meta">
     			<header class="post-header">
-            <time datetime={{ post.date }} class="dt-published">
-            <!-- Whitespace added for readability -->
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}
-            {% case m %}
-              {% when '1' %}januari
-              {% when '2' %}februari
-              {% when '3' %}maart
-              {% when '4' %}april
-              {% when '5' %}mei
-              {% when '6' %}juni
-              {% when '7' %}juli
-              {% when '8' %}augustus
-              {% when '9' %}september
-              {% when '10' %}oktober
-              {% when '11' %}november
-              {% when '12' %}december
+                <h2>{{ day.name }}</h2>
+                    {% for post in day.items %}
+              
+          {% case post.title %}
+              {% when '' %}
+                {% if post.mf-in-reply-to %}
+                  <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
+                  <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
+                  {% elsif post.mf-bookmark-of %}
+                <h3 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h3>
+                {% elsif post.mf-like-of %}
+                <!-- <p>Ik gaf een <p><i class="fa fa-thumbs-up"></i> aan <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">deze blogpost</a> (<a href="{{ post.mf-like-of }}" class="read-more">{{post.mf-like-of }}</a>)</p> -->
+                {% else %}
+                <!-- empty title -->
+                <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
+                {% endif %}
+              {% else %}
+                {% if post.link %}
+                <h3 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h3>
+                
+                
+                {% else %}
+                <!-- pretty regular blogpost -->
+                <h3><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                {% endif %}
             {% endcase %}
-            {{ post.date | date: "%Y" }}
-            </time>
-            {% case post.title %}
-
-            {% when '' %}
-            {% if post.mf-in-reply-to %}
-              <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
-              <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
-              {% elsif post.mf-bookmark-of %}
-            <h3 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h3>
-            {% elsif post.mf-like-of %}
-            <!-- <p>Ik gaf een <p><i class="fa fa-thumbs-up"></i> aan <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">deze blogpost</a> (<a href="{{ post.mf-like-of }}" class="read-more">{{post.mf-like-of }}</a>)</p> -->
-            {% else %}
-            <!-- empty title -->
-            <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
-            {% endif %}
-          {% else %}
-            {% if post.link %}
-            <h3 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h3>
-            
-            
-            {% else %}
-            <!-- pretty regular blogpost -->
-            <h3><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            {% endif %}
-            {% endcase %}
+            {% include post/meta.html %}
         	</header>
     		</span>
         <div class="front_entry p-summary">
@@ -79,7 +63,9 @@ title: Vol blogdrift!
           {% else %}
             <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
           {% endif %}
+
         </div>
     </article>
-  {% endfor %}
+    {% endfor %}
+{% endfor %}
 </div>
