@@ -30,28 +30,28 @@ title: Vol blogdrift!
             {{ post.date | date: "%Y" }}
             </time>
             {% case post.title %}
-              {% when '' %}
-                {% if post.mf-like-of %}
-                  <p>⭐ <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">{{ post.mf-like-of }}</a></p>
-                {% elsif post.mf-in-reply-to %}
-                  <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
-                  <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
-                  {% elsif post.mf-bookmark-of %}
-                <h2 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h2>
-                  
-                {% else %}
-                <!-- empty title -->
-                <h2><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h2>
-                {% endif %}
-              {% else %}
-                {% if post.link %}
-                <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
-                
-                
-                {% else %}
-                <!-- pretty regular blogpost -->
-                <h2><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                {% endif %}
+
+            {% when '' %}
+            {% if post.mf-in-reply-to %}
+              <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
+              <span class="in-reply-to">Mijn antwoord op: <a href="{{ post.mf-in-reply-to }}" class="u-syndication">{{ post.mf-in-reply-to }}</a></span>
+              {% elsif post.mf-bookmark-of %}
+            <h3 class="entry-title"><a href="{{ post.mf-bookmark-of }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i> Ik heb iets gebookmarked</a></h3>
+            {% elsif post.mf-like-of %}
+            <!-- <p>Ik gaf een <p><i class="fa fa-thumbs-up"></i> aan <a href="{{ post.mf-like-of }}" class="read-more u-syndication p-name u-url u-uid">deze blogpost</a> (<a href="{{ post.mf-like-of }}" class="read-more">{{post.mf-like-of }}</a>)</p> -->
+            {% else %}
+            <!-- empty title -->
+            <h3><a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url u-uid">{{post.excerpt | strip_html |truncatewords: 4}}</a></h3>
+            {% endif %}
+          {% else %}
+            {% if post.link %}
+            <h3 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="p-name u-url u-uid permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h3>
+            
+            
+            {% else %}
+            <!-- pretty regular blogpost -->
+            <h3><a class="p-name u-url u-uid" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            {% endif %}
             {% endcase %}
         	</header>
     		</span>
@@ -67,10 +67,13 @@ title: Vol blogdrift!
           {{ post.excerpt }}
           {% endif %}
           
+
           {% if post.link  %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
           {% elsif post.mf-bookmark-of %}
             <p><a href="{{ post.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
+          {% elsif post.mf-like-of %}
+            <!-- <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p> -->
           {% else %}
             <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lees verder >></a></p>
           {% endif %}
