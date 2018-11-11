@@ -64,12 +64,14 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
 }
 .meta a:hover { color: #666 }
 .meta .date,
+.meta .time,
 .meta .tags,
 .meta .history,
 .meta .category,
 .meta .edit { padding-right: 10px }
 
 .meta .date:before,
+.meta .time:before,
 .meta .tags:before,
 .meta .category:before {
     color: #ccc;
@@ -86,6 +88,7 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
     margin-right: 5px;
 }
 .meta .date:before { content: "\f073" }
+.meta .time:before { content: "\f017" }
 .meta .tags:before { content: "\f02c" }
 .meta .category:before { content: "\f07c" }
 .meta .history a:before { content: "\f1da" }
