@@ -5,7 +5,7 @@ excerpt: Sommige toevallige ontmoetingen zijn op een fraaie manier in gang gezet
 published: true
 header: uurvanpuur.jpg
 categories: 
-    - bloggen
+    - bloggen seth cor elja friedman 
 ---
 
 **Een noot vooraf**: Excuses voor de vele links. Bij vijf nieuwe ontmoetingen vind ik dat je ze allemaal een podium moet geven. Bij deze dus.

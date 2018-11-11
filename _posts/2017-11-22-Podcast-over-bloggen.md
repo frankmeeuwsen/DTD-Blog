@@ -6,7 +6,7 @@ published: true
 header: podcast.jpg
 categories: 
     - bloggen
-tags: podcast bloggen indieweb
+tags: podcast bloggen indieweb seth
 ---
 
 Vandaag was ik te gast bij Rush Talk, de wekelijkse podcast van online magazine [Numrush][1] met interviews en bespiegelingen over innovatie in technologie en de impact op de samenleving.  Ik mocht hier een uur lang terugblikken op 20 jaar blogs in Nederland, maar vooral vooruitkijken wat er nu is en wat er nog kan komen. 
