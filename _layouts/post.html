@@ -37,10 +37,14 @@ layout: default
       <i class="fa fa-link"></i>: <a href="{{ page.link }}" class="permalink" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
     {% elsif page.mf-in-reply-to %}
       {{ content }}
-      <p><a href="{{ page.mf-in-reply-to }}" class="read-more u-syndication">Originele link</a></p>
+      <p><a href="{{ page.mf-in-reply-to }}" class="read-more u-in-reply-to">Originele link</a></p>
     {% elsif page.mf-bookmark-of %}
-      {{ page.mf-summary }}
-      <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-syndication">Originele link</a></p>
+      {% if page.mf-summary %}
+        {{ page.mf-summary }}
+      {% else %}
+        {{ content }}
+      {% endif %}
+      <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-bookmark-of">Originele link</a></p>
     {% else %}
       {{ content }}
 {% endif %}
