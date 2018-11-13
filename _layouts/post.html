@@ -62,15 +62,15 @@ layout: default
   <div id="page-navigation">
       <div class="previous">
   {% if page.previous.url %}
-        <a href="{{ site.baseurl }}{{ page.previous.url }}" title="Previous Post:
-  {{page.previous.title}}">Vorige</a>
+  <a href="{{ site.baseurl }}{{ page.previous.url }}" title="Previous Post:
+  {{page.previous.title}}"><i class="fas fa-angle-double-left"></i> Vorige</a>
   {% endif %}
       </div>
 
       <div class="next">
   {% if page.next.url %}
         <a href="{{ site.baseurl }}{{ page.next.url }}" title="next Post:
-  {{page.next.title}}">Volgende</a>
+  {{page.next.title}}">Volgende <i class="fas fa-angle-double-right"></i></a>
   {% endif %}
       </div>
   </div>

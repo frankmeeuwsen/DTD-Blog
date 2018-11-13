@@ -101,8 +101,8 @@ a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
 #page-navigation div { display: inline-block }
 #page-navigation div.next { float: right }
 
-#page-navigation div.previous a:before { font: 0.8em FontAwesome; content: "\f053\f053"; margin-right: 4px }
-#page-navigation div.next a:after { font: 0.8em FontAwesome; content: "\f054\f054"; margin-left: 4px}
+/* #page-navigation div.previous a:before { font: 0.8em "FontAwesome Awesome 5 Free"; content: "\f053\f053"; margin-right: 4px }
+#page-navigation div.next a:after { font: 0.8em "FontAwesome Awesome 5 Free"; content: "\f054\f054"; margin-left: 4px} */
 
 .pagination_s p {
     margin: 0;
