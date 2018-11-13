@@ -1,7 +1,7 @@
 <div class="meta">
-  <span class="time">{{ page.date | date:'%R' }}</span>
+  <span class="time"><i class="fa fa-clock"></i> {{ page.date | date:'%R' }}</span>
   {% if page.tags.size > 0 %}
-  <span class="tags">{% include post/tag.html %}</span>
+  <span class="tags"><i class="fa fa-tags"></i>{% include post/tag.html %}</span>
   {% endif %}
   <span style="display: none;" class="dt-published">{{ page.date }}</span>
   <a style="display:none;" class="p-author h-card" rel="author" href="{{site.url}}">{{site.author}}</a>

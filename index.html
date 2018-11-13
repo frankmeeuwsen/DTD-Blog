@@ -9,6 +9,7 @@ title: Vol blogdrift!
 {% for day in postsByDay %}
 <h2>{{ day.name }}</h2>
 {% for page in day.items %}
+{% assign fullContent = page.content | markdownify %}      
 <article class="post h-entry">
   <span class="post-meta">
     <header class="post-header">
@@ -37,6 +38,7 @@ title: Vol blogdrift!
   </span>
   <!-- Frontpage entry text -->
   <div class="front_entry p-summary">
+
     {% for mf-photo in page.mf-photo limit:1 %}
       <div class="image-front">
         <a href="{{ site.baseurl }}{{ page.url }}"><img src="{{ mf-photo }}" class="ig-thumb-front"></a>
@@ -48,19 +50,17 @@ title: Vol blogdrift!
     {% elsif page.mf-like-of %}
       <p>Een <i class="fa fa-thumbs-up"></i> aan <a href="{{ page.mf-like-of }}" class="u-like-of p-name u-url u-uid">deze webpagina</a> (<a href="{{ page.mf-like-of }}">{{page.mf-like-of }}</a>)</p>
     {% else %}
-      {{ page.excerpt }}
+      {{page.excerpt }}
     {% endif %}          
 
-  <!-- Frontpage Read more text -->
-    {% if page.link  %}
-      <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-syndication"><i class="fa fa-external-link-alt"></i>Originele link</a></p>
-    {% elsif page.mf-bookmark-of %}
-      <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-syndication"><i class="fa fa-external-link-alt"></i>Originele link</a></p>
-    {% elsif page.mf-like-of %}
-      <!-- <p><a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Lees verder >></a></p> -->
-    {% else %}
-      <p><a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Lees verder >></a></p>
+    <!-- Frontpage Read more text -->
+  {% if page.excerpt != fullContent %}
+    <p><a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Lees verder <i class="fa fa-chevron-circle-right"></i></a></p>
+  {% else %}
+    {% if page.link or page.mf-bookmark-of  %}
+    <p><a href="{{ page.mf-bookmark-of }}" class="read-more u-bookmark-of">Originele link <i class="fas fa-external-link-alt"></i></a></p>
     {% endif %}
+  {% endif %}
   </div>
   {% include post/frontpage.html %}
 </article>

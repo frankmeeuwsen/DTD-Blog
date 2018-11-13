@@ -29,6 +29,9 @@ for filename in filenames:
                 total_tags.extend(current_tags[1:])
                 crawl = False
                 break
+        if line.strip() == 'tags:''':
+            crawl = False
+            break
         if line.strip() == '---':
             if not crawl:
                 crawl = True
