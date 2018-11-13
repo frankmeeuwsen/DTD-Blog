@@ -8,10 +8,10 @@ header:
 categories: indieweb
 tags: indieweb
 ---
-[Dit](http://hag.codes/page2/) is inderdaad een bekend fenomeen als je over het Indieweb begint en gaat praten en lezen....
+[Dit](http://hag.codes/social/2018/11/05/indieweb-comic.html) is inderdaad een bekend fenomeen als je over het Indieweb begint en gaat praten en lezen....
 
 ![<>](../images/getstarted.jpg)
 
-Het begint simpel. Het wordt al snel complex.... [Lees verder](http://hag.codes/page2/) voor de hele comic.
+Het begint simpel. Het wordt al snel complex.... [Lees verder](http://hag.codes/social/2018/11/05/indieweb-comic.html) voor de hele comic.
 
 
