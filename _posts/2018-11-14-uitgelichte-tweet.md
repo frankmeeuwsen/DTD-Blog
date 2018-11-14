@@ -8,7 +8,7 @@ header:
 categories: random
 tags: twitter
 ---
-Er zijn momenten dat ik Twitter echt niet begrijp. Ik zie vanochtend op de Twitter homepage dat ING een Trending Topic heeft ingekocht: #HoeKoopJeEenSchilderij. 
+Er zijn momenten dat ik Twitter, of eigenlijk, digitale marketeers echt niet begrijp. Ik zie vanochtend op de Twitter homepage dat ING een Trending Topic heeft ingekocht: #HoeKoopJeEenSchilderij. 
 
 Niet eens een stom idee, want "Hoe dan" vragen doen het altijd goed. Ik klik door op de hashtag en ik zie één tweet. Niet eens van ING, maar van Artkings. Ik zou verwachten dat er een videootje of een blogpost is te vinden waar ING mij uitlegt hoe ik de Nachtwacht kan kopen. Niet met een pinpas blijkbaar, maar hoe dan wel?
 
