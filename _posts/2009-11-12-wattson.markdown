@@ -1,0 +1,17 @@
+---
+author: frankmeeuwsen
+comments: true
+date: 2009-11-12 22:14:07+00:00
+layout: post
+slug: wattson
+title: Wattson geeft je energie-inzicht
+wordpress_id: 307
+tags:
+- gadget
+- social media
+- test
+---
+
+[![](http://www.ohgizmo.com/wp-content/uploads/2006/04/wattson.jpg)](http://www.ohgizmo.com/wp-content/uploads/2006/04/wattson.jpg)Een week of wat terug kreeg ik een bericht of ik mee wilde werken aan het testen van een nieuw duurzaam product waarbij ook social media wordt ingezet om de pilot te ondersteunen. Dat leek me wel wat, vooral toen ik zag dat het om de [Wattson](http://www.diykyoto.com) ging. Ik laat dit apparaat ook in mijn Information Overload presentaties langskomen (waarover een andere keer meer) als een voorbeeld van [Personal Informatics](http://www.psfk.com/2009/04/everyware-coming-to-a-gadget-near-you.html), de trend waarbij je als persoon specifieke data trackt en opslaat in een systeem. Waarom? Om er wellicht als persoon later iets mee te doen of om het (anoniem) te delen met anderen en zo te leren van de groep, [Wisdom of the Crowds](http://en.wikipedia.org/wiki/The%20Wisdom%20of%20Crowds) inderdaad. Wattson vind ik een mooi voorbeeld omdat het direct duidelijk maakt wat je energieverbruik in huis is.<!-- more -->
+
+Je sluit een klein apparaatje aan in je meterkast wat zich draadloos verbindt met een design gadget die je in je huiskamer kunt zetten. Hier zie je in n oogopslag wat je verbruik is in Watt en in Euro's per jaar. Erg confronterend zo nu en dan! Even de strijk doen is best wel prijzig zo! Ik ben er nu mee aan het spelen, samen met een hoop andere social media mavens. Op Twitter kun je een en ander volgen wat we doen. Ik zal zo nu en dan hier ook wat updates geven. Ik ben vooralsnog erg enthousiast over het principe achter de Wattson, omdat het direct zichtbaar maakt wat het effect is van je gedrag. Ik heb de software nog niet geïnstalleerd waarmee ik ook op mijn PC de data kan bekijken en beoordelen dus dat volgt nog!

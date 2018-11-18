@@ -14,7 +14,7 @@ tags:
 - start
 ---
 
-![Please feed me!](http://incredibleadventure.nl/wp-content/uploadimages/feedme-150x150.png)En dan zit je ineens achter je laptop...te piekeren...
+![Please feed me!](../images/uploadimages/feedme-150x150.png)En dan zit je ineens achter je laptop...te piekeren...
 
 Ik kreeg van een bekende de volgende vraag (enigszins geanonimiseerd):"Stuur maar ff een mailtje met wat je kost en ervaring en evt wat voor idee jij erbij hebt" nadat we al wat hadden gesproken over een mogelijke leuke klus samen.
 

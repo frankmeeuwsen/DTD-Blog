@@ -1,0 +1,25 @@
+---
+author: frankmeeuwsen
+comments: true
+date: 2009-06-18 20:32:14+00:00
+layout: post
+slug: wurpreso
+title: Corporate storytelling, digitale trends en emailninja's
+wordpress_id: 173
+tags:
+- lifehacking
+- presentatie
+- slim werken
+---
+
+Elk half jaar organiseert [Wageningen Universiteit en Researchcentrum](http://www.wur.nl/NL/) voor haar communicatiemedewerkers een inspiratiemiddag. Door de grootte van de organisatie spreken de professionals elkaar niet dagelijks en is het wat lastiger om inspiratie, kennis en ideeën over te brengen. Daarom deze middag, waar drie sprekers vanuit hun vakgebied en passie vertellen over wat hen bezighoudt.
+
+Ik mocht vandaag een verhaal houden over Slimmer Werken. Vanuit mijn rol als oprichter van [Lifehacking.nl](http://Lifehacking.nl) heb ik in zo'n 30 minuten gesproken over manieren om slimmer met email om te gaan, hoe RSS je informatiestroom kan verlichten en hoe instrumenten als Yammer, Twitter en wiki's de samenwerking binnen en tussen teams kunnen bevorderen. Een leuke presentatie, waarna ook de zaal (plm 65 personen) loskwam met vragen en opmerkingen over de praktische inzetbaarheid van veel instrumenten. Voor mij spraken [Erwin Blom](http://www.ErwinBlom.nl) over digitale trends en [Theo Hendriks](http://www.managementboek.nl/auteur/12652/theo_hendriks) over Corporate Storytelling. De onderwerpen uit deze presentaties raakten ook mijn verhaal, want door de enorme veranderingen in online communicatie verandert ook het vak van marketeer/communicatieprofessional. Hoe ga je dan met die instrumenten om? Hoe lang moet je er per dag mee werken? Kun je nog wel zonder? Kan het niet makkelijker?
+
+Zowel Erwin als ondergetekende hadden geen eenduidige oplossing of een recept wat altijd en overal werkt, maar hopelijk hebben we wel onze ideeën overgebracht en deze groep mensen inspiratie gebracht om weer verder te kijken in hun vakgebied. Onderstaand vind je mijn presentatie, uiteraard vrij te downloaden en te gebruiken via een Creative Commons licentie.
+
+
+
+[Slimmer Werken](http://www.slideshare.net/frank_m/slimmer-werken?type=powerpoint)
+
+View more [Keynote presentations](http://www.slideshare.net/) from [Frank Meeuwsen](http://www.slideshare.net/frank_m).

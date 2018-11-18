@@ -1,0 +1,28 @@
+---
+author: frankmeeuwsen
+comments: true
+date: 2011-04-01 16:42:40+00:00
+layout: post
+slug: incredible-state-of-the-business-2010-2011
+title: Incredible state of the business 2010 - 2011
+wordpress_id: 1483
+tags:
+- jaarverslag
+- mededeling van de directie
+---
+
+[![](../images/uploadimages/113055330_c4b616bcda_m.jpg)](../images/uploadimages/113055330_c4b616bcda_m.jpg)1 April, de dag van [de malle fratsen](http://twitter.com/#!/search/fe11). Maar eveneens de dag dat ik in 2009 zelfstandig ondernemer werd. En de dag in 2010 waarop ik [mijn eerste Jaarverslag](http://incredibleadventure.nl/2010/04/jaarverslag-2010/) schreef. Tradities moet je koesteren, dus laat ik vandaag een nieuw jaarverslag schrijven. Wat is er gebeurd, hoe sta ik er voor, welke successen heb ik gezien en wat gaat er de komende tijd gebeuren? Evenals het eerste jaar was het tweede jaar een tumultueus jaar met pieken en dalen, maar er begint een lijn te komen in mijn werkzaamheden.
+
+<!-- more -->
+
+Het afgelopen jaar hebben voornamelijk in het teken gestaan van kennisoverdracht en kennisontwikkeling. Een heerlijk breed begrip, waar ik wel meer grip op krijg en interesse in krijg. Door mijn freelance werk bij de Hogeschool Utrecht ben ik in de gelegenheid om constant met kennisontwikkeling bezig te zijn op het vakgebied Digitale Communicatie. Ja, ook dat is een breed begrip, maar ik doe dat expres omdat ik juist breder wil kijken dan "_Online marketing_" of "_social media_". Er is namelijk zoveel meer te ontdekken en daar ben ik stapje voor stapje mee bezig. Na mijn vorige jaarverslag ben ik vooral nog bezig geweest bij de Hogeschool. Tijdens de zomermaanden brak echter een kleine crisis uit. Op de Hogeschool was niets te doen (ergo: niets te factureren) en een aantal potentiële opdrachten gingen niet door. Dat had zijn weerslag op de maanden augustus en september. Want dan heb je ineens geen inkomsten. Door een aantal andere persoonlijke omstandigheden ging het ineens erg hard met de buffer die we hadden opgebouwd in de voorgaande maanden. Al met al kan ik wel zeggen dat het laatste kwartaal van 2010 één van mijn zwaarste en meest zwarte maanden ooit is geweest. Natuurlijk begint in augustus weer een factuurcyclus en kwamen er extra opdrachtjes binnen, maar eer dat helemaal loopt en je bent ingelopen met achterstallige betalingen, dan ben je zo een paar maanden verder. Ik wil er niet meer teveel naar terugkijken, maar dat laatste kwartaal van 2010, zeker de decembermaand, is behoorlijk pittig geweest en had zeker zijn weerslag op de privé situatie. We zijn er uitgekomen en ik mag wel zeggen dat de vooruitzichten weer gunstiger zijn. We zijn er nog niet 100%, maar de plannen en toekomstverwachtingen zijn positief te noemen. Mijn grootste leermoment van die periode: Denk verder vooruit dan je altijd gewend was. Natuurlijk, elk ondernemersblog, -boek, -netwerkborrel, -succeslijst zal deze tip geven. Maar door het zelf aan den lijve te ondervinden maak je echt mee wat er kan gebeuren en leer je er pas écht van.
+
+Maar was het dan allemaal kommer en kwel? Zeker niet! Ik heb het afgelopen jaar weer erg veel fijne en leuke opdrachten kunnen doen voor diverse opdrachtgevers. Mijn grootste opdrachtgever is nog steeds de Hogeschool Utrecht, maar daarnaast heb ik gewerkt voor De Doelen, De Personeelzaak, Bredenoord, NIMA, Belastingdienst en Urbanology. Veelal op het gebied van social media advies, variërend van brainstormsessies (mijn [Inspiration Overload presentaties](http://incredibleadventure.nl/diensten/)), kennissessies (gericht op één onderwerp), [één-op-één workshops](http://incredibleadventure.nl/diensten/) of heel gericht op het doorontwikkelen van de bedrijfs- en marketingstrategie naar de inzet van social media. Leuk, inspirerend en inzichtelijk, stuk voor stuk.
+
+Daarnaast leer ik enorm veel op de Hogeschool Utrecht. Ik geef daar nu de cursussen Communication & Media (over marketingcommunicatie, nieuwe media en planmatig denken in die gebieden), Communication & Human Aspects (Sociologie & psychologie in digitale media) en Crossmedia Theorie (nou ja, daar kun je je wel wat bij voorstellen) en ben betrokken bij de doorontwikkeling van die cursussen, het inhoudelijk vormgeven van jaar 3 en 4 en ik heb er afgelopen maand een leuke leergang Social Media gegeven voor medewerkers Marketing & Communicatie van de Hogeschool Utrecht. Allemaal enorm leuk en inspirerend.
+
+Daarnaast begin ik met ingang van vandaag met een nieuwe opdracht. Binnen de Hogeschool Utrecht zijn diverse Kenniscentra cq. Lectoraten. Eén ervan is het [Lectoraat Crossmedia Content](http://www.crossmedialab.nl), onder leiding van Harry van Vliet. Zij richten zich met hun lectoraat op het veranderende gebied van crossmediale communicatie, de ontwikkelingen die er plaatsvinden en het krijgen van nieuwe inzichten op gebied van klantcontact, inzet van media en gebruik van nieuwe media door MKB-ers. Voor dit lectoraat ga ik aan de slag als projectleider de komende maanden. Tot juli ga ik een aantal zaken in gang zetten in de driehoek onderzoek, onderwijs en ondernemers. In samenwerking met de Saxion Hogeschool in Enschede gaan we voor MKB-ers in de binnensteden van Utrecht en Enschede bekijken welke mogelijkheden digitale middelen bieden in hun huidige communicatie en marketing. Dit wordt vertaald in onder andere een aantal pilotprojecten, publicaties, lezingen en workshops.
+
+Een leuke nieuwe klus, waar ik enorm veel zin in heb. Evenals de volgende stappen die ik ga zetten met The Incredible Adventure starts here... Zo komt er eindelijk een smoel voor die naam (een logo dus) en liggen er wat plannen voor de zomervakantie. Dus daar is de vraag weer: Plak ik er nog een jaartje aan vast? _**Hell yeah!**_
+
+
