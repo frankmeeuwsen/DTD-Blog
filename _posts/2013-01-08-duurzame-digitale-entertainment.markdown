@@ -2,14 +2,7 @@
 author: frankmeeuwsen
 comments: true
 date: 2013-01-08 09:41:33+00:00
-excerpt: 'Ik kom geregeld de volgende argumentatie tegen in verschillende vormen als
-  het gaat om de digitalisering van entertainment: “Ja…leuk hoor, die e-books. Maar
-  wie zegt dat ik over 10 jaar die boeken nog kan lezen? Technologie verandert. Betamax
-  kun je niet meer bekijken. 8-Track tapes kun je niet meer afspelen. Nee, doe mij
-  maar een gewoon papieren boek.”
-
-  Voor e-books kun je muziek of film in digitaal formaat zetten. Deze betogers zien
-  een belangrijk punt over het hoofd.'
+excerpt: 'Ik kom geregeld de volgende argumentatie tegen in verschillende vormen als het gaat om de digitalisering van entertainment: “Ja…leuk hoor, die e-books. Maar wie zegt dat ik over 10 jaar die boeken nog kan lezen? Technologie verandert. Betamax kun je niet meer bekijken. 8-Track tapes kun je niet meer afspelen. Nee, doe mij maar een gewoon papieren boek.” Voor e-books kun je muziek of film in digitaal formaat zetten. Deze betogers zien een belangrijk punt over het hoofd.'
 layout: post
 slug: duurzame-digitale-entertainment
 title: Duurzame digitale entertainment
