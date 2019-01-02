@@ -101,3 +101,5 @@ exclude:
     - .sass-cache
 
 include: [.well-known]
+
+keep_files: [images, media, files]
