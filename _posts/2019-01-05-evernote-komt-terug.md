@@ -8,12 +8,12 @@ header:
 categories: webtech
 tags: evernote
 ---
-Als de nieuwe CEO van Evernote publiekelijk beloofd dat het zijn doel is om de groeiende lijst met gebruikersproblemen op te lossen, dan begin je het jaar in elk geval goed. 
+Als de nieuwe CEO van Evernote [publiekelijk beloofd](https://evernote.com/blog/looking-ahead-evernotes-priorities-2019/) dat het zijn doel is om de groeiende lijst met gebruikersproblemen op te lossen, dan begin je het jaar in elk geval goed. 
 
 Onder CEO Phil Libin werd Evernote de _unicorn_ startup die tussen 2010 en 2015 een van de meest populaire en meestgebruikte notitie-apps werd. In 2013 kwam er een zakelijke variant, want er moet toch ergens geld worden verdiend. Helaas werd op dat moment de neerwaartse trend ingezet. Links en rechts werd Evernote ingehaald door varianten en ze konden zelf niet meer de juiste koers varen. Libin moest het veld ruimen en CEO Chris O'Neill (ex-Google) kwam orde op zaken stellen. O'Neill heeft er vooral voor gezorgd dat Evernote financieel gezond bleef (of weer werd), onder zijn leiding werd een nieuwe abonnementstructuur opgezet waarmee duidelijk werd dat Evernote vooral een professionele notitie-app zou zijn. Het is niet hardop gezegd, maar de originele _community_ die Evernote groot maakte werd op een zijspoor gezet. De enthousiaste eenlingen die blogpost na blogpost volschrijven met hacks en workflows, de ZZP-ers die vertrouwen op de app voor hun werk en administratie. 
 Helaas heeft dat niet het gewenste succes gebracht voor het bedrijf. Vorig jaar moest 15% van de werknemers het veld ruimen en [verloren ze managers](https://evernote.com/blog/2018-09-18-message-from-ceo/) aan de top. 
 
-Nu is [Ian Small](https://twitter.com/iansmall) aan de beurt. Zijn [LinkedIn profiel](https://www.linkedin.com/in/iansmall/) laat behoorlijk wat omzwervingen zien. In een blogpost over zijn eerste zestig dagen als CEO bij Evernote is hij behoorlijk duidelijk
+Nu is [Ian Small](https://twitter.com/iansmall) aan de beurt. Zijn [LinkedIn profiel](https://www.linkedin.com/in/iansmall/) laat behoorlijk wat omzwervingen zien. In [een blogpost](https://evernote.com/blog/looking-ahead-evernotes-priorities-2019/) over zijn eerste zestig dagen als CEO bij Evernote is hij behoorlijk duidelijk
 
 >So while I’m still excited about inventing the future, what I’m here to tell you today is that in order to invent the future of Evernote, we first need to improve Evernote’s foundations. 
 
