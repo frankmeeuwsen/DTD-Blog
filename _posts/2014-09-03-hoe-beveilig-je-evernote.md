@@ -2,6 +2,7 @@
 ID: 583
 title: Hoe beveilig je Evernote?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-03 00:00:35
 layout: post
 published: true

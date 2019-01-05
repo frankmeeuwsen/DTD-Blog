@@ -2,6 +2,7 @@
 ID: 781
 title: Evernote en Kerstmis
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-12-22 22:55:39
 layout: post
 published: true

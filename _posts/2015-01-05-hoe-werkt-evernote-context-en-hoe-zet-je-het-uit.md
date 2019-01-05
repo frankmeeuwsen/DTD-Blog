@@ -4,6 +4,7 @@ title: >
   Hoe werkt Evernote Context (en hoe zet
   je het uit)?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-01-05 10:00:13
 layout: post
 published: true

@@ -4,6 +4,7 @@ title: >
   Kies je eigen weergave van je notities
   in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-11-23 09:20:34
 layout: post
 published: true

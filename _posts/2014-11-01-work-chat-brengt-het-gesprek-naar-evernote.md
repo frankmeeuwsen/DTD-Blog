@@ -4,6 +4,7 @@ title: >
   Work Chat brengt het gesprek naar
   Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-11-01 01:50:29
 layout: post
 published: true

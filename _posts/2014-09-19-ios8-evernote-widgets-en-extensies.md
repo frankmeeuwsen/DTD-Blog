@@ -2,6 +2,7 @@
 ID: 649
 title: Evernote widgets en extensies in iOS 8
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-19 00:24:51
 layout: post
 published: true

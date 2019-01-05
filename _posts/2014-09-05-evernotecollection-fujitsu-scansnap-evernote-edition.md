@@ -2,6 +2,7 @@
 ID: 609
 title: '#Evernotecollection : Fujitsu Scansnap Evernote Edition'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-05 22:52:32
 layout: post
 published: true

@@ -2,6 +2,7 @@
 ID: 160
 title: '#evernotecollection : Moleskine Business Notebook'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-03 09:30:00
 layout: post
 published: true

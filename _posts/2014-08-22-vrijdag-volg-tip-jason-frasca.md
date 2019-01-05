@@ -2,6 +2,7 @@
 ID: 165
 title: 'Vrijdag Volg Tip : Jason Frasca'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-22 09:30:00
 layout: post
 published: true

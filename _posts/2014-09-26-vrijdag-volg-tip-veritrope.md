@@ -2,6 +2,7 @@
 ID: 677
 title: 'Vrijdag Volg Tip : Veritrope'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-26 08:50:51
 layout: post
 published: true

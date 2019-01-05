@@ -2,6 +2,7 @@
 ID: 719
 title: Presenteren in Evernote vernieuwd
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-11-01 00:30:12
 layout: post
 published: true

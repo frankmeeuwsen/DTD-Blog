@@ -2,6 +2,7 @@
 ID: 981
 title: Notities samenvoegen in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-09-02 23:08:34
 layout: post
 published: true

@@ -4,6 +4,7 @@ title: >
   Scan je bonnetjes naar Evernote via je
   telefoon
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-10 17:00:00
 layout: post
 published: true

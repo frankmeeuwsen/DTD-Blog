@@ -4,6 +4,7 @@ title: >
   De 3 manieren om relevante informatie in
   Evernote Business te delen
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-15 22:00:20
 layout: post
 published: true

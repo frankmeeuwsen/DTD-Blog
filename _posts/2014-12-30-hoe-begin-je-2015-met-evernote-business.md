@@ -2,6 +2,7 @@
 ID: 787
 title: Hoe begin je 2015 met Evernote Business?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-12-30 23:49:57
 layout: post
 published: true

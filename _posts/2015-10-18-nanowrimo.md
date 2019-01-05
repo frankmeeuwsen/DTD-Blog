@@ -2,6 +2,7 @@
 ID: 997
 title: 'NaNoWriMo en Evernote : Tips voor gebruik'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-10-18 14:02:22
 layout: post
 published: true

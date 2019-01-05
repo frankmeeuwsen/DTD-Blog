@@ -2,6 +2,7 @@
 ID: 157
 title: 'Vrijdag Volg Tip : Evernote Techblog'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-08 09:30:00
 layout: post
 published: true

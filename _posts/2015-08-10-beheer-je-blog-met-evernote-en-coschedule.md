@@ -4,6 +4,7 @@ title: >
   Beheer je blog met Evernote en
   CoSchedule
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-08-10 08:58:24
 layout: post
 published: true

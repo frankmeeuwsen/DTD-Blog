@@ -4,6 +4,7 @@ title: >
   Alles over het e-book Lifehacking met
   Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-24 11:45:00
 layout: post
 published: true

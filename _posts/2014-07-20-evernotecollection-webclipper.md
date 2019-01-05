@@ -2,6 +2,7 @@
 ID: 153
 title: '#Evernotecollection : Webclipper'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-20 09:15:00
 layout: post
 published: true

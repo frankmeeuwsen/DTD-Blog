@@ -2,6 +2,7 @@
 ID: 293
 title: Stapels notitieboeken in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-24 11:15:00
 layout: post
 published: true

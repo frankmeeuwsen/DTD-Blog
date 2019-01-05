@@ -2,6 +2,7 @@
 ID: 816
 title: '#Evernote Collection: Scannable'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-01-09 10:53:14
 layout: post
 published: true

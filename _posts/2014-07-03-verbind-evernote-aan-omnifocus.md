@@ -2,6 +2,7 @@
 ID: 51
 title: Verbind Evernote aan Omnifocus
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-03
 layout: post
 published: true

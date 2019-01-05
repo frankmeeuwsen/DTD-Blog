@@ -2,6 +2,7 @@
 ID: 156
 title: Hoe werkt Evernote met e-mail?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-22 09:30:00
 layout: post
 published: true

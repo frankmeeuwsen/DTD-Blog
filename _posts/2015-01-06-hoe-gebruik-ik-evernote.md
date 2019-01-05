@@ -2,6 +2,7 @@
 ID: 807
 title: Hoe gebruik ik Evernote?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-01-06 19:55:56
 layout: post
 published: true

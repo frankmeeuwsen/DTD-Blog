@@ -2,6 +2,7 @@
 ID: 150
 title: De belangrijkste sneltoetsen in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-21 09:15:00
 layout: post
 published: true

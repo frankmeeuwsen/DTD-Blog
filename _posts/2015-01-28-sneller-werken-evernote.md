@@ -2,6 +2,7 @@
 ID: 828
 title: Sneller werken in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-01-28 09:00:14
 layout: post
 published: true

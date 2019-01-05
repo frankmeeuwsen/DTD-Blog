@@ -2,6 +2,7 @@
 ID: 161
 title: De 3 elementen van Evernote Business
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-05 09:30:00
 layout: post
 published: true

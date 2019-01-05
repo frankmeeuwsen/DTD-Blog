@@ -2,6 +2,7 @@
 ID: 41
 title: Evernote en officiële documenten
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-17 22:01:39
 layout: post
 published: true

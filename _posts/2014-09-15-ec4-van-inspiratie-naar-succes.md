@@ -2,6 +2,7 @@
 ID: 639
 title: 'EC4 : van inspiratie naar succes'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-15 09:44:41
 layout: post
 published: true

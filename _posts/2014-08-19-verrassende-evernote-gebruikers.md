@@ -2,6 +2,7 @@
 ID: 516
 title: 'Verrassende Evernote gebruikers...'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-08-19 00:08:56
 layout: post
 published: true

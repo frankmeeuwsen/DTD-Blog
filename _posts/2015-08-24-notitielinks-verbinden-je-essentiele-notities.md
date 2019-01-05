@@ -4,6 +4,7 @@ title: >
   Notitielinks verbinden je essentiele
   notities
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-08-24 08:58:08
 layout: post
 published: true

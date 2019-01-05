@@ -2,6 +2,7 @@
 ID: 152
 title: 'Vrijdag Volg Tip : Going Paperless'
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-25 09:15:00
 layout: post
 published: true

@@ -2,6 +2,7 @@
 ID: 53
 title: Geavanceerde zoekopdrachten in Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-13 22:38:31
 layout: post
 published: true

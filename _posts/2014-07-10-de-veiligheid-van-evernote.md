@@ -2,6 +2,7 @@
 ID: 45
 title: Hoe veilig is Evernote?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-07-10 22:04:18
 layout: post
 published: true

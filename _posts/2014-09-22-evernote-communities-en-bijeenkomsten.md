@@ -2,6 +2,7 @@
 ID: 668
 title: Evernote communities en bijeenkomsten
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-09-22 22:34:50
 layout: post
 published: true

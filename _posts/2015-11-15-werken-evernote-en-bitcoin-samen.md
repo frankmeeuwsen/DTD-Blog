@@ -2,6 +2,7 @@
 ID: 1027
 title: Werken Evernote en bitcoin samen?
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2015-11-15 11:31:24
 layout: post
 published: true

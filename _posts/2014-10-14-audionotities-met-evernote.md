@@ -2,6 +2,7 @@
 ID: 704
 title: Audionotities met Evernote
 author: Frank Meeuwsen
+tags: evernote
 post_date: 2014-10-14 09:00:24
 layout: post
 published: true
