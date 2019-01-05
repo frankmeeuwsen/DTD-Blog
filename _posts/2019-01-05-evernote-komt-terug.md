@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Evernote komt terug in 2019?
+title: Evernote komt terug in 2019
 date: 2019-01-05 22:25:41 +1h
 excerpt:
 published: true
 header:
 categories: webtech
-tags: 
-	- Evernote
+tags: evernote
 ---
 Als de nieuwe CEO van Evernote publiekelijk beloofd dat het zijn doel is om de groeiende lijst met gebruikersproblemen op te lossen, dan begin je het jaar in elk geval goed. 
 
