@@ -13,7 +13,7 @@ tags:
 - satellieten
 ---
 
-![Led_Zeppelin_-_Mothership_cover](../images/uploadimages/Led_Zeppelin_-_Mothership_cover-150x150.jpg)Ik heb in het verleden [al eens geschreven](http://incredibleadventure.nl/2010/01/welkom-op-het-moederschip/) over de kracht van een moederschip en de satellieten. Hoe een blog als moederschip een belangrijk startpunt is van je digitale activiteiten. Een van de opmerkingen die ik geregeld krijg bij lezingen en workshops is: “OK, ik snap het bloggen, ik snap Twitter en Facebook. Maar hoe werkt dit nu samen?”
+![Led_Zeppelin_-_Mothership_cover](../images/uploadimages/Led_Zeppelin_-_Mothership_cover-150x150.jpg)Ik heb in het verleden [al eens geschreven](/welkom-op-het-moederschip/) over de kracht van een moederschip en de satellieten. Hoe een blog als moederschip een belangrijk startpunt is van je digitale activiteiten. Een van de opmerkingen die ik geregeld krijg bij lezingen en workshops is: “OK, ik snap het bloggen, ik snap Twitter en Facebook. Maar hoe werkt dit nu samen?”
 
 Michael Hyatt schreef [een artikel](http://michaelhyatt.com/personal-platform-plan.html#) wat me deed denken aan mijn moederschip-artikel. Ik wil het originele verhaal wat verder uitbreiden. Ik denk dat alle digitale media moeten samenwerken in een drieluik: Het moederschip, de satellieten en de telescopen.
 

@@ -37,4 +37,4 @@ De tweede plaats is eveneens gedeeld:
 
 De winnaar greep de jury direct vast en liet niet meer los. Josselin Gordijn verhaalt in haar prachtige [Wij zijn Alzheimer](http://josselingordijn.wordpress.com/) over haar vader die de ziekte heeft. Van interviews met familieleden tot en met een bezoek aan het Alzheimer Cafe. Josselin beschrijft het integer en met de liefde die ze voor haar vader heeft. Een zeer terechte winnaar volgens ons.
 
-Bekijk tevens [alle genomineerden](http://incredibleadventure.nl/2013/01/blogawards-journalistiek-de-nominaties/) op een rij. Ga deze blogs lezen!
+Bekijk tevens [alle genomineerden](/blogawards-journalistiek-de-nominaties/) op een rij. Ga deze blogs lezen!

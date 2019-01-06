@@ -13,7 +13,7 @@ tags:
 - verzorgen
 ---
 
-Ik heb er al [eens eerder](http://incredibleadventure.nl/2010/03/in-drie-stappen-naar-real-time-curators-graag/) over geschreven en het is een onderwerp wat me blijft boeien: Met de huidige explosie aan informatie die op ons afkomt, hoe kunnen we de juiste keuzes maken wat te zien, lezen, luisteren en volgen? En welke instrumenten zijn er voor beschikbaar? Natuurlijk hebben we [al jarenlang blogs](http://www.bloghelden.nl) tot onze beschikking waarvan de schrijvers kleine (of grotere) curators kunnen zijn over een thema of onderwerp. Maar met de komst van social networks en realtime informatienetwerken als Twitter fragmenteert dat steeds meer.
+Ik heb er al [eens eerder](/in-drie-stappen-naar-real-time-curators-graag/) over geschreven en het is een onderwerp wat me blijft boeien: Met de huidige explosie aan informatie die op ons afkomt, hoe kunnen we de juiste keuzes maken wat te zien, lezen, luisteren en volgen? En welke instrumenten zijn er voor beschikbaar? Natuurlijk hebben we [al jarenlang blogs](http://www.bloghelden.nl) tot onze beschikking waarvan de schrijvers kleine (of grotere) curators kunnen zijn over een thema of onderwerp. Maar met de komst van social networks en realtime informatienetwerken als Twitter fragmenteert dat steeds meer.
 
 De laatste paar weken verschijnen er ineens diverse nieuwe instrumenten op mijn radar die iets doen voor online curators (PS: Kunnen we daar niet een andere term voor verzinnen?) Daarom zet ik er nu een paar op een rij, de komende tijd zal ik ze bespreken.
 

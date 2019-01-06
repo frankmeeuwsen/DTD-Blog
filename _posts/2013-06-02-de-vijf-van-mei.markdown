@@ -18,19 +18,19 @@ De maand mei zit er op en de zomer lijkt eindelijk begonnen! Hier vind je de vij
 
 
 	
-  1. [Een nieuwe stap](http://incredibleadventure.nl/2013/05/een-nieuwe-stap/) - De aankondiging dat ik bij KPN als hoofdredacteur aan de slag ga. Opvallend dat deze vooral via Linkedin werd bezocht de afgelopen maand!
+  1. [Een nieuwe stap](/een-nieuwe-stap/) - De aankondiging dat ik bij KPN als hoofdredacteur aan de slag ga. Opvallend dat deze vooral via Linkedin werd bezocht de afgelopen maand!
 
 	
-  2. [Drie voordelen van een persoonlijk platform](http://incredibleadventure.nl/2013/05/drie-voordelen-van-een-persoonlijk-platform/) - Het is prima om je te promoten op allerlei externe netwerken, maar een eigen moederschip maakt je altijd sterker. Ik leg uit waarom.
+  2. [Drie voordelen van een persoonlijk platform](/drie-voordelen-van-een-persoonlijk-platform/) - Het is prima om je te promoten op allerlei externe netwerken, maar een eigen moederschip maakt je altijd sterker. Ik leg uit waarom.
 
 	
-  3. [Zoek de extremen op je site](http://incredibleadventure.nl/2013/05/zoek-de-extremen-op-met-je-site/) - Wat is belangrijker, de inhoud of de vorm van je site?
+  3. [Zoek de extremen op je site](/zoek-de-extremen-op-met-je-site/) - Wat is belangrijker, de inhoud of de vorm van je site?
 
 	
-  4. [Waarom ik een 4G abonnement heb en er over Twitter](http://incredibleadventure.nl/2013/05/waarom-ik-een-4g-abonnement-heb-en-er-over-twitter/) - Mijn disclosure over mijn werk bij KPN en hoe ik er online over schrijf
+  4. [Waarom ik een 4G abonnement heb en er over Twitter](/waarom-ik-een-4g-abonnement-heb-en-er-over-twitter/) - Mijn disclosure over mijn werk bij KPN en hoe ik er online over schrijf
 
 	
-  5. [Kun je coolheid kopen?](http://incredibleadventure.nl/2013/05/kun-je-coolheid-kopen/) - Over de aankoop van Tumblr door Yahoo. Naast de miljard dollar, tegen welke kosten is dat gedaan?
+  5. [Kun je coolheid kopen?](/kun-je-coolheid-kopen/) - Over de aankoop van Tumblr door Yahoo. Naast de miljard dollar, tegen welke kosten is dat gedaan?
 
 
 Twee keer over een nieuwe opdracht, één opinie over een recente aankoop en twee artikelen waar ik vertel over specifieke onderdelen van een persoonlijk platform. Een typische mix die ik in eerdere maanden net zo zie.

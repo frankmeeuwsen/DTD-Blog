@@ -12,36 +12,31 @@ No plugins required.
 
 import glob
 import os
+import frontmatter
+from pprint import pprint
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*m*d')
+filenames = glob.glob(post_dir + '*.m*d*')
 
 total_tags = []
 for filename in filenames:
     f = open(filename, 'r')
-    crawl = False
-    for line in f:
-        if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
-                print current_tags
-                total_tags.extend(current_tags[1:])
-                crawl = False
-                break
-        if line.strip() == 'tags:''':
-            crawl = False
-            break
-        if line.strip() == '---':
-            if not crawl:
-                crawl = True
-            else:
-                crawl = False
-                break
+    post = frontmatter.load(f)
+    if 'tags' in post.metadata and type(post.metadata['tags']) is str:
+        # print("STR: "+post['title']+":"+post.metadata['tags'])
+        current_tags = post.metadata['tags'].split()
+        total_tags.extend(current_tags[1:])
+    if 'tags' in post.metadata and type(post.metadata['tags']) is list:
+        # print("LST: "+post['title']+": ".join(post.metadata['tags']))
+        for i in range(len(post.metadata['tags'])):
+            # print("tag:"+post.metadata['tags'][i])
+            total_tags.append(post.metadata['tags'][i])
+            
     f.close()
-total_tags = set(total_tags)
-
+total_tags = sorted(set(total_tags))
+print(total_tags)
 old_tags = glob.glob(tag_dir + '*.md')
 for tag in old_tags:
     os.remove(tag)

@@ -24,7 +24,7 @@ Afgelopen dinsdag was ik aanwezig bij een lunchcollege van het [Crossmedialab](h
 ## Opening Igluu
 
 
-Ik heb het manuscript van Bloghelden geschreven in de rustige omgeving van [Igluu](http://www.igluu.nl). Ik heb al eens [eerder geschreven](http://incredibleadventure.nl/2010/01/eerste-maandag-van-2010-aan-het-werk/) over dit concept en ik blijf er enthousiast over. Helemaal toen ik deze donderdag bij de opening van het nieuwe pand in Den Haag was. Amper 10 maanden na de opening in Utrecht starten ze nu ook in Den Haag op een prachtige lokatie aan de Mauritskade, tegen het centrum aan. De werkplekken zijn ruimer van opzet dan in Utrecht en ik vraag me af of de concentratie plaatsen ook echt rustig zijn, maar de centrale ruimte met [bar en gigantische lampen](http://moby.to/63mzcj) is een lust voor het oog. Zeker de moeite waard om dus eens te bezoeken!
+Ik heb het manuscript van Bloghelden geschreven in de rustige omgeving van [Igluu](http://www.igluu.nl). Ik heb al eens [eerder geschreven](/eerste-maandag-van-2010-aan-het-werk/) over dit concept en ik blijf er enthousiast over. Helemaal toen ik deze donderdag bij de opening van het nieuwe pand in Den Haag was. Amper 10 maanden na de opening in Utrecht starten ze nu ook in Den Haag op een prachtige lokatie aan de Mauritskade, tegen het centrum aan. De werkplekken zijn ruimer van opzet dan in Utrecht en ik vraag me af of de concentratie plaatsen ook echt rustig zijn, maar de centrale ruimte met [bar en gigantische lampen](http://moby.to/63mzcj) is een lust voor het oog. Zeker de moeite waard om dus eens te bezoeken!
 
 
 ## Samen met Tribewise werken

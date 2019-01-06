@@ -11,7 +11,7 @@ tags:
 - path
 ---
 
-Iets meer dan een jaar geleden schreef ik het artikel “[Waarom Path mijn nieuwe Twitter is](http://incredibleadventure.nl/2012/01/waarom-path-mijn-nieuwe-twitter-is/)”. Een mini-liefdesverklaring voor dit mobile-only sociale netwerk wat aan een opmars begon. Maar is die liefde er nog steeds?
+Iets meer dan een jaar geleden schreef ik het artikel “[Waarom Path mijn nieuwe Twitter is](/waarom-path-mijn-nieuwe-twitter-is/)”. Een mini-liefdesverklaring voor dit mobile-only sociale netwerk wat aan een opmars begon. Maar is die liefde er nog steeds?
 
 <!-- more -->
 

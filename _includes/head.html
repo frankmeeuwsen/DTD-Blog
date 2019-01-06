@@ -8,3 +8,6 @@
 <link rel="pingback" href="https://webmention.io/diggingthedigital.com/xmlrpc" />
 <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
 <link rel="canonical" href="{{site.url}}{{page.url}}" class="u-url" />
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}

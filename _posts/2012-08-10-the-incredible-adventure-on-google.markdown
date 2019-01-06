@@ -28,7 +28,7 @@ tags:
 
 
 
-Ik blijf eveneens een dubbel gevoel houden over Google+. Een jaar na [mijn artikel over netwerkvermoeidheid](http://incredibleadventure.nl/2011/08/google-context-collapse-of-netwerkvermoeidheid/), heel toevallig. Ik zie de mogelijkheden, met name in de _Circles_ en in de Hangouts. Voor het boek [Lifehacking met Evernote](http://ebooks.lifehacking.nl/) werken de auteurs samen via Google+. In een aparte cirkel delen we updates die we hebben gedaan en hebben we korte discussies over bepaalde onderwerpen. Eén keer hebben we een Hangout gedaan om een aantal onderwerpen beter te bespreken. En dat beviel allemaal erg goed.
+Ik blijf eveneens een dubbel gevoel houden over Google+. Een jaar na [mijn artikel over netwerkvermoeidheid](/google-context-collapse-of-netwerkvermoeidheid/), heel toevallig. Ik zie de mogelijkheden, met name in de _Circles_ en in de Hangouts. Voor het boek [Lifehacking met Evernote](http://ebooks.lifehacking.nl/) werken de auteurs samen via Google+. In een aparte cirkel delen we updates die we hebben gedaan en hebben we korte discussies over bepaalde onderwerpen. Eén keer hebben we een Hangout gedaan om een aantal onderwerpen beter te bespreken. En dat beviel allemaal erg goed.
 
 
 

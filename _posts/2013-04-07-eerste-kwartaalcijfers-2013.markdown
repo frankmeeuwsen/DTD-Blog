@@ -28,34 +28,34 @@ De top 10 van het eerste kwartaal met een verrassende nummer één wat mij betre
 
 
 
-  1. De [18 genomineerde blogs](http://incredibleadventure.nl/2013/01/blogawards-journalistiek-de-nominaties/) van de School voor Journalistiek te Utrecht waar ik mocht jureren. Met 710 pageviews duidelijk de meest gelezen blogpost van het eerste kwartaal!
+  1. De [18 genomineerde blogs](/blogawards-journalistiek-de-nominaties/) van de School voor Journalistiek te Utrecht waar ik mocht jureren. Met 710 pageviews duidelijk de meest gelezen blogpost van het eerste kwartaal!
 
 
-  2. De [open brief](http://incredibleadventure.nl/2013/01/lieve-tess-een-brief-aan-mijn-dochter/) die ik mijn dochter Tess schreef staat op de tweede plaats. Deze blogpost werd met name op Twitter flink gedeeld.
+  2. De [open brief](/lieve-tess-een-brief-aan-mijn-dochter/) die ik mijn dochter Tess schreef staat op de tweede plaats. Deze blogpost werd met name op Twitter flink gedeeld.
 
 
-  3. [Wifi in de horeca met Gorillaspots](http://incredibleadventure.nl/2013/01/wifi-in-de-horeca-met-gorillaspots-prima-service/). Een korte post over een fijne service in een restaurant.
+  3. [Wifi in de horeca met Gorillaspots](/wifi-in-de-horeca-met-gorillaspots-prima-service/). Een korte post over een fijne service in een restaurant.
 
 
-  4. [Wat is je oudste spoor op het internet](http://incredibleadventure.nl/2013/03/wat-is-jouw-oudste-spoor-van-jezelf-op-internet/)? Het heeft een paar mensen aan het werk gezet, zie de reacties bij het artikel.
+  4. [Wat is je oudste spoor op het internet](/wat-is-jouw-oudste-spoor-van-jezelf-op-internet/)? Het heeft een paar mensen aan het werk gezet, zie de reacties bij het artikel.
 
 
-  5. Mijn uitleg over [Google Author Rank en Google Authorship Markup](http://incredibleadventure.nl/2013/03/google-author-rank-en-authorship-markup/). Nog steeds relevant!
+  5. Mijn uitleg over [Google Author Rank en Google Authorship Markup](/google-author-rank-en-authorship-markup/). Nog steeds relevant!
 
 
-  6. [Sanoma stopt met web-log](http://incredibleadventure.nl/2013/01/sanoma-stopt-met-weblog-nl-een-terugblik-met-de-oprichter/). Ik haal herinneringen op aan de hand van mijn interview met de oprichter.
+  6. [Sanoma stopt met web-log](/sanoma-stopt-met-weblog-nl-een-terugblik-met-de-oprichter/). Ik haal herinneringen op aan de hand van mijn interview met de oprichter.
 
 
-  7. [Programmeren is een fundamenteel recht voor kinderen](http://incredibleadventure.nl/2013/02/programmeren-is-een-fundamenteel-recht-voor-kinderen/). Zo is het!
+  7. [Programmeren is een fundamenteel recht voor kinderen](/programmeren-is-een-fundamenteel-recht-voor-kinderen/). Zo is het!
 
 
-  8. [Is 4G de verftube van de 21e eeuw](http://incredibleadventure.nl/2013/01/is-4g-de-verftube-van-de-21e-eeuw/)? Een overpeinzing aan de hand van een tweet en een opmerking in een gesprek.
+  8. [Is 4G de verftube van de 21e eeuw](/is-4g-de-verftube-van-de-21e-eeuw/)? Een overpeinzing aan de hand van een tweet en een opmerking in een gesprek.
 
 
-  9. [Hoe kan de Mailbox app wel handig voor je zijn](http://incredibleadventure.nl/2013/02/hoe-kan-de-mailbox-app-wel-handig-voor-je-zijn/)? Een kleine hack hoe je Mailbox slimmer kunt gebruiken.
+  9. [Hoe kan de Mailbox app wel handig voor je zijn](/hoe-kan-de-mailbox-app-wel-handig-voor-je-zijn/)? Een kleine hack hoe je Mailbox slimmer kunt gebruiken.
 
 
-  10. [Frontaal Naakt stopt](http://incredibleadventure.nl/2013/03/frontaal-exit/). Mijn mening over de situatie.
+  10. [Frontaal Naakt stopt](/frontaal-exit/). Mijn mening over de situatie.
 
 
 

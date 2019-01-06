@@ -11,7 +11,7 @@ tags:
 - quora
 ---
 
-De vraag-antwoord site [Quora](http://incredibleadventure.nl/2011/01/quora-als-de-nieuwe-nieuwsgroepen/) krijgt wat mij betreft niet de aandacht die het verdient. Ik vind het een prachtige site, waar ik minimaal eens per week doorheen blader. Om wat random vragen en antwoorden te lezen, om iets specifieks te zoeken of om zelf wat toe te voegen. Het laatste gebeurt niet vaak, het eerste heeft de overhand. Op de iPhone/iPad applicatie kun je door random vragen snuffelen en daar zitten zo nu en dan briljante en hilarische vragen bij. Van die vragen die je zelf niet stelt maar als je ze leest je wel afvraagt wat het antwoord is. Een kleine bloemlezing:
+De vraag-antwoord site [Quora](/quora-als-de-nieuwe-nieuwsgroepen/) krijgt wat mij betreft niet de aandacht die het verdient. Ik vind het een prachtige site, waar ik minimaal eens per week doorheen blader. Om wat random vragen en antwoorden te lezen, om iets specifieks te zoeken of om zelf wat toe te voegen. Het laatste gebeurt niet vaak, het eerste heeft de overhand. Op de iPhone/iPad applicatie kun je door random vragen snuffelen en daar zitten zo nu en dan briljante en hilarische vragen bij. Van die vragen die je zelf niet stelt maar als je ze leest je wel afvraagt wat het antwoord is. Een kleine bloemlezing:
 
 
 

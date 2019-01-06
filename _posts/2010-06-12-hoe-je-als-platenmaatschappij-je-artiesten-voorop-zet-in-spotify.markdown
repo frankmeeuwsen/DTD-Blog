@@ -7,14 +7,14 @@ slug: hoe-je-als-platenmaatschappij-je-artiesten-voorop-zet-in-spotify
 title: Hoe je als platenmaatschappij je artiesten voorop zet in Spotify
 wordpress_id: 892
 tags:
-- de dijk
-- Go back to the zoo
-- ilse de lange
-- Kaneaaaahhhhh
-- playlistify
-- spotify
-- universal music
-- waylon
+    - de dijk
+    - Go back to the zoo
+    - ilse de lange
+    - Kaneaaaahhhhh
+    - playlistify
+    - spotify
+    - universal music
+    - waylon
 ---
 
 [![](../images/uploadimages/spotify.png)](../images/uploadimages/spotify.png)

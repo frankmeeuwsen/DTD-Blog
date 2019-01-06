@@ -14,7 +14,7 @@ Maar inmiddels begon het bij mij al weer te kriebelen. Het werd tijd voor iets n
 
 KPN timmert flink aan de weg met nieuwe producten en diensten, zowel voor de consumenten als de zakelijke markt. Voor deze laatste groep ga ik de komende tijd schrijven en publiceren. Als hoofdredacteur voor een binnenkort te lanceren blog op de KPN website. We zijn achter de schermen druk bezig met schrijven, de site in orde maken, redactie-afspraken maken, de samenwerking met de social media hub in orde te maken en nog 1001 andere grote en kleine zaken. Praktisch ben ik vooral aan het schrijven en beoordelen welke stukken we wanneer publiceren over de komende periode. Eigenlijk iets wat ik al jaren lang doe hier en op Lifehacking. Maar nu dus voor een groot telecombedrijf. En betaald ;-)
 
-Betekent dit dat ik minder hier zal schrijven? Nou nee. Dat is nu juist niet de bedoeling. Ik moet en zal [die meters blijven maken](http://incredibleadventure.nl/2013/03/meters-maken/). Dagelijks hier schrijven zit nu in mijn routine geklonken, al zal ik wellicht moeten zoeken naar nieuwe momenten. Inspiratie zal er voldoende zijn de komende maanden, daar ben ik niet bang voor.
+Betekent dit dat ik minder hier zal schrijven? Nou nee. Dat is nu juist niet de bedoeling. Ik moet en zal [die meters blijven maken](/meters-maken/). Dagelijks hier schrijven zit nu in mijn routine geklonken, al zal ik wellicht moeten zoeken naar nieuwe momenten. Inspiratie zal er voldoende zijn de komende maanden, daar ben ik niet bang voor.
 
 Ik kan jullie nog niets vertellen over de naam, URL en inhoud van het nieuwe blog. Alles is nog backstage in volle gang. Maar het gaat leuk worden! Binnenkort dus meer.
 

@@ -15,7 +15,7 @@ tags:
 - storytelling
 ---
 
-En van mijn favoriete iPhone-apps is [Hipstamatic](http://hipstamart.com/hipstamart). Ik heb er al eens [eerder over geschreven](http://incredibleadventure.nl/2010/01/hipstamatic/) en ondanks dat ik de app niet heel vaak meer gebruik, blijft het een aanrader. Ik krijg zo nu en dan nog eens de nieuwsbrief van ze. In hun laatste nieuwsbrief werd ik weer verbaasd hoe goed ze een digitale applicatie weten te verkopen alsof je het zo in de winkel kan afrekenen en in een tasje mee krijgt. Lees onderstaande beschrijvingen eens.
+En van mijn favoriete iPhone-apps is [Hipstamatic](http://hipstamart.com/hipstamart). Ik heb er al eens [eerder over geschreven](/hipstamatic/) en ondanks dat ik de app niet heel vaak meer gebruik, blijft het een aanrader. Ik krijg zo nu en dan nog eens de nieuwsbrief van ze. In hun laatste nieuwsbrief werd ik weer verbaasd hoe goed ze een digitale applicatie weten te verkopen alsof je het zo in de winkel kan afrekenen en in een tasje mee krijgt. Lees onderstaande beschrijvingen eens.
 
  
 

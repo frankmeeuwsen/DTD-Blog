@@ -25,7 +25,7 @@ Google Reader als open source dienst aanbieden is niet te doen. De Google Crawle
 
 Dave Winer had een paar aardige tweets. In de Google strategie gaat alles op volle koers richting Google+. Als ze op 1 juli Reader sluiten, kun je verwachten dat er een alternatief via Google+ moet zijn. Misschien is die er al wel. En is die beschikbaar vóór 1 juli. Om Google+ weer verder te promoten.
 
-Want zoals [ik gisteren al schreef](http://incredibleadventure.nl/2013/03/google-author-rank-en-authorship-markup/), Google en Google+ worden belangrijk voor _schrijvers_. Waarom zouden ze dan geen nieuwe dienst aanbieden voor _lezers_?
+Want zoals [ik gisteren al schreef](/google-author-rank-en-authorship-markup/), Google en Google+ worden belangrijk voor _schrijvers_. Waarom zouden ze dan geen nieuwe dienst aanbieden voor _lezers_?
 
 Het huidige leesvoer wat de moeite waard is:
 

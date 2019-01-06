@@ -20,7 +20,7 @@ tags:
 ## Controle over design en inhoud
 
 
-Voor de duidelijkheid, toen ik [Bloghelden schreef](http://incredibleadventure.nl/2010/05/er-breken-spannende-tijden-aan/) heb ik zelf bepaald wat er in het boek kwam. Inhoudelijk heb ik zelf de keuzes gemaakt. [Timo Boezeman](https://twitter.com/boezeman/) (AW Bruna) hielp me wel met de volgorde en gaf me zo nu en dan een schop om verder te gaan. Nu we alles zelf hebben gedaan, zijn we helemaal zelf verantwoordelijk. We hebben alle vrijheid om het boek zo lang of kort te maken als we zelf willen en we zijn zelf verantwoordelijk voor het ontwerp.
+Voor de duidelijkheid, toen ik [Bloghelden schreef](/er-breken-spannende-tijden-aan/) heb ik zelf bepaald wat er in het boek kwam. Inhoudelijk heb ik zelf de keuzes gemaakt. [Timo Boezeman](https://twitter.com/boezeman/) (AW Bruna) hielp me wel met de volgorde en gaf me zo nu en dan een schop om verder te gaan. Nu we alles zelf hebben gedaan, zijn we helemaal zelf verantwoordelijk. We hebben alle vrijheid om het boek zo lang of kort te maken als we zelf willen en we zijn zelf verantwoordelijk voor het ontwerp.
 
 
 ## Beschikbaarheid van het boek
@@ -32,7 +32,7 @@ Ons boek [Lifehacking met Evernote](http://ebooks.lifehacking.nl/shop/lifehackin
 ## Updates
 
 
-Een van de pilaren van ons model is om na de eerste uitgave nog een aantal updates uit te brengen. Ik schreef [gisteren al](http://incredibleadventure.nl/2013/02/het-eerste-avontuur-met-self-publishing-is-bijna-ten-einde/) dat het aantal updates een leerproces is. Met name e-books zijn ideaal om in delen uit te brengen, om met updates te werken en verbeteringen snel door te voeren. Helaas is de techniek nog niet ver genoeg om het feilloos en frictieloos proces te maken. Maar we zijn op weg!
+Een van de pilaren van ons model is om na de eerste uitgave nog een aantal updates uit te brengen. Ik schreef [gisteren al](/het-eerste-avontuur-met-self-publishing-is-bijna-ten-einde/) dat het aantal updates een leerproces is. Met name e-books zijn ideaal om in delen uit te brengen, om met updates te werken en verbeteringen snel door te voeren. Helaas is de techniek nog niet ver genoeg om het feilloos en frictieloos proces te maken. Maar we zijn op weg!
 
 
 ## Omzet

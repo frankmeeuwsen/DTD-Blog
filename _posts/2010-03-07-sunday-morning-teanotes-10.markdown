@@ -12,7 +12,7 @@ tags:
 
 "Klopt het dat er geen blogs meer per mail komen? Heb ik wellicht iets gemist dat het is gestopt?"
 
-Die mail kreeg ik vandaag binnen. Van een trouwe lezeres die elke dag netjes via email mijn laatste blogpost binnenkrijgt. Maar inderdaad, [sinds afgelopen dinsdag](http://incredibleadventure.nl/2010/03/get-spikized/) is er geen nieuwe blogpost meer bijgekomen. Mijn voornemen om elke dag iets te posten is flink mislukt en daar baal ik van. Want het is niet moeilijk, het is niet ingewikkeld. En toch lukte het me afgelopen week niet. Ik heb er over nagedacht hoe het komt dat ik de laatste dagen geen blogpost heb gemaakt en er zijn een aantal redenen die met elkaar te maken hebben.
+Die mail kreeg ik vandaag binnen. Van een trouwe lezeres die elke dag netjes via email mijn laatste blogpost binnenkrijgt. Maar inderdaad, [sinds afgelopen dinsdag](/get-spikized/) is er geen nieuwe blogpost meer bijgekomen. Mijn voornemen om elke dag iets te posten is flink mislukt en daar baal ik van. Want het is niet moeilijk, het is niet ingewikkeld. En toch lukte het me afgelopen week niet. Ik heb er over nagedacht hoe het komt dat ik de laatste dagen geen blogpost heb gemaakt en er zijn een aantal redenen die met elkaar te maken hebben.
 
 <!-- more -->
 

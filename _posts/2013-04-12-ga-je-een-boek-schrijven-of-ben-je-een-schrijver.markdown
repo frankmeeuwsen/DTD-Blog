@@ -10,7 +10,7 @@ series:
 - selfpublishing
 ---
 
-Soms kan een quote dat vonkje geven. Het geeft de invalshoek. In mijn [_swipe file_](http://incredibleadventure.nl/2013/01/mijn-swipe-file-is-een-zooitje/) kwam ik deze tegen.
+Soms kan een quote dat vonkje geven. Het geeft de invalshoek. In mijn [_swipe file_](/mijn-swipe-file-is-een-zooitje/) kwam ik deze tegen.
 
 
 <blockquote>If you “train for a marathon”, you might complete a marathon. If you “become a runner,” you will run as many marathons as you’d like.

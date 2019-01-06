@@ -14,7 +14,7 @@ tags:
 ![scaled.Business-Model-Canvas](../images/uploadimages/scaled.Business-Model-Canvas.png)
 
 
-De volgende stap. Twee dagen geleden deelde ik [een eerste screencast](http://incredibleadventure.nl/2013/09/screencast-hoe-maak-je-stapels-in-evernote/) met de vraag om reacties. Zowel hier als op Google+ en Twitter kreeg ik ongeveer hetzelfde terug: Prima lengte, prima om onderwerpen zo te kaderen maar doe iets aan dat geluid!
+De volgende stap. Twee dagen geleden deelde ik [een eerste screencast](/screencast-hoe-maak-je-stapels-in-evernote/) met de vraag om reacties. Zowel hier als op Google+ en Twitter kreeg ik ongeveer hetzelfde terug: Prima lengte, prima om onderwerpen zo te kaderen maar doe iets aan dat geluid!
 
 Mooi. Dat betekent dus op pad voor een USB microfoon. Ik heb inmiddels al aardig wat tips gekregen en ik denk dat ik voor de [Samson C 01](http://www.bax-shop.nl/usb-microfoon/samson-c-01-usb-studio-microfoon/product-details.html) ga. Die is niet te duur en heeft aardig wat goede recensies.
 

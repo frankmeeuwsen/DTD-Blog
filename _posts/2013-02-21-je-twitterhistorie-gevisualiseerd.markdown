@@ -12,7 +12,7 @@ tags:
 - twitter
 ---
 
-Had ik het een [paar dagen geleden](http://incredibleadventure.nl/2013/02/een-twitterarchief-als-persoonlijke-tijdmachine/) nog over de twijfel van het Twitterarchief, moet je dat wel willen zien? Sindsdien is er veel gebeurd. Niet alleen heb ik eigenlijk de grootste lol om door mijn archief te bladeren, Joris Leermakers (Blogheld) heeft [een handige site](http://twitter.leermakers.net/) gemaakt om je archief beter inzichtelijk te maken. Upload het zip bestand met je tweets en een paar minuten later heb je een mooi overzicht.
+Had ik het een [paar dagen geleden](/een-twitterarchief-als-persoonlijke-tijdmachine/) nog over de twijfel van het Twitterarchief, moet je dat wel willen zien? Sindsdien is er veel gebeurd. Niet alleen heb ik eigenlijk de grootste lol om door mijn archief te bladeren, Joris Leermakers (Blogheld) heeft [een handige site](http://twitter.leermakers.net/) gemaakt om je archief beter inzichtelijk te maken. Upload het zip bestand met je tweets en een paar minuten later heb je een mooi overzicht.
 
 
 

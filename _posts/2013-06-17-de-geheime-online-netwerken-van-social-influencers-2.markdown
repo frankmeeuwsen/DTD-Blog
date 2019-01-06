@@ -21,7 +21,7 @@ Een voordeel voor de adverteerder is dat hij deze conversaties vaak online kan v
 
 
 
-Het privé netwerk [Path](http://incredibleadventure.nl/2013/01/is-path-nog-steeds-mijn-twitter/) groeit in populariteit. Steeds meer aanmeldingen en steeds meer activiteit. Path staat er niet alleen in. Er zijn meer kleinere en meer privé netwerken in opkomst waar de échte conversaties plaatsvinden. Ik spreek uit ervaring: Op Path zie ik andere gesprekken dan op Twitter of Facebook. Echter, authentieker en eerlijker. Nogal een paradox als je nagaat dat menig spreker op social media marketing events spreekt over de authentieke mens op sociale netwerken. Ik denk dat die tijd wel voorbij is en dat menig Twitteraar goed nadenkt voor hij over merken praat. Want het wordt gemonitord. Er wordt iets van gevonden door anderen dan je directe netwerk. 
+Het privé netwerk [Path](/is-path-nog-steeds-mijn-twitter/) groeit in populariteit. Steeds meer aanmeldingen en steeds meer activiteit. Path staat er niet alleen in. Er zijn meer kleinere en meer privé netwerken in opkomst waar de échte conversaties plaatsvinden. Ik spreek uit ervaring: Op Path zie ik andere gesprekken dan op Twitter of Facebook. Echter, authentieker en eerlijker. Nogal een paradox als je nagaat dat menig spreker op social media marketing events spreekt over de authentieke mens op sociale netwerken. Ik denk dat die tijd wel voorbij is en dat menig Twitteraar goed nadenkt voor hij over merken praat. Want het wordt gemonitord. Er wordt iets van gevonden door anderen dan je directe netwerk. 
 
 
 

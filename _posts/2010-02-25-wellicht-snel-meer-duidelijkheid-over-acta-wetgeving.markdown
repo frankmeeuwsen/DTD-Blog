@@ -12,7 +12,7 @@ tags:
 - privacy
 ---
 
-Een paar dagen geleden [schreef ik al](http://incredibleadventure.nl/2010/02/document-voor-regulering-internetverkeer-gelekt-acta-2/) over de ACTA verdragen die op dit moment in het geheim worden uitonderhandeld tussen diverse landen. Sinds 2007 wordt aan dit verdrag gewerkt en met name de regulering en controle op het internetverkeer baart veel mensen zorgen, waaronder mijzelf. Gelukkig beginnen meer lidstaten zich te roeren in de overlegorganen en pleiten ze voor meer transparantie vanwege de publieke opinie. Ook Europarlementariër Sophie in 't Veld (D66) weet geregeld via Twitter goed nieuws te brengen.
+Een paar dagen geleden [schreef ik al](/document-voor-regulering-internetverkeer-gelekt-acta-2/) over de ACTA verdragen die op dit moment in het geheim worden uitonderhandeld tussen diverse landen. Sinds 2007 wordt aan dit verdrag gewerkt en met name de regulering en controle op het internetverkeer baart veel mensen zorgen, waaronder mijzelf. Gelukkig beginnen meer lidstaten zich te roeren in de overlegorganen en pleiten ze voor meer transparantie vanwege de publieke opinie. Ook Europarlementariër Sophie in 't Veld (D66) weet geregeld via Twitter goed nieuws te brengen.
 
 
 [![](../images/uploadimages/actatweet-e1267130315680.png)](http://twitter.com/SophieintVeld/status/9569881364)

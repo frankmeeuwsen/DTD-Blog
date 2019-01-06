@@ -16,6 +16,6 @@ Vandaag is zo'n dag. Ik bereid [een workshop](http://incredibleadventure.nl/dien
 
 Met wifi, een goede laptop en je werkdocumenten niet gebonden aan één vaste plek kun je echt overal terecht.
 
-Ik schreef al [eens eerder over een wasserette](http://incredibleadventure.nl/2012/10/van-alles-is-een-verhaal-te-maken-zelfs-een-wasserette/) bedacht ik me...
+Ik schreef al [eens eerder over een wasserette](/van-alles-is-een-verhaal-te-maken-zelfs-een-wasserette/) bedacht ik me...
 
 PS: Dat pijltje bij mijn webcam? Zodat ik af en toe niet vergeet er in te kijken tijdens een Google Hangout of Skype sessie :-)

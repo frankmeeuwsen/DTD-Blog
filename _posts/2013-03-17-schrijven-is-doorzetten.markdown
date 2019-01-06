@@ -12,7 +12,7 @@ tags:
 - schrijven
 ---
 
-![Keep calm and write on](../images/uploadimages/writeon-e1363553118753.jpg)Kun je het je voorstellen? Op vrijdag bedenk je hoe je weekend gaat lopen, de leuke dingen die je met je gezin gaat doen. De vaste afspraken zoals boodschappen, zwemles, avondeten. Hé, ik heb twee kinderen hoor, het is echt een gezinsweekend. Maar om die vaste afspraken de klusjes die nu echt een keer moeten gebeuren. Kleine reparatie aan de auto. Een kast uitruimen en zien wat er weg kan. Maar eveneens mijn eigen werk en hobby. Schrijven. [Meters maken](http://incredibleadventure.nl/2013/03/meters-maken/). Bloggen, wat privé gedachten in [Day One](http://dayoneapp.com/) zetten. Je hebt het helemaal uitgedacht want je dénkt dat het een standaard weekend gaat worden.
+![Keep calm and write on](../images/uploadimages/writeon-e1363553118753.jpg)Kun je het je voorstellen? Op vrijdag bedenk je hoe je weekend gaat lopen, de leuke dingen die je met je gezin gaat doen. De vaste afspraken zoals boodschappen, zwemles, avondeten. Hé, ik heb twee kinderen hoor, het is echt een gezinsweekend. Maar om die vaste afspraken de klusjes die nu echt een keer moeten gebeuren. Kleine reparatie aan de auto. Een kast uitruimen en zien wat er weg kan. Maar eveneens mijn eigen werk en hobby. Schrijven. [Meters maken](/meters-maken/). Bloggen, wat privé gedachten in [Day One](http://dayoneapp.com/) zetten. Je hebt het helemaal uitgedacht want je dénkt dat het een standaard weekend gaat worden.
 
 Nu denken jullie dat er een enorme climax komt? Dat er iets ver-schrik-ke-lijks is gebeurd? Of een enorme kans zich voordeed?
 

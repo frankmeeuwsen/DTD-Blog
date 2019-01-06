@@ -17,7 +17,7 @@ Kijkt u eerst even mee met de volgende video "The State of the Internet"
 
 
 
-Fraaie cijfers nietwaar? Ik ben altijd weer onder de indruk van die onmogelijk grote cijfers die worden genoemd als het gaat om de hoeveelheid email, internetgebruikers, bezoekers op website en noem maar op. Dat was [een maandje terug](http://incredibleadventure.nl/2010/01/sunday-morning-teanotes-4/) ook al. Om even wat tegenwicht te bieden, een scan uit _years gone by_. In Wave 21 uit 1996 hield Erwin van der Zande (nu hoofdredacteur bij [Bright](http://www.bright.nl)) de groei van het internet bij in Nederland en Belgie. De cijfers waren toch wel iets anders dan wat je hierboven ziet. Minimaal 170.000 Nederlanders waren online in 1996...Klik op de image voor een grote versie.
+Fraaie cijfers nietwaar? Ik ben altijd weer onder de indruk van die onmogelijk grote cijfers die worden genoemd als het gaat om de hoeveelheid email, internetgebruikers, bezoekers op website en noem maar op. Dat was [een maandje terug](/sunday-morning-teanotes-4/) ook al. Om even wat tegenwicht te bieden, een scan uit _years gone by_. In Wave 21 uit 1996 hield Erwin van der Zande (nu hoofdredacteur bij [Bright](http://www.bright.nl)) de groei van het internet bij in Nederland en Belgie. De cijfers waren toch wel iets anders dan wat je hierboven ziet. Minimaal 170.000 Nederlanders waren online in 1996...Klik op de image voor een grote versie.
 
 
 [![](../images/uploadimages/Wave_cijfers-150x150.jpg)](../images/uploadimages/Wave_cijfers.jpg)

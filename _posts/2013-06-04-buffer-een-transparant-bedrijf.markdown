@@ -44,4 +44,4 @@ Daarnaast kwam ik op [een recent artikel](http://www.inc.com/jeff-haden/inside-b
 
 
 
-Anyway, Buffer blijft een prima applicatie en ik moet het weer eens gaan gebruiken. Met gelijktijdig [de juiste aandacht](http://incredibleadventure.nl/2013/05/geef-je-kroegen-de-juiste-aandacht/) aan de satellieten geven. Een uitdaging!
+Anyway, Buffer blijft een prima applicatie en ik moet het weer eens gaan gebruiken. Met gelijktijdig [de juiste aandacht](/geef-je-kroegen-de-juiste-aandacht/) aan de satellieten geven. Een uitdaging!

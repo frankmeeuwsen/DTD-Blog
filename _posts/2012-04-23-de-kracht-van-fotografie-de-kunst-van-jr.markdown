@@ -22,4 +22,4 @@ http://www.youtube.com/watch?v=M5MEC5MPjvg
 
 
 
-(Via Mary...inderdaad...[die Mary](http://incredibleadventure.nl/2012/04/wat-zou-jij-doen-als-je-mail-krijgt-van-de-vp-of-lovespreading/))
+(Via Mary...inderdaad...[die Mary](/wat-zou-jij-doen-als-je-mail-krijgt-van-de-vp-of-lovespreading/))

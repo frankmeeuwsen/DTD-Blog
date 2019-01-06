@@ -12,7 +12,7 @@ tags:
 - samenwerking
 ---
 
-Vorig jaar heb ik samen met [Indira Reynaert](http://www.thejaneway.nl/) een succesvolle cursus Crossmedia Concepting [gegeven](http://incredibleadventure.nl/2010/04/jaarverslag-2010/) voor de Telegraaf Media groep. De samenwerking met Indira beviel aan beide kanten zo goed dat we verder gingen kijken naar mogelijkheden. Die hebben we gevonden! In samenwerking met [Van der Hilst communicatie](http://www.hilst.nl/) presenteren we een nieuwe leergang die in het najaar start: [Beyond Crossmedia](http://www.beyondcrossmedia.nl/). In deze 9-weekse leergang ontwikkel je een strategische en kritische visie op de inzet van social media onder het mentorschap van Indira en ondergetekende en een _all-star team_ aan docenten.
+Vorig jaar heb ik samen met [Indira Reynaert](http://www.thejaneway.nl/) een succesvolle cursus Crossmedia Concepting [gegeven](/jaarverslag-2010/) voor de Telegraaf Media groep. De samenwerking met Indira beviel aan beide kanten zo goed dat we verder gingen kijken naar mogelijkheden. Die hebben we gevonden! In samenwerking met [Van der Hilst communicatie](http://www.hilst.nl/) presenteren we een nieuwe leergang die in het najaar start: [Beyond Crossmedia](http://www.beyondcrossmedia.nl/). In deze 9-weekse leergang ontwikkel je een strategische en kritische visie op de inzet van social media onder het mentorschap van Indira en ondergetekende en een _all-star team_ aan docenten.
 
 <!-- more -->**Waarom deze leergang? **
 

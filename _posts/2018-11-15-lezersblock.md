@@ -3,7 +3,7 @@ layout: post
 title: lezersblock
 date: 2018-11-15 09:24:27 +0059
 category: random
-tags: [random]
+tags: random
 ---
 
 Wat een [herkenbaar verhaal van Elmine over lezersblock](http://storymin.es/2018/11/lezersblock-je-weet-wel-als-het-lezen-van-een-boek-je-niet-meer-lukt/). Je wilt wel een boek lezen maar het lukt gewoon niet meer. Zo worstel ik me al maanden door een paar boeken. Maar ik kom vaak niet verder dan een paar paragrafen. Langdurig mijn hoofd erbij houden is er niet meer bij. Ongeacht of het een e-book is (hallo Walkaway van Cory Doctorow) of een fysiek boek (hoi Future Shock van Douglas Rushkoff). 

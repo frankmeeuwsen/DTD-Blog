@@ -86,7 +86,7 @@ Een nadeel van de bookmarklet is dat je niet makkelijk kunt bepalen waar je de n
 
 **Mogelijkheden van de widget**
 
-Als je je Story hebt gemaakt wordt hier automatisch een widget van gemaakt. Deze kun je via een regel Javascript op elke site zetten (zie hieronder). De widget neem daardoor de lengte aan van je Story, wat voor mij tegelijk een nadeel is. Ik zou liever een Slideshare-achtige oplossing zien zoals ik [al eerder](http://incredibleadventure.nl/2010/03/in-drie-stappen-naar-real-time-curators-graag/) beschreef. De widget is direct naar Twitter of Facebook te sturen en heeft een mail-a-friend mogelijkheid.
+Als je je Story hebt gemaakt wordt hier automatisch een widget van gemaakt. Deze kun je via een regel Javascript op elke site zetten (zie hieronder). De widget neem daardoor de lengte aan van je Story, wat voor mij tegelijk een nadeel is. Ik zou liever een Slideshare-achtige oplossing zien zoals ik [al eerder](/in-drie-stappen-naar-real-time-curators-graag/) beschreef. De widget is direct naar Twitter of Facebook te sturen en heeft een mail-a-friend mogelijkheid.
 
 **Private/public mogelijkheid**
 

@@ -19,11 +19,11 @@ Ik heb de antwoorden van de ondervraagden geheel niet-wetenschappelijk in een Go
 
 <!-- more -->
 
-**[dropcap]1. [/dropcap]Interactieve print en QR** — Het lijkt maar niet te willen lukken met de vierkante barcodes in magazines en op billboards. Zoals [Sanne zegt](http://incredibleadventure.nl/2012/12/welke-trends-volg-je-niet-in-2013-sanne-walvisch/): “Voorlopig blijft tijdschriften lezen nog één van de weinige analoge bezigheden.”
+**[dropcap]1. [/dropcap]Interactieve print en QR** — Het lijkt maar niet te willen lukken met de vierkante barcodes in magazines en op billboards. Zoals [Sanne zegt](/welke-trends-volg-je-niet-in-2013-sanne-walvisch/): “Voorlopig blijft tijdschriften lezen nog één van de weinige analoge bezigheden.”
 
-**[dropcap]2. [/dropcap]Internet of Things/Quantified Self** — Het is één van de meestbesproken onderwerpen in 2012, inclusief meetups en instituten. Maar een paar ondervraagden [zien nu nog](http://incredibleadventure.nl/2012/12/welke-trends-volg-je-niet-in-2013-patrick-mackaaij/) veel beren op de weg. Al schuilt er wel een glorieuze toekomst voor deze initiatieven…
+**[dropcap]2. [/dropcap]Internet of Things/Quantified Self** — Het is één van de meestbesproken onderwerpen in 2012, inclusief meetups en instituten. Maar een paar ondervraagden [zien nu nog](/welke-trends-volg-je-niet-in-2013-patrick-mackaaij/) veel beren op de weg. Al schuilt er wel een glorieuze toekomst voor deze initiatieven…
 
-**[dropcap]3. [/dropcap]Apple haters** — Geen idee of het komt omdat ik zelf dit jaar 100% ben overgestapt op Apple, maar twee ondervraagden zeggen in eigen bewoordingen zich er niet meer druk om te maken. [Niels Gouman](http://incredibleadventure.nl/2012/12/welke-trends-volg-je-niet-in-2013-niels-gouman): Algemene conclusie is tot nu toe vooral geweest dat [Android] achter blijft op iOS. [Boris Veldhuijzen van Zanten](http://incredibleadventure.nl/2012/12/welke-trends-volg-je-niet-in-2013-boris-velthuijzen-van-zanten/): Apple groeit maar door, verdient steeds meer geld en lanceert succesvol apparaat na succesvol apparaat
+**[dropcap]3. [/dropcap]Apple haters** — Geen idee of het komt omdat ik zelf dit jaar 100% ben overgestapt op Apple, maar twee ondervraagden zeggen in eigen bewoordingen zich er niet meer druk om te maken. [Niels Gouman](/welke-trends-volg-je-niet-in-2013-niels-gouman): Algemene conclusie is tot nu toe vooral geweest dat [Android] achter blijft op iOS. [Boris Veldhuijzen van Zanten](http://incredibleadventure.nl/2012/12/welke-trends-volg-je-niet-in-2013-boris-velthuijzen-van-zanten/): Apple groeit maar door, verdient steeds meer geld en lanceert succesvol apparaat na succesvol apparaat
 
 Wat zijn mijn drie trends die ik negeer in 2013?
 

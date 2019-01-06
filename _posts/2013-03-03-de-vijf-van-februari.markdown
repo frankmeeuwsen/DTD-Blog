@@ -18,19 +18,19 @@ tags:
 
 
 	
-  1. [Je Twitter historie gevisualiseerd](http://incredibleadventure.nl/2013/02/je-twitterhistorie-gevisualiseerd/) - Een verwijzing naar de visualisatie tool van Joris Leermakers voor je Twitter archief
+  1. [Je Twitter historie gevisualiseerd](/je-twitterhistorie-gevisualiseerd/) - Een verwijzing naar de visualisatie tool van Joris Leermakers voor je Twitter archief
 
 	
-  2. [Programmeren is een fundamenteel recht voor kinderen](http://incredibleadventure.nl/2013/02/programmeren-is-een-fundamenteel-recht-voor-kinderen/) - Over het fundamentele begrip dat je kunt leren van elkaars creatief werk door in de bron te kijken, door een moderne View Source te doen.
+  2. [Programmeren is een fundamenteel recht voor kinderen](/programmeren-is-een-fundamenteel-recht-voor-kinderen/) - Over het fundamentele begrip dat je kunt leren van elkaars creatief werk door in de bron te kijken, door een moderne View Source te doen.
 
 	
-  3. [Maak ruimte in je brein voor creativiteit](http://incredibleadventure.nl/2013/02/maak-ruimte-in-je-brein-voor-creativiteit/) - Hoe minder ruimte in je brein is dichtgemetseld met onbelangrijke zaken die je nog moet onthouden, hoe meer die ruimte opgevuld kan worden met creativiteit.
+  3. [Maak ruimte in je brein voor creativiteit](/maak-ruimte-in-je-brein-voor-creativiteit/) - Hoe minder ruimte in je brein is dichtgemetseld met onbelangrijke zaken die je nog moet onthouden, hoe meer die ruimte opgevuld kan worden met creativiteit.
 
 	
-  4. [Incredible Gasten – Snob 2000: toevallig tegen iets moois aanlopen](http://incredibleadventure.nl/2013/02/incredible-gasten-snob-2000-toevallig-tegen-iets-moois-aanlopen/) - Het gastartikel van Freek Jansen over serendipiteit en shoarmataart.
+  4. [Incredible Gasten – Snob 2000: toevallig tegen iets moois aanlopen](/incredible-gasten-snob-2000-toevallig-tegen-iets-moois-aanlopen/) - Het gastartikel van Freek Jansen over serendipiteit en shoarmataart.
 
 	
-  5. [Een Twitterarchief als persoonlijke tijdmachine](http://incredibleadventure.nl/2013/02/een-twitterarchief-als-persoonlijke-tijdmachine/) - Wat doet een terugblik in nutteloze en verrassende tweets uit je verleden met je?
+  5. [Een Twitterarchief als persoonlijke tijdmachine](/een-twitterarchief-als-persoonlijke-tijdmachine/) - Wat doet een terugblik in nutteloze en verrassende tweets uit je verleden met je?
 
 
 Vijf best verschillende artikelen, waaronder één gastartikel. Ik had er in februari best moeite mee om elke dag weer iets te schrijven. Maar ik wil die meters maken, wil het weer onder de knie krijgen om elke dag iets te creëren.

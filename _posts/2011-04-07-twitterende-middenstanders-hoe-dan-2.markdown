@@ -12,7 +12,7 @@ tags:
 - utrecht
 ---
 
-Vorig jaar juni schreef ik over [een aantal Utrechtse middenstanders](http://incredibleadventure.nl/2010/06/twitterende-middenstanders-hoe-dan/) die op een leuke manier gebruik maken van social media (nou ja, Twitter) om naamsbekendheid te krijgen, verkeer in de winkel te krijgen en te houden. Vandaag weer een mooi voorbeeld uit Utrecht! Deze keer de mooie kookwinkel Potten & Pannen aan de Nachtegaalstraat. Deze winkel heeft al tijden [een fraaie online shop](http://www.pannen.nl/) en zo nu en dan zag ik wel eens een tweet van ze voorbij komen. Vanavond zag ik een leuke actie waar Twitter en Facebook worden ingezet. Het is eigenlijk heel simpel: Zet op Facebook of Twitter wat je favoriete keukengerei is en maak kans op een mooi koksmes. In de tweet of de Facebook update zorg je dat de account van Potten en Pannen staat, zorg voor zoveel mogelijk retweets en je wint het koksmes.
+Vorig jaar juni schreef ik over [een aantal Utrechtse middenstanders](/twitterende-middenstanders-hoe-dan/) die op een leuke manier gebruik maken van social media (nou ja, Twitter) om naamsbekendheid te krijgen, verkeer in de winkel te krijgen en te houden. Vandaag weer een mooi voorbeeld uit Utrecht! Deze keer de mooie kookwinkel Potten & Pannen aan de Nachtegaalstraat. Deze winkel heeft al tijden [een fraaie online shop](http://www.pannen.nl/) en zo nu en dan zag ik wel eens een tweet van ze voorbij komen. Vanavond zag ik een leuke actie waar Twitter en Facebook worden ingezet. Het is eigenlijk heel simpel: Zet op Facebook of Twitter wat je favoriete keukengerei is en maak kans op een mooi koksmes. In de tweet of de Facebook update zorg je dat de account van Potten en Pannen staat, zorg voor zoveel mogelijk retweets en je wint het koksmes.
 
 
 

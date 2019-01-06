@@ -17,4 +17,4 @@ Maar niet getreurd, na de Media Battle zit ik niet stil. Vandaag is de eerste aa
 
 Bij deze TEDx ben ik betrokken voor de publiciteit en het vertellen van het verhaal naar de buitenwereld. Wederom een mooie en inspirerende klus die ik graag oppak met het TEDxHogeschoolUtrecht team!
 
-Het najaar staat dus vooral in het teken van lesgeven, evenementen organiseren Ã³f aan meewerken. Want naast de twee genoemde ligt er nog een fraai evenement in de mailbox te wachten. Het heeft iets met [deze post](http://incredibleadventure.nl/2011/07/de-lol-met-een-arduino-en-de-online-community/) te maken. Later meer!
+Het najaar staat dus vooral in het teken van lesgeven, evenementen organiseren Ã³f aan meewerken. Want naast de twee genoemde ligt er nog een fraai evenement in de mailbox te wachten. Het heeft iets met [deze post](/de-lol-met-een-arduino-en-de-online-community/) te maken. Later meer!

@@ -18,7 +18,7 @@ Wil je trouwens meer weten hoe je je iPad zakelijk goed kunt gebruiken met Evern
 
 
 
-Als de CEO van de grootste zoekmachine ter wereld [op Google+ uitlegt](https://plus.google.com/+EricSchmidt/posts/JcfVoJhW2Kw) hoe je van Apple op Android kunt overstappen…dat is wel nieuws. Toch? En ik moet eerlijk zijn, ik neig soms toch wel even naar mijn [Samsung Galaxy Note 3](http://incredibleadventure.nl/2013/10/samsung-galaxy-note-3-de-twijfel-om-over-te-stappen-mijnnote3/) voor lezen en schrijven.
+Als de CEO van de grootste zoekmachine ter wereld [op Google+ uitlegt](https://plus.google.com/+EricSchmidt/posts/JcfVoJhW2Kw) hoe je van Apple op Android kunt overstappen…dat is wel nieuws. Toch? En ik moet eerlijk zijn, ik neig soms toch wel even naar mijn [Samsung Galaxy Note 3](/samsung-galaxy-note-3-de-twijfel-om-over-te-stappen-mijnnote3/) voor lezen en schrijven.
 
 Vriend Erwin Blom is altijd gefascineerd door wat hij (nog) niet begrijpt. Bitcoin is [zijn nieuwste fascinatie](http://fastmovingtargets.nl/2013/11/24/mijn-fascinatie-voor-bitcoin-onbegrijpelijk-en-onbegrensd/). Ik deel dit met hem. Ik het nog steeds niet helemaal in de vingers wát het is en hoe het nu exact werkt en gaat werken. En ik vind dat rete-interessant. Maar ik zal nooit meer zeggen dat iets niet nodig is. Dat deed ik [7 jaar geleden](http://www.frank-ly.nl/twttr-oftewel-present-tense-blogging) over de microblogdienst die toen opkwam…
 

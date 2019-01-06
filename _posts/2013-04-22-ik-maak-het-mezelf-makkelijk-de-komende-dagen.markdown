@@ -13,7 +13,7 @@ Al met al geeft me dat de komende tijd iets minder hersenruimte om hele lange en
 
 _**What the fuck…wat een smoesjes…Echt….**_
 
-Ik wilde bovenstaande echt serieus schrijven en publiceren. En me verontschuldigen dat ik de komende tijd wat kortere artikelen zou schrijven. Maar waarom zou ik me verontschuldigen? Het is mijn [platform](http://incredibleadventure.nl/2013/01/een-digitaal-platform-in-drie-delen/). Het zijn mijn [meters](http://incredibleadventure.nl/2013/03/meters-maken/) die ik maak. Het is mijn [moederschip](http://incredibleadventure.nl/2010/01/welkom-op-het-moederschip/). Les één van de blogworkshop: Het is _je eigen_ verantwoordelijkheid.
+Ik wilde bovenstaande echt serieus schrijven en publiceren. En me verontschuldigen dat ik de komende tijd wat kortere artikelen zou schrijven. Maar waarom zou ik me verontschuldigen? Het is mijn [platform](/een-digitaal-platform-in-drie-delen/). Het zijn mijn [meters](http://incredibleadventure.nl/2013/03/meters-maken/) die ik maak. Het is mijn [moederschip](http://incredibleadventure.nl/2010/01/welkom-op-het-moederschip/). Les één van de blogworkshop: Het is _je eigen_ verantwoordelijkheid.
 
 
 

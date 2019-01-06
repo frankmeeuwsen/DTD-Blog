@@ -18,7 +18,7 @@ Zaterdag las ik [The Google+ Long Game is Brilliant](http://www.feld.com/wp/arch
 
 Het gaat Google niet om het maken van een sociaal netwerk. Google+ hoeft niet per se een bestemming te zijn zoals ik mijn verhaal begon. Het is het cement tussen alle Google diensten die je gebruikt.
 
-Dat deed me denken aan twee oudere artikelen die ooit schreef: “[Kunnen we zonder Google?](http://incredibleadventure.nl/2010/02/kunnen-we-zonder-google/)” over het niet gebruiken van Google diensten en “[Wie is beter dan Google?](http://incredibleadventure.nl/2010/03/wie-is-beter-dan-google/)” met onderstaande video.
+Dat deed me denken aan twee oudere artikelen die ooit schreef: “[Kunnen we zonder Google?](/kunnen-we-zonder-google/)” over het niet gebruiken van Google diensten en “[Wie is beter dan Google?](http://incredibleadventure.nl/2010/03/wie-is-beter-dan-google/)” met onderstaande video.
 
 http://vimeo.com/9925756
 

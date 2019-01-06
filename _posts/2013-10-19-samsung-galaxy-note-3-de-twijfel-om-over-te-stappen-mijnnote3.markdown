@@ -7,7 +7,6 @@ slug: samsung-galaxy-note-3-de-twijfel-om-over-te-stappen-mijnnote3
 title: 'Samsung Galaxy Note 3 - De twijfel om over te stappen... #Mijnnote3'
 wordpress_id: 3673
 tags:
-- '#mijnnote3'
 - review
 - Samsung
 ---

@@ -11,7 +11,7 @@ tags:
 - mededeling van de directie
 ---
 
-[![](../images/uploadimages/113055330_c4b616bcda_m.jpg)](../images/uploadimages/113055330_c4b616bcda_m.jpg)1 April, de dag van [de malle fratsen](http://twitter.com/#!/search/fe11). Maar eveneens de dag dat ik in 2009 zelfstandig ondernemer werd. En de dag in 2010 waarop ik [mijn eerste Jaarverslag](http://incredibleadventure.nl/2010/04/jaarverslag-2010/) schreef. Tradities moet je koesteren, dus laat ik vandaag een nieuw jaarverslag schrijven. Wat is er gebeurd, hoe sta ik er voor, welke successen heb ik gezien en wat gaat er de komende tijd gebeuren? Evenals het eerste jaar was het tweede jaar een tumultueus jaar met pieken en dalen, maar er begint een lijn te komen in mijn werkzaamheden.
+[![](../images/uploadimages/113055330_c4b616bcda_m.jpg)](../images/uploadimages/113055330_c4b616bcda_m.jpg)1 April, de dag van [de malle fratsen](http://twitter.com/#!/search/fe11). Maar eveneens de dag dat ik in 2009 zelfstandig ondernemer werd. En de dag in 2010 waarop ik [mijn eerste Jaarverslag](/jaarverslag-2010/) schreef. Tradities moet je koesteren, dus laat ik vandaag een nieuw jaarverslag schrijven. Wat is er gebeurd, hoe sta ik er voor, welke successen heb ik gezien en wat gaat er de komende tijd gebeuren? Evenals het eerste jaar was het tweede jaar een tumultueus jaar met pieken en dalen, maar er begint een lijn te komen in mijn werkzaamheden.
 
 <!-- more -->
 

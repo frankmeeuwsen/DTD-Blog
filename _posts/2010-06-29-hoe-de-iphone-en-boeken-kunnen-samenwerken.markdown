@@ -22,4 +22,4 @@ Genoeg verdedigend gedrag van uitgevers en schrijvers over hun zo geliefde papie
 
 
 
-En ja, voor de Ipad kan het natuurlijk ook! Kijk maar naar [Alice in Wonderland](http://incredibleadventure.nl/2010/04/zo-kunnen-boeken-op-de-ipad-worden/)!
+En ja, voor de Ipad kan het natuurlijk ook! Kijk maar naar [Alice in Wonderland](/zo-kunnen-boeken-op-de-ipad-worden/)!

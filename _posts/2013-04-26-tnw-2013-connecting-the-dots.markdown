@@ -10,7 +10,7 @@ tags:
 - TNW
 ---
 
-In mijn profielen zul je vaak de term [Stay Hungry, Stay Foolish](http://incredibleadventure.nl/2011/03/stay-hungry-stay-foolish/) tegenkomen. De beroemde quote van Steve Jobs tijdens zijn Stanford speech. Maar die speech is zoveel meer. Het uitgangspunt van zijn verhaal toen was "Connecting the dots" en dat gevoel heb ik vanochtend op TNW Conference gekregen met de eerste sprekers. Tijdens de lunchpauze sprak ik [Bram Alkema](http://www.neemdeel.nl) even over het maken van een punt in een blogpost. Bram, bij deze alvast, ik weet nog niet welk punt ik ga maken. Dat zien we aan het einde wel.
+In mijn profielen zul je vaak de term [Stay Hungry, Stay Foolish](/stay-hungry-stay-foolish/) tegenkomen. De beroemde quote van Steve Jobs tijdens zijn Stanford speech. Maar die speech is zoveel meer. Het uitgangspunt van zijn verhaal toen was "Connecting the dots" en dat gevoel heb ik vanochtend op TNW Conference gekregen met de eerste sprekers. Tijdens de lunchpauze sprak ik [Bram Alkema](http://www.neemdeel.nl) even over het maken van een punt in een blogpost. Bram, bij deze alvast, ik weet nog niet welk punt ik ga maken. Dat zien we aan het einde wel.
 
 
 

@@ -12,7 +12,7 @@ tags:
 - uitgeven
 ---
 
-![](../images/uploadimages/lezen-269x300.png)In mijn [laatste blogpost](http://incredibleadventure.nl/2012/12/waarom-je-nog-best-boeken-op-papier-kunt-uitgeven-maar/) had ik het over het uitgeven van boeken. Hoe dat zowel online als offline op andere manieren kan dan de traditionele. Waarom online een boek maar één keer uitgeven als je een platform kunt bouwen om updates makkelijk te distribueren? Waarom een boek in traditioneel formaat uitgeven als het juist opvalt om het groter of kleiner te maken? Het uitgeven verandert door digitalisering. Maar lezen verandert eveneens. Ik geloof niet dat we minder lezen door internet. Sterker nog, met alle tweets, wall-updates en blogs denk ik dat we méér zijn gaan lezen. Ik doe geen uitspraak over de kwaliteit van wat we lezen…
+![](../images/uploadimages/lezen-269x300.png)In mijn [laatste blogpost](/waarom-je-nog-best-boeken-op-papier-kunt-uitgeven-maar/) had ik het over het uitgeven van boeken. Hoe dat zowel online als offline op andere manieren kan dan de traditionele. Waarom online een boek maar één keer uitgeven als je een platform kunt bouwen om updates makkelijk te distribueren? Waarom een boek in traditioneel formaat uitgeven als het juist opvalt om het groter of kleiner te maken? Het uitgeven verandert door digitalisering. Maar lezen verandert eveneens. Ik geloof niet dat we minder lezen door internet. Sterker nog, met alle tweets, wall-updates en blogs denk ik dat we méér zijn gaan lezen. Ik doe geen uitspraak over de kwaliteit van wat we lezen…
 Ik geloof dat technologie en digitale netwerken ons kunnen helpen met lezen. Twee voorbeelden.
 
 <!-- more -->

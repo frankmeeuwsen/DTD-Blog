@@ -10,11 +10,11 @@ tags:
 - SMTN
 ---
 
-Het is een paar weken geleden, zeven [om precies](http://incredibleadventure.nl/2010/03/sunday-morning-teanotes-10/) te zijn, dat ik de Sunday Morning Teanotes heb geschreven. Aangezien mijn originele voornemen om dagelijks te schrijven toch al overhoop ligt was ook het op zondag schrijven in het gedrang gekomen. Maar het ondernemersleven gaat gewoon door! De afgelopen tijd is er een hoop gebeurd wat mijn aandacht heeft.
+Het is een paar weken geleden, zeven [om precies](/sunday-morning-teanotes-10/) te zijn, dat ik de Sunday Morning Teanotes heb geschreven. Aangezien mijn originele voornemen om dagelijks te schrijven toch al overhoop ligt was ook het op zondag schrijven in het gedrang gekomen. Maar het ondernemersleven gaat gewoon door! De afgelopen tijd is er een hoop gebeurd wat mijn aandacht heeft.
 
 **Bloghelden**
 
-Natuurlijk eerst het boek! Het ligt binnenkort dan echt in de winkel! De precieze datum is nog niet bekend, maar rond 25 mei zal Bloghelden in de winkel te koop zijn. Natuurlijk bij de betere boekhandels, maar ook online is het boek dan echt te krijgen. Je kunt het boek [al vooruit bestellen](http://ikle.es/BLOGhelden), zodat je hem direct na uitkomen binnen hebt. Ik ben samen met Timo Boezeman van A.W. Bruna aan het werken aan een preview-versie van het boek in PDF en de komende week gaan we ook eens kijken wat we aan promotie doen voor het boek. Ideeën zijn er genoeg! Heb je trouwens de QR code actie van Selexyz [al gezien](http://incredibleadventure.nl/2010/04/bestel-bloghelden-via-qr-code/) voor het boek? Natuurlijk komt er een boekpresentatie, ik ben met de jongens van [SETUP Utrecht](http://www.setuputrecht.nl) aan het kijken hoe we dat gaan doen.
+Natuurlijk eerst het boek! Het ligt binnenkort dan echt in de winkel! De precieze datum is nog niet bekend, maar rond 25 mei zal Bloghelden in de winkel te koop zijn. Natuurlijk bij de betere boekhandels, maar ook online is het boek dan echt te krijgen. Je kunt het boek [al vooruit bestellen](http://ikle.es/BLOGhelden), zodat je hem direct na uitkomen binnen hebt. Ik ben samen met Timo Boezeman van A.W. Bruna aan het werken aan een preview-versie van het boek in PDF en de komende week gaan we ook eens kijken wat we aan promotie doen voor het boek. Ideeën zijn er genoeg! Heb je trouwens de QR code actie van Selexyz [al gezien](/bestel-bloghelden-via-qr-code/) voor het boek? Natuurlijk komt er een boekpresentatie, ik ben met de jongens van [SETUP Utrecht](http://www.setuputrecht.nl) aan het kijken hoe we dat gaan doen.
 
 **Lesgeven**
 

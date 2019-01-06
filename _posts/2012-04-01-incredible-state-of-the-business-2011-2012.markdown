@@ -11,7 +11,7 @@ tags:
 - mededeling van de directie
 ---
 
-![](../images/uploadimages/113055330_c4b616bcda_m.jpg)Tradities moet je koesteren, dat zei ik vorig jaar al. Dus is het vandaag weer een mooie dag om mijn jaarverslag te schrijven. Het derde jaar als zelfstandige ondernemer. Evenals in [2010](http://incredibleadventure.nl/2010/04/jaarverslag-2010/) en [2011](http://incredibleadventure.nl/2011/04/incredible-state-of-the-business-2010-2011/) kijk ik terug en blik ik vooruit in deze post. Wat heeft het afgelopen jaar als zelfstandige me gebracht en gaan we er mee door?
+![](../images/uploadimages/113055330_c4b616bcda_m.jpg)Tradities moet je koesteren, dat zei ik vorig jaar al. Dus is het vandaag weer een mooie dag om mijn jaarverslag te schrijven. Het derde jaar als zelfstandige ondernemer. Evenals in [2010](/jaarverslag-2010/) en [2011](http://incredibleadventure.nl/2011/04/incredible-state-of-the-business-2010-2011/) kijk ik terug en blik ik vooruit in deze post. Wat heeft het afgelopen jaar als zelfstandige me gebracht en gaan we er mee door?
 
 <!-- more -->
 

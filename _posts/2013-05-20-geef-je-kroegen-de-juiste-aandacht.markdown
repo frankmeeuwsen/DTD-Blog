@@ -23,4 +23,4 @@ Elke blogpost die ik schrijf deel ik op diverse kanalen. Twitter, Facebook, Goog
 
 Misschien moet ik daar maar eens mee stoppen en moeite steken in de relaties in andere kroegen. Wie weet wat je er voor terug krijgt.
 
-(Bovenstaand beeld maakte ik met [Paper](http://incredibleadventure.nl/2013/05/met-paper-is-digitaal-tekenen-een-plezier/). Ik oefen door!)
+(Bovenstaand beeld maakte ik met [Paper](/met-paper-is-digitaal-tekenen-een-plezier/). Ik oefen door!)

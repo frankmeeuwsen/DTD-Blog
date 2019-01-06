@@ -13,7 +13,7 @@ tags:
 - retweet
 ---
 
-Vorige week zat ik [nog te klagen](http://incredibleadventure.nl/2011/11/ik-zoek-een-makkelijker-manier-om-iets-te-lezen/) dat ik een makkelijker manier zoek om artikelen te lezen. Dat wil natuurlijk niet zeggen dat ik niets lees. Ik kom elke dag wel wat interessante artikelen tegen die ik vaak deel via Twitter. Wat me steeds meer opvalt is dat die tweets veel worden geretweet of als favoriet worden opgeslagen door anderen. Leuk, dank je! Voor iedereen die mijn blog leest en niet op Twitter zit...bestaan die mensen eigenlijk? Meld je!...bij deze een overzicht van 10 links die in  de maand november zijn geretweet:
+Vorige week zat ik [nog te klagen](/ik-zoek-een-makkelijker-manier-om-iets-te-lezen/) dat ik een makkelijker manier zoek om artikelen te lezen. Dat wil natuurlijk niet zeggen dat ik niets lees. Ik kom elke dag wel wat interessante artikelen tegen die ik vaak deel via Twitter. Wat me steeds meer opvalt is dat die tweets veel worden geretweet of als favoriet worden opgeslagen door anderen. Leuk, dank je! Voor iedereen die mijn blog leest en niet op Twitter zit...bestaan die mensen eigenlijk? Meld je!...bij deze een overzicht van 10 links die in  de maand november zijn geretweet:
 
 [15 Years of technology progress](http://www.feld.com/wp/archives/2011/11/15-years-of-technology-progress.html) - Typisch gevalletje LOL!
 
