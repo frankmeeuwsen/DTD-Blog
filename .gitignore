@@ -9,6 +9,7 @@ package.json
 *.plist
 _posts/.Ulysses-favorites.plist
 _posts/.Ulysses-Group.plist
+_posts/notes-&-settings
 _mdwriter.cson
 rakefile
 scripts/checkupdate.rb
