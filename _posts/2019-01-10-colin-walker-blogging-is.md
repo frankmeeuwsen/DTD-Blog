@@ -8,6 +8,6 @@ tags: blogging indieweb
 slug: colin-walker-blogging-is
 category: links
 ---
-&gt; It turns out that blogging wasn&#39;t dead, merely hibernating, waiting for the &quot;social winter&quot; to turn to spring. The new shoots of regrowth of the open web are starting to emerge if we know where to look.
+> It turns out that blogging wasn't dead, merely hibernating, waiting for the "social winter" to turn to spring. The new shoots of regrowth of the open web are starting to emerge if we know where to look.
 
 [Blog on!](https://colinwalker.blog/14-02-2018-1000/)
