@@ -18,6 +18,7 @@ _posts/.markdownlint.json
 js/
 .jekyll-cache/
 _posts/.vscode
+.vscode
 
 # random files
 ORIGINALTIMECODE
