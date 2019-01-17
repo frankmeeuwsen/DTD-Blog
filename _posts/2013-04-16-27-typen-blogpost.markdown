@@ -46,16 +46,16 @@ De onderstaande lijst is verre van uitputtend en uitsluitend. Dat is tegelijk he
   9. **Je dag van uur tot uur** - Zorg dat je een spreadsheet of notitieblok bij de hand hebt en probeer je dag van uur tot uur te beschrijven. Soms saai maar wie weet [welke interessante inzichten](/zon-dag-als-vandaag/) er uit komen.
 
 	
-  10. ****Lijstjes** - De klassieker. [Lijstjes](/9-woothemes-plugins-webshop-ebook/) [werken](http://incredibleadventure.nl/2013/01/4-tips-om-je-blog-als-proefballon-te-gebruiken/) [altijd](http://incredibleadventure.nl/2013/01/6-boeken-over-streetart/) op een blog. Het bewijs bekijk je nu ;-)**
+  10. ****Lijstjes** - De klassieker. [Lijstjes](/9-woothemes-plugins-webshop-ebook/) [werken](/4-tips-om-je-blog-als-proefballon-te-gebruiken/) [altijd](/6-boeken-over-streetart/) op een blog. Het bewijs bekijk je nu ;-)**
 
 	
   11. **Research** - Een stappenplan hoe jij je research doet. Hoe onderzoek je je onderwerpen, welke zoekmachines gebruik je of hoe doe je je marktonderzoek
 
 	
-  12. **Linkpost** - Mijn [Incredible Leesmap](http://incredibleadventure.nl/series/weekendleesvoer/) geeft je elk weekend wat leesvoer aan de hand van artikelen die ik zelf die week tegenkwam. Een linkpost kan de lezer meenemen in een nieuw onderwerp of verdiepen in een bestaand onderwerp. Hou het simpel, gebruik bullets en maak het niet té gek met het aantal links per post.
+  12. **Linkpost** - Mijn [Incredible Leesmap](/weekendleesvoer/) geeft je elk weekend wat leesvoer aan de hand van artikelen die ik zelf die week tegenkwam. Een linkpost kan de lezer meenemen in een nieuw onderwerp of verdiepen in een bestaand onderwerp. Hou het simpel, gebruik bullets en maak het niet té gek met het aantal links per post.
 
 	
-  13. **Gastbloggers over hun expertise** - Vorige week nodigde ik [een vijftal gastbloggers](/de-kracht-van-gastoptredens-op-je-platform/) uit zoals ik eerder al mijn [Incredible](http://incredibleadventure.nl/2013/02/incredible-gasten-hoe-kom-je-tot-een-menselijke-stem-in-je-blog/) [Gasten](http://incredibleadventure.nl/2013/02/incredible-gasten-snob-2000-toevallig-tegen-iets-moois-aanlopen/) had. Gastbloggers geven een extra perspectief op je eigen onderwerpen.
+  13. **Gastbloggers over hun expertise** - Vorige week nodigde ik [een vijftal gastbloggers](/de-kracht-van-gastoptredens-op-je-platform/) uit zoals ik eerder al mijn [Incredible](/incredible-gasten-hoe-kom-je-tot-een-menselijke-stem-in-je-blog/) [Gasten](/incredible-gasten-snob-2000-toevallig-tegen-iets-moois-aanlopen/) had. Gastbloggers geven een extra perspectief op je eigen onderwerpen.
 
 	
   14. **Nieuws** - Proberen het [nieuws](/van-alles-is-een-verhaal-te-maken-zelfs-een-wasserette/) bij te houden op een blog is mogelijk maar afhankelijk van je niche en onderwerpkeuze lastig om alleen vol te houden. Nieuws gaat snel en heeft een korte levensduur. Maar een verzameling nieuws over een periode van tijd kan je wel weer nieuwe onderwerpen geven.
@@ -91,13 +91,13 @@ De onderstaande lijst is verre van uitputtend en uitsluitend. Dat is tegelijk he
   24. **Screencasts** - Zoals de review of het stappenplan, maar dan [met video](/hoe-ik-mijn-wekelijkse-leesmap-maak/). Laat een specifieke functionaliteit zien in een softwarepakket, ga voor een whiteboard staan en leg moeilijke materie uit. Het vergt voorbereiding, maar kan een tijdloze post opleveren.
 
 	
-  25. **Best of posts** - December en elk kwartaal zijn prima momenten om de Best Of’s van de voorgaande periode te delen. Of kies [de beste posts](http://incredibleadventure.nl/tag/vijf/) in een deelonderwerp op je blog. Prima vorm voor de vakantieperiode als je zelf aan het strand ligt.
+  25. **Best of posts** - December en elk kwartaal zijn prima momenten om de Best Of’s van de voorgaande periode te delen. Of kies [de beste posts](/de-vijf-van-januari/) in een deelonderwerp op je blog. Prima vorm voor de vakantieperiode als je zelf aan het strand ligt.
 
 	
   26. **Give aways** - Als je de connecties hebt om iets weg te geven bij je publiek, doe het. Maak er een wedstrijd van, krijg inzendingen via email of een ander kanaal en kies je winnaar. Zo hebben we op Lifehacking geregeld [de Weggeef Woensdag](http://lifehacking.nl/tag/weggeef-woensdag/).
 
 	
-  27. **Vraag het de experts** - Kies degene uit je werkveld met de meeste kennis en [geef hem of haar het podium](/twee-sociale-aspecten-van-online-delen/). Laat je lezers vragen insturen en beantwoord ze op je blog. Of in een live Google+ hangout of Skypesessie. Of [leer van rockdocumentaires](http://incredibleadventure.nl/2013/02/wat-kunnen-social-media-experts-leren-van-rockmuzikanten/).
+  27. **Vraag het de experts** - Kies degene uit je werkveld met de meeste kennis en [geef hem of haar het podium](/twee-sociale-aspecten-van-online-delen/). Laat je lezers vragen insturen en beantwoord ze op je blog. Of in een live Google+ hangout of Skypesessie. Of [leer van rockdocumentaires](/wat-kunnen-social-media-experts-leren-van-rockmuzikanten/).
 
 
 Je kunt nog genoeg vormen en mogelijkheden aan deze lijst toevoegen. Wees welkom in de reacties! Wat is jouw favoriet, waar heb je ervaring mee of welke extra tip kun je nog geven? Laat maar horen!
