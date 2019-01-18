@@ -24,6 +24,7 @@ Op deze site kun je veel artikelen vinden rondom nieuwe digitale technologie, mi
 * [Het internet is niet stuk, hooguit even in de war.](/internet-stuk-michael-minneboo/)
 * [Hou eigenaarschap van je domein](/hou-eigenaarschap-van-je-domein/)
 * [72 regels code als oplossing](/dogfood-2/)
+* [Drie voordelen van een persoonlijk platform](/drie-voordelen-van-een-persoonlijk-platform/)
 
 ## Facebook 
 
