@@ -8,7 +8,7 @@ header:
 categories: 
 tags: 
 ---
-Een korte update na een dagje werken met allerlei commando's, Stack Overflow lezen en Digital Ocean handleidingen volgen:
+Ik ben bezig om deze site naar een nieuwe server [te verhuizen](/verhuizing-in-de-planning/). Een korte update na een dagje werken met allerlei commando's, Stack Overflow lezen en Digital Ocean handleidingen volgen:
 
 * Ik heb in elk geval een subdomein van dit domein naar een server bij [Digital Ocean](https://m.do.co/c/c3654dd40a00) weten te wijzen.
 * Op die server is [Ruby](https://www.ruby-lang.org/en/) al voorgeïnstalleerd, zodat de blogsoftware [Jekyll](http://jekyllrb.com/) zijn werk kan doen.
