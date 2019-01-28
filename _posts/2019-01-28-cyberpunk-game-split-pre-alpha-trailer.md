@@ -10,4 +10,6 @@ category: links
 ---
 Ik ben geen enorme games-fanaat. Maar als ik de trailer zie van _Split_, een First Person Puzzle platformer, dan word ik wel enthousiast van het hoge cyberpunk gehalte. 
 
-&lt;iframe width=&quot;806&quot; height=&quot;453&quot; src=&quot;https://www.youtube.com/embed/1U39Kxo7mxA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="806" height="453" src="https://www.youtube.com/embed/1U39Kxo7mxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Via [Neon Dystopia](https://www.neondystopia.com/)
