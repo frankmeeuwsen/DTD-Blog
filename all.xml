@@ -20,8 +20,14 @@ layout: null
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <category>{{ post.category }}</category>
+        <dtd:tags>
+        {% for tag in post.tags %}
+          <dtd:tag>{{tag}}</dtd:tag>
+        {% endfor %}
+        </dtd:tags>
       </item>
-    {% else %}
+      {% else %}
       <item>
         <title>
         {% if post.mf-bookmark-of %}
@@ -32,14 +38,20 @@ layout: null
         </title>
         <description>
         {% if post.mf-summary %}
-        {{ post.mf-summary }}
-      {% else %}
+          {{ post.mf-summary }}
+        {% else %}
           {{ post.content | xml_escape }}
-      {% endif %}
+        {% endif %}
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <category>{{ post.category }}</category>
+        <dtd:tags>
+        {% for tag in post.tags %}
+          <dtd:tag>{{tag}}</dtd:tag>
+        {% endfor %}
+        </dtd:tags>
       </item>
 
     {% endif %}
