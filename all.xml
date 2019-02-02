@@ -41,10 +41,10 @@ layout: null
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       {% endif %}
         {% if post.header %}
-        <image url="{{site.url}}/images/{{ post.header }}"/>
+        <image url="{{ post.header }}"/>
         {% endif %}
         <category>{{ post.category }}</category>
-        <dtd:tags>"{% assign tags = post.tags %}{{ tags | join: ', ' }}"</dtd:tags>
+        <tags>{% assign tags = post.tags %}{{ tags | join: ', ' }}</tags>
       </item>
     {% endunless %}
     {% endfor %}
