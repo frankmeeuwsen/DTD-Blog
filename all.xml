@@ -44,7 +44,7 @@ layout: null
         <image url="{{site.url}}/images/{{ post.header }}"/>
         {% endif %}
         <category>{{ post.category }}</category>
-        <dtd:tags tag="{% assign tags = post.tags %}{{ tags | join: ", " }}"/>
+        <dtd:tags tag="{% assign tags = post.tags %}{{ tags | join: ', ' }}"/>
       </item>
     {% endunless %}
     {% endfor %}
