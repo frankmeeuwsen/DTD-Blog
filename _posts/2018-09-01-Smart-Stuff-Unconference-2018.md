@@ -4,7 +4,7 @@ title: De unconference blijft het beste format
 date: 2018-09-01 09:40:20 +2h
 excerpt: Na mijn bezoek aan de Smart Stuff That Matters unconference heb ik de smaak weer te pakken.
 published: true
-categories: indieweb
+category: indieweb
 tags: presentatie unconference indieweb open-web
 ---
 Al fietsend door Stadspark Schothorst in Amersfoort ben ik blij dat ik die 40 exemplaren van [Bloghelden](/Bloghelden-te-koop/) thuis heb gelaten. [Ton] [1] vond het prima als ik ze mee zou nemen naar de [unconference] [2] om weg te geven, maar die ochtend bij het inpakken besefte ik dat ik met de trein zou gaan én dat 40 boeken in een tas best een flink gewicht is.

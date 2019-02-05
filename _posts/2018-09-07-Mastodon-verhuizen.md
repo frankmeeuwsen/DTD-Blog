@@ -5,7 +5,7 @@ date: 2018-09-07 21:12:52 +2h
 excerpt: De 10-stappen-service voor je Mastodon account. Alle stappen en ideeën op een rij.
 published: true
 header: header-mastodon-move-instance.jpg
-categories: indieweb
+category: indieweb
 tags: mastodon
 ---
 Een bijzonder maar gelijktijdig lastig te bevatten concept van [Mastodon](/Mastodon/) is dat het niet uit één centraal netwerk bestaat. Dit in tegenstelling tot de grote en bekende netwerken. Als je een Twitter-account hebt, dan kun je hiermee met andere mensen op Twitter communiceren. Met een Twitter-account kun je niet iets op Facebook plaatsen. Je kunt op je LinkedIn account de tweets niet lezen. Al deze netwerken zijn gesloten van elkaar en wisselen in de basis geen berichten met elkaar. Bij Mastodon is dat anders. Je kunt een plek kiezen ergens in het Mastodon-universum, de Fediverse. Een plek die je prettig vindt of waar je je thuis voelt vanwege de gelijkgestemden die er zijn. 

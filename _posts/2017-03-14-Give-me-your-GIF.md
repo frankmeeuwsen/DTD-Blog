@@ -3,7 +3,7 @@ layout: post
 title: Give me your GIF!
 excerpt: Zie hoe de GIF zich losrukt van het digitale domein!
 date: 2014-02-13 20:29
-categories: 
+category: 
     - random
     - links
 tags: webtech

@@ -5,7 +5,7 @@ date: 2018-11-11 19:42:20 +1h
 excerpt:
 published: true
 header:
-categories: webtech
+category: webtech
 tags: github blogging weblog
 ---
 Dit blog is mede ontstaan omdat ik beter wilde begrijpen hoe het versiebeheersysteem Git en de bekende dienst [Github](https://github.com/frankmeeuwsen/DTD-Blog) werken. Door de jaren heen en na veel proberen en testen begin ik inmiddels wel te begrijpen wat de belangrijkste manieren zijn om met git te werken. Afgelopen week belandde ik in een situatie waar ik niet dacht dat het versiebeheer me zou kunnen helpen. Toch is dat gebeurd en het is de moeite waard om hier de uitleg te geven. Hopelijk kunnen anderen er zo in de toekomst weer profijt van hebben.

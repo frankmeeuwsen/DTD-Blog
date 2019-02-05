@@ -5,7 +5,7 @@ date: 2018-11-25 15:28:56 +1h
 excerpt: Zet een zesjarige bij Google Home en de kansen dienen zich aan...
 published: true
 header:
-categories: webtech
+category: webtech
 tags: 
 - google home
 - webtech

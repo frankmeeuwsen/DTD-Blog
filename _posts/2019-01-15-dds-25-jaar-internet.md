@@ -5,7 +5,7 @@ date: 2019-01-15 10:07:29 +1h
 excerpt: Vandaag is het 25 jaar geleden dat De Digitale Stad startte in Amsterdam. Hoe staan we er nu voor?
 published: true
 header: dds25.jpg
-categories: indieweb
+category: indieweb
 tags: 
 - dds
 - internet historie

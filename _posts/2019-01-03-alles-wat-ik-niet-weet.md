@@ -5,7 +5,7 @@ date: 2019-01-03 21:54:47 +1h
 excerpt:
 published: true
 header:
-categories: random
+category: random
 tags: 
 - persoonlijk
 ---

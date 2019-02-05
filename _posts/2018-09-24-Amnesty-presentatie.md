@@ -5,7 +5,7 @@ date: 2018-09-24 9:09:49 +2h
 excerpt:
 published: true
 header: thecycle.jpg
-categories: indieweb
+category: indieweb
 tags: 
     - open-web 
     - presentatie 

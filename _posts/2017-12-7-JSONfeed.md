@@ -4,7 +4,7 @@ title: Een extra abonnee mogelijkheid op deze site
 excerpt: Je kunt artikelen hier op de site lezen. Of in je eigen leesmap-software. Met RSS of JSON. 
 published: true
 header: jsonfeed.jpg
-categories: 
+category: 
     - webtech
 ---
 ## RSS, kent u die term nog?

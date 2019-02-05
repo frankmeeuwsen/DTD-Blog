@@ -4,7 +4,7 @@ title: Biometrische boodschappenkarretjes
 date: 2018-10-08 22:12:35 +2h
 excerpt: Een patent voor biometrische handvatten op je boodschappenwagen. Wat kán er mis gaan...
 published: true
-categories: webtech
+category: webtech
 tags: privacy
 ---
 Supermarktketen Walmart heeft een nieuw patent ingediend. Ze willen met biometrische handvatten aan winkelwagens hun klanten in de gaten houden. Aan de hand van de hartslag, temperatuur en stess-niveau. 

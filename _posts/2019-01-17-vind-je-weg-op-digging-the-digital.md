@@ -5,7 +5,7 @@ date: 2019-01-17 16:45:53 +1h
 excerpt: Een handige startgids, speciaal voor jullie
 published: true
 header:
-categories: random
+category: random
 tags: 
 - blogging
 - website

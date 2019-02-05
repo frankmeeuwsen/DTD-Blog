@@ -6,7 +6,7 @@ excerpt: RSS herinnert ons er aan dat het internet juist een plek is waar je een
 published: true
 header: leesmap.png
 syndication: indienews
-categories: 
+category: 
     - webtech
 tags: bloggen rss
 ---

@@ -6,7 +6,7 @@ excerpt: Hoe ik een eigen Mastodon-instance nam en zo nog steeds actief ben op d
 published: true
 header: mestodon.jpg
 syndication: indienews
-categories: indieweb
+category: indieweb
 tags: mastodon
 ---
 Sinds vandaag ben ik verhuisd met een van mijn social netwerk-accounts naar een account wat ik nog meer [in eigen beheer heb](https://me.frankmeeuwsen.xyz/@frank). Vanaf de vroege start van Mastodon heb ik een account op het Mastodon.social-account, het vlaggeschip van het  decentrale netwerk. 

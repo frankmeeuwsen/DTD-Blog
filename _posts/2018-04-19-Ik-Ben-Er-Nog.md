@@ -4,7 +4,7 @@ title: De obligate Ik Ben Er Nog blogpost
 date: 2018-04-19T211312CEST
 excerpt:
 published: true
-categories: 
+category: 
     - random
 tags: bloggen
 ---

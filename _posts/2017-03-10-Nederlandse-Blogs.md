@@ -3,7 +3,7 @@ layout: post
 title: Waar is de Nederlandse blogosfeer?
 excerpt: Een eerste vraag en verkenning. Ik weet het antwoord nog niet. Voor het geval je dat zou verwachten als je doorklikt.
 comments: true
-categories: 
+category: 
     - bloggen
 tags: bloggen
 

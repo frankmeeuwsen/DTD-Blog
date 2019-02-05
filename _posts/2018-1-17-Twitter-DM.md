@@ -4,7 +4,7 @@ title: Een DM app voor Twitter. Handig!
 excerpt: Geen Twitter op je telefoon, toch bereikbaar.
 published: true
 header: twim.jpg
-categories: 
+category: 
     - indieweb
 tags: twitter social-media
 ---

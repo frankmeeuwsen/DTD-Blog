@@ -5,7 +5,7 @@ date: 2018-12-16 10:13:17 +1h
 excerpt: Maak in 2019 je eigen site je thuishaven waar je volledige controle hebt over alle elementen.
 published: true
 header:
-categories: indieweb 
+category: indieweb 
 tags: 
 - blog
 - bloghelden

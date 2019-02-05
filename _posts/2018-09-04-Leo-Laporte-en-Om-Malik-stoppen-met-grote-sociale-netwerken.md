@@ -4,7 +4,7 @@ title: Leo en Om stoppen met Facebook en Twitter
 date: 2018-09-04 23:05:14 +2h
 excerpt: Ik vind het opvallend dat twee best grote namen afstand nemen van grote netwerken.
 published: true
-categories: bloggen
+category: bloggen
 tags:
 - facebook
 - twitter

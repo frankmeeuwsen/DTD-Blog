@@ -4,7 +4,7 @@ title: De eerste (Mol-loze!) leesmap van 2018
 excerpt: Maar Stine is de Mol!!
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: leesmap bloggen
 ---

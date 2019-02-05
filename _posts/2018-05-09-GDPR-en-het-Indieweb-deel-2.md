@@ -4,7 +4,7 @@ title: GDPR en het Indieweb (deel 2)
 date: 2018-05-09T214044CEST
 excerpt:
 published: true
-categories: indieweb
+category: indieweb
 tags: gdpr indieweb
 ---
 

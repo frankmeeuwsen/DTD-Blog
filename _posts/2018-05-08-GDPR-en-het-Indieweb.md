@@ -6,7 +6,7 @@ excerpt: Als je je eigen weblog bijhoudt, wat moet je dan met de GDPR? En hoe zi
 published: true
 header: header-gdpr.jpeg
 syndication: indienews
-categories: indieweb
+category: indieweb
 tags: gdpr indieweb webmentions
 ---
 

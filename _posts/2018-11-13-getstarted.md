@@ -5,7 +5,7 @@ date: 2018-11-13 21:19:20 +1h
 excerpt:
 published: true
 header:
-categories: indieweb
+category: indieweb
 tags: indieweb
 ---
 [Dit](http://hag.codes/social/2018/11/05/indieweb-comic.html) is inderdaad een bekend fenomeen als je over het Indieweb begint en gaat praten en lezen....

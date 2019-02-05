@@ -4,7 +4,7 @@ title: Hoe ik ineens 5 nieuwe mensen leerde kennen
 excerpt: Sommige toevallige ontmoetingen zijn op een fraaie manier in gang gezet...
 published: true
 header: uurvanpuur.jpg
-categories: 
+category: 
     - bloggen seth cor elja friedman 
 ---
 

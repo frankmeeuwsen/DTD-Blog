@@ -5,7 +5,7 @@ date: 2018-11-04 20:58:20 +1h
 excerpt: Indiewebcamp heb ik maar deels gevolgd, toch heb ik wel wat voor elkaar gekregen op mijn eigen site.
 published: true
 header: indiewebcampberlin.jpg
-categories: indieweb
+category: indieweb
 tags: indiewebcamp indieweb
 ---
 Dit weekend vond in Berlijn een [nieuwe Indiewebcamp](https://indieweb.org/2018/Berlin) plaats. Een paar weken na [de editie in Nuremberg](/tag/indiewebcamp), is er wederom een weekend vol workshops, discussies en werken aan je online aanwezigheid. Ik had het plan om virtueel aanwezig te zijn en mogelijk zelf nog wat te doen en presenteren maar het liep allemaal anders. Niets dramatisch, gewoon een leven met een gezin en verantwoordelijkheden dat voorrang krijgt boven een virtuele hacksessie.

@@ -4,7 +4,7 @@ title: Minder Instagram op de voorpagina.
 date: 2018-05-27 11:41:11 +2h
 excerpt: Of in elk geval _anders_
 published: true
-categories: 
+category: 
     - indieweb
 tags: instagram
 ---

@@ -6,7 +6,7 @@ mf-bookmark-of:
   - >-
     https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/
 slug: mastodon-and-the-challenges-of
-categories: 
+category: 
   - links 
   - indieweb
 tags: mastodon

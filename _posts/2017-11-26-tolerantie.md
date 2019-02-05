@@ -4,7 +4,7 @@ title: De traditie van tolerantie
 excerpt: Welke traditie zie je liever veranderen?
 published: true
 header: tolerantie.jpg
-categories: 
+category: 
     - random
 ---
 Arjen Lubach weet naar mijn mening de juiste argumenten te brengen in heikele discussies. Ik hoef denk ik niet uit te leggen _welke_ heikele discussie de afgelopen week speelt en in elk geval nog tot en met 5 december actueel zal zijn.

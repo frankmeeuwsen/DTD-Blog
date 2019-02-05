@@ -4,7 +4,7 @@ title: Blogdrift
 excerpt: Wat is Blogdrift en hoe kom je er aan? Of weer vanaf?
 published: true
 header: blogdrift.jpg
-categories: 
+category: 
     - bloggen
 tags: helden bloggen
 ---

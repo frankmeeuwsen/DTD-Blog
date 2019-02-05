@@ -6,7 +6,7 @@ excerpt: Vertoont de hegemonie van grote sociale silo's de eerste scheurtjes?
 published: true
 header:
 syndication: indienews
-categories: 
+category: 
     - webtech
 tags: facebook twitter social-media
 ---

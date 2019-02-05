@@ -4,7 +4,7 @@ title: Hoe werkt het volgen in de GNU Social universe?
 excerpt: Van Mastodon tot Sealions.club. Eenmaal in de federatie kun je allerlei mensen volgen. Ongeacht waar je start
 published: true
 tags: mastodon open-web
-categories: 
+category: 
     - indieweb
 ---
 

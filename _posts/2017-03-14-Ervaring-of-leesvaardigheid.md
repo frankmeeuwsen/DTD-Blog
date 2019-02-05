@@ -3,7 +3,7 @@ layout: post
 title: Ervaring of leesvaardigheid?
 excerpt: Het is opvallend hoe gebeurtenissen aan elkaar linken als je ze deelt met een netwerk van gelijkgestemden.
 date: 2014-02-13 21:42
-categories: 
+category: 
     - random
 ---
 Het is opvallend hoe gebeurtenissen aan elkaar linken als je ze deelt met een netwerk van gelijkgestemden. Het is opvallend hoe dat netwerk je attent maakt op de verbindingen. Een voorbeeld.

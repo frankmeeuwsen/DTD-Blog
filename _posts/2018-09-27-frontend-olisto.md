@@ -4,7 +4,7 @@ title: Mijn dagen als frontend developer...
 date: 2018-09-27 10:24:10 +2h
 excerpt: Ik Stack Overflow en Startpage me een slag in de rondte
 published: true
-categories: webtech
+category: webtech
 tags: github wordpress code
 ---
 De afgelopen weken ben ik behoorlijk _deep down_ in een project bij Olisto. Omdat we geen eigen team hebben voor de website én omdat we een redelijk _bootstrapped_ bedrijf zijn (dus er is weinig tot geen budget) heb ik een tijdelijke nieuwe taak. Onze site heeft een flinke opfrisbeurt nodig omdat we onze diensten wat gaan verleggen. Daarbij was het nodig om de achterkant van de site (WordPress) eens goed op te schonen na alle lapmiddelen van de afgelopen twee jaar. 

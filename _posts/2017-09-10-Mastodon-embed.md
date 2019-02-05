@@ -4,7 +4,7 @@ title: Mastodon leeft toch nog?
 excerpt: Het lijkt dat Mastodon nog steeds tekenen van leven geeft
 published: true
 header: mastodon.png
-categories: 
+category: 
     - indieweb
 tags: mastodon
 ---

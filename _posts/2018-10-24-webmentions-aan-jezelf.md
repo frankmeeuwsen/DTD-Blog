@@ -5,7 +5,7 @@ date: 2018-10-24 8:38:20 +2h
 excerpt: Een verhaal over open source, de losse kralen van het internet en eigen technisch inzicht.
 published: true
 header:
-categories: webtech
+category: webtech
 tags: webmentions indieweb 
 ---
 Oh de hoepels waar je door springt als je je eigen oplossingen aan elkaar wilt rijgen als een kralenketting. Sinds dit weekend kan ik eindelijk webmentions versturen vanaf mijn site. Nu bestaan webmentions uit twee onderdelen: Versturen en ontvangen. 

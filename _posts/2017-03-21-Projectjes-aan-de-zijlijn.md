@@ -2,7 +2,7 @@
 layout: post
 title: Projectjes aan de zijlijn
 excerpt: Je moet naast je werk altijd nog een hobby hebben. Die van mij is Digitale Overdaad.
-categories: 
+category: 
     - random
 ---
 

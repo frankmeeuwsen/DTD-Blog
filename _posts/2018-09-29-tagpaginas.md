@@ -4,7 +4,7 @@ title: Blogposts zijn nu meer verbonden.
 date: 2018-09-29 23:13:07 +2h
 excerpt: Ik heb eindelijk tags aangezet op mijn site
 published: true
-categories: bloggen
+category: bloggen
 tags: bloggen webtech open-web
 ---
 Als je goed kijkt op elke blogpagina, zie je iets nieuws. Nou ja, zo nieuw is het niet, de technologie bestaat al jaren. Maar ik was er nog niet aan toe gekomen om het goed op deze blog te implementeren. Tot vandaag. 

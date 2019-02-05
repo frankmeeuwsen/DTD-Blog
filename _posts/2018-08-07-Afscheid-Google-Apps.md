@@ -6,7 +6,7 @@ excerpt: Nadat ik in 2017 al mijn email verwijderde bij Google apps, ben ik nu a
 published: true
 tags: Google Digital ownership Gids
 header: wavegoodbye.jpg
-categories: webtech
+category: webtech
 tags: google social-media cheatsheet
 ---
 Een aantal jaar geleden besloot ik als freelancer al mijn activiteiten onder een eigen domein te doen. Dat was destijds *The Incredible Adventure starts here...*, een naam die me nog steeds lief is, maar inmiddels geen officiële eenmanszaak meer is. Ik heb het domein toen ondergebracht bij Google Apps. De suite van Google tools was gratis voor kleine ondernemers en het was enorm handig om mail, kalender, documenten en veel meer bij elkaar te hebben op mijn eigen domein.

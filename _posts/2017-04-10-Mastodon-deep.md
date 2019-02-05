@@ -4,7 +4,7 @@ title: Mastodon communities
 excerpt:
 published: false
 tags: mastodon internet
-categories: 
+category: 
     - indieweb
 ---
 

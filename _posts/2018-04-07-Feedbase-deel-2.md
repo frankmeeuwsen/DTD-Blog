@@ -4,7 +4,7 @@ title: Feedbase opnieuw bekeken
 date: 2018-04-07T220719CEST
 excerpt: Abonneer je op interessante sites 
 published: true
-categories: 
+category: 
     - bloggen
 tags: open-web bloggen cheatsheet rss
 ---

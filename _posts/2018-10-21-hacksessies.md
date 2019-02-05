@@ -5,7 +5,7 @@ date: 2018-10-21 7:22:41 +2h
 excerpt:
 published: true
 header:
-categories: indieweb
+category: indieweb
 tags: indiewebcamp indieweb webtech
 ---
 

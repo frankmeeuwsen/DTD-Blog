@@ -6,7 +6,7 @@ date: 2014-11-09 19:05
 tags: 
     - internet
     - youtube
-categories: 
+category: 
     - random
 
 ---

@@ -5,7 +5,7 @@ excerpt: Het zoeken van de juiste instantie is niet heel makkelijk. En de softwa
 published: true
 header: header-federation.jpg
 tags: mastodon
-categories: 
+category: 
     - indieweb
 ---
 Yep. Deel 3 in mijn Mastodon avonturen. Zoals ik in [deel 1](/Mastodon) al schreef, ik heb meerdere invalshoeken en ideetjes waar ik het hier over wil hebben. Vandaag wat gedachtenkronkels over het design van Mastodon. Niet over de al veelbesproken driekolom structuur die van Tweetdeck is geleend. Maar juist wat je ziet als je nog *niet* bent ingelogd in Mastodon. 

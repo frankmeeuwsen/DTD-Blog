@@ -4,7 +4,7 @@ title: PhantomJS. Browsen zonder browser
 date: 2018-05-06T113242CEST
 excerpt:
 published: true
-categories: 
+category: 
     - webtech
 ---
 

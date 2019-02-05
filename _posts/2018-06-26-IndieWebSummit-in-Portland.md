@@ -5,7 +5,7 @@ date: 2018-06-26 08:54:56 +2h
 excerpt: Vandaag start de IndieWeb Summit in Portland
 published: true
 syndication: indienews
-categories: indieweb
+category: indieweb
 ---
 
 Een  maand geleden liep ik op het Westergas terrein rond in Amsterdam tijdens [The Next Web conference](/The-Next-Web/). Een festival waar de toekomst van het internet wordt gevierd en verteld. Eén onderwerp was sterk afwezig en dat was het Indieweb. Sinds een jaar volg ik met enige regelmaat wat er op dat gebied gebeurd. Hoe webdevelopers, schrijvers en artiesten hun eigen plek claimen op het internet, meer en meer vrij van de sociale silo's en gebaseerd op een Do It Yourself, [Punkrock Publishing](/Punkrock-Publishing/) mentaliteit.

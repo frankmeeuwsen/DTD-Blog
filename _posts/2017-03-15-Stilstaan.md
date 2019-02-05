@@ -2,7 +2,7 @@
 layout: post
 title: Stilstaan? No way
 excerpt: Alsof ik de laatste dagen hier niks heb gedaan...
-categories: 
+category: 
     - random
 tags: github
 ---

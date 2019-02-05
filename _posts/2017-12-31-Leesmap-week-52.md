@@ -5,7 +5,7 @@ excerpt: Knal het jaar uit met deze Indieweb-leestips!
 published: true
 header: leesmap.png
 syndication: indienews
-categories: 
+category: 
     - random
 tags: leesmap code indieweb bloggen internethistorie
 ---

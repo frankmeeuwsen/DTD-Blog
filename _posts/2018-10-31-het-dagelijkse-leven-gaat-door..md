@@ -5,7 +5,7 @@ date: 2018-10-31 21:24:29 +1h
 excerpt:
 published: true
 header:
-categories: random
+category: random
 tags: random internet
 ---
 

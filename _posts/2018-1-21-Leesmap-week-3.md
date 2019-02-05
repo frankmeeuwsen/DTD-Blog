@@ -4,7 +4,7 @@ title: Een leesmap over openheid, meningsuiting en Ice Cube.
 excerpt: Week 3 alweer. Tijd voor een nieuwe leesmap!
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: leesmap privacy internethistorie indieweb muziek
 ---

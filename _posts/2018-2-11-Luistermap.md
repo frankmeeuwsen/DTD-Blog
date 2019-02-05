@@ -4,7 +4,7 @@ title: De 5 podcasts die je moet luisteren
 date: 2018-02-11T130728CET
 excerpt: Deze week eens geen leesmap, maar een luistermap
 published: true
-categories: 
+category: 
     - random
 tags: leesmap podcast
 ---

@@ -5,7 +5,7 @@ date: 2019-01-23 14:48:30 +1h
 excerpt: Hoe zorg ik voor de beste oplossing voor mijn wensen met deze site en het beheer er van?
 published: true
 header:
-categories: indieweb
+category: indieweb
 tags: 
 - indieweb
 - code

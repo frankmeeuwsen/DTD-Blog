@@ -5,7 +5,7 @@ date: 2018-03-09T102328CET
 excerpt:
 published: true
 header:
-categories: 
+category: 
     - random
 ---
 

@@ -4,7 +4,7 @@ title: Columns op Numrush
 excerpt: Ik schrijf periodiek op Numrush. Hier vind je het overzicht
 published: true
 header: numrush.jpg
-categories: 
+category: 
     - bloggen
 ---
 

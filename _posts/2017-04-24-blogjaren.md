@@ -5,7 +5,7 @@ excerpt: Ik vroeg me af hoe lang ik eigenlijk al blog en waar ik dat allemaal de
 published: true
 header: punkey.png
 tags: bloggen internet internethistorie
-categories: 
+category: 
     - bloggen
 ---
 

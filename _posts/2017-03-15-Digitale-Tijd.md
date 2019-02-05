@@ -3,7 +3,7 @@ layout: post
 title: Digitale Tijd
 excerpt: Hoe sla je persoonlijke herinneringen digitaal op?
 date: 2014-09-11 21:00
-categories: 
+category: 
     - random
 tags: internet
 ---

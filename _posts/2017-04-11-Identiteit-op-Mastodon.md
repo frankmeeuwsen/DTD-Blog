@@ -5,7 +5,7 @@ excerpt: Er is best wat discussie op Mastodon hoe je met identiteit omgaat. Maar
 published: true
 header: header_locationtriggs.png
 tags: mastodon
-categories: 
+category: 
     - indieweb
 ---
 Het grote verschil tussen Mastodon en bijvoorbeeld Twitter is het gebruik van de *instances*. Dit zijn losstaande servers waar een kopie van de Mastodon software op draait. Elke server heeft zijn eigen installatie en elke beheerder van deze installatie kan zelf de regels bepalen voor zijn Mastodon-instantie.

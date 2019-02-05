@@ -6,7 +6,7 @@ excerpt: Waarbij ik wellicht weer te veel organisatie op de hals haal...
 published: true
 header:
 syndication: indienews
-categories: indieweb
+category: indieweb
 ---
 Elk zichzelf respecterend webformat, gedachtengoed, technologische ontwikkeling of denkrichting heeft een camp, conf, con of summit. Bij het IndieWeb is het niet veel anders. Op 26 en 27 juni vind in Portland de [IndieWeb Summit 2018](https://2018.indieweb.org/) plaats. Twee dagen waar voornamelijk onafhankelijke online _makers_, vormgevers, artiesten, coders en hackers samenkomen om het web beter te maken, ideeën uit te wisselen en elkaars voortgang online te delen. 
 

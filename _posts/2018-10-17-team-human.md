@@ -5,7 +5,7 @@ date: 2018-10-17 21:00:00 +2h
 excerpt:
 published: true
 header: header-teamhuman.png
-categories: webtech
+category: webtech
 tags: podcast activisme
 ---
 Een beter "I am not a robot" captcha bewijs kun je je niet wensen dan wat ik gisteren in de analoge brievenbus ontving.

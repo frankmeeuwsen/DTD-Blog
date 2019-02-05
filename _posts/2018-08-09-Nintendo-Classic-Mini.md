@@ -6,7 +6,7 @@ excerpt:
 published: true
 header: ncmheader.jpg
 syndication: indienews
-categories: random
+category: random
 tags: nintendo
 ---
 De komende dagen logeren we bij vrienden in Haarlem. Terwijl zij op vakantie zijn passen wij op het huis, kunnen we de stad verkennen en [andere vrienden](https://okgo.nl) bezoeken. In het huis zijn we van alle gemakken voorzien, niet in de minste plaats omdat de heer des huizes al jaren actief is in de tech-journalistiek. Met als gevolg dat er meerdere gameconsoles aanwezig zijn voor ons. Vooral voor onze jongste zoon is dat een heerlijk tijdverdrijf. 

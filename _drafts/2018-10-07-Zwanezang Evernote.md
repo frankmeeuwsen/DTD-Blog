@@ -5,7 +5,7 @@ date: 2018-10-07 9:58:46 +2h
 excerpt:
 published: false
 header:
-categories: webtech
+category: webtech
 tags: evernote software
 ---
 Sinds 2008 is Evernote een de facto app in mijn arsenaal. Bij elke nieuwe telefoon, elke nieuwe laptop, is deze notitie-app één van de eerste die ik installeer. In de periode 2010 - 2015 ben ik tevens actief geweest als Evernote ambassadeur en Evernote Business Consultant. Ik gaf workshops, hielp bedrijven te starten met Evernote Business, ik had [een blog over de software](https://allesonthouden.nl) en schreef er zelfs een (nu gratis) [ebook](https://github.com/frankmeeuwsen/Lifehacking-met-Evernote) over. 

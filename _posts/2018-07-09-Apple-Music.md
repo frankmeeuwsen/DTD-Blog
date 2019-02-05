@@ -5,7 +5,7 @@ date: 2018-07-09 09:47:55 +2h
 excerpt: 
 published: true
 header: echochamber.jpg
-categories: random
+category: random
 ---
 Nieuws: ['Apple Music is Spotify in de VS al voorbij'](https://www.bright.nl/nieuws/artikel/4275231/apple-music-spotify-gebruikers-muziekdiensten)
 

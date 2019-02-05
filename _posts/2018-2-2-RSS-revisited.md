@@ -6,7 +6,7 @@ excerpt:
 published: true
 header: feedreader.jpg
 syndication: indienews
-categories: 
+category: 
     - webtech
 tags: rss indieweb
 ---

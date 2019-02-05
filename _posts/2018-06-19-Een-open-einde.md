@@ -5,7 +5,7 @@ date: 2018-06-20 09:09:05 +2h
 excerpt: Niet elke blogpost hoeft een afgerond geheel te zijn.
 header: longroad.jpg
 published: true
-categories: bloggen
+category: bloggen
 tags: pearl-jam bloggen open-web
 ---
 Terwijl het een van de meest enerverende weken van de afgelopen maanden is geweest, is het op mijn eigen domein tot een stille stop gekomen. Zoals John Lennon ooit al eens zei

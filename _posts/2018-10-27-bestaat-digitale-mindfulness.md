@@ -5,7 +5,7 @@ date: 2018-10-27 21:08:04 +2h
 excerpt:
 published: true
 header: header-mindfulness.jpg
-categories: random
+category: random
 tags: mindfull internet online-cultuur
 ---
 Bestaat er zoiets als Digitale Mindfulness?

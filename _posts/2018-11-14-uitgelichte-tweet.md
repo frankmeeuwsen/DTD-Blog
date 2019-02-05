@@ -5,7 +5,7 @@ date: 2018-11-14 9:01:37 +1h
 excerpt:
 published: true
 header:
-categories: random
+category: random
 tags: twitter
 ---
 Er zijn momenten dat ik Twitter, of eigenlijk, digitale marketeers echt niet begrijp. Ik zie vanochtend op de Twitter homepage dat ING een Trending Topic heeft ingekocht: #HoeKoopJeEenSchilderij. 

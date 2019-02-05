@@ -6,7 +6,7 @@ published: false
 tags: 
 - mastodon
 header: mastodon.png
-categories: 
+category: 
     - mastodon
 
 ---

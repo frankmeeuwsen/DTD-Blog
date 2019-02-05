@@ -3,7 +3,7 @@ layout: post
 title: Het woord weblog is 20 jaar oud. En nu?
 excerpt: In 1997 werd dit woord voor het eerst gebruikt. Wat is er na 20 jaar nog van over?
 published: true
-categories: 
+category: 
     - bloggen
 tags: helden bloggen internethistorie
 ---

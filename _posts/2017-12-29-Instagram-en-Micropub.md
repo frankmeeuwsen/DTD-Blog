@@ -5,7 +5,7 @@ excerpt: Hoe maak je een lokale kopie van je Instagram posts met gebruik van eig
 published: true
 header: instagram.jpg
 syndication: indienews
-categories: 
+category: 
     - indieweb
 tags: micropub indieweb instagram
 ---

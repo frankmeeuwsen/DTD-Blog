@@ -4,7 +4,7 @@ title: Smart Sideprojects That Matter...
 date: 2018-08-30 09:14:36 +2h
 excerpt: De vakantie is voorbij en ik heb zin in bloggen en unconferences!
 published: true
-categories: webtech
+category: webtech
 tags: indieweb pinboard cheatsheet
 ---
 De vakantie is afgelopen. We zijn weer terug van wat korte vakanties in eigen land. Inmiddels is onze oudste begonnen op de middelbare school, de jongste begint in groep 3 op een nieuwe basisschool en wij gaan weer druk aan de slag. Op dit blog was het eveneens rustig tijdens de zomermaanden. Op de achtergrond staan voldoende halve artikelen, die nog eens door de revisie moeten. Er zijn ideeën genoeg voor nieuwe blogposts. Maar het kwam er allemaal even niet van. Het was John Lennon die zei...

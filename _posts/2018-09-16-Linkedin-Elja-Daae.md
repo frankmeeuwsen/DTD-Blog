@@ -4,7 +4,7 @@ title: Mijn reactie op Elja Daae op LinkedIn
 date: 2018-09-16 21:36:02 +2h
 excerpt: Want LinkedIn bepaalt hoeveel je mag typen in het reactieveld. Wat natuurlijk volslagen krankjorum is. 
 published: true
-categories: random
+category: random
 tags: linkedin social-media
 ---
 Hey [Elja](https://www.eljadaae.nl/)!

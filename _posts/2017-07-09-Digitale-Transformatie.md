@@ -4,7 +4,7 @@ title: Is Digitale Transformatie zó moeilijk?
 excerpt: Is het doorplaatsen van een persbericht een digitale doodzonde?
 published: true
 header: Drowning-in-Content.jpg
-categories: webtech
+category: webtech
 tags: linkedin
 ---
 

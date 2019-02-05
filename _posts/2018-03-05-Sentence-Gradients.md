@@ -5,7 +5,7 @@ date: 2018-03-05T213431CET
 excerpt:
 published: true
 header: sentence-space-celeb-gradient.png
-categories: 
+category: 
     - webtech
 ---
 Het zijn van [die blogposts](https://www.robinsloan.com/voyages-in-sentence-space/) die me intrigeren maar waar ik niet direct alles van snap. Dat zijn soms de mooiste. Die een paar dagen in je hoofd rond dwalen en waar je het idee hebt "Daar heb ik misschien nog eens iets aan"

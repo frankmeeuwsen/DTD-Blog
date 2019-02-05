@@ -5,7 +5,7 @@ date: 2018-06-20 10:26:04 +2h
 excerpt: While I don't use Facebook anymore on a personal account, every now and again I come across a link to a story on Facebook that needs to be told. 
 published: true
 header: thishastostop.jpg
-categories: bloggen
+category: bloggen
 tags: open-web facebook
 ---
 

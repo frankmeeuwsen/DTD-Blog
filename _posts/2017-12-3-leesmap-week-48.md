@@ -4,7 +4,7 @@ title: De leesmap van week 48
 excerpt: Waarin het internet meer is dan content en je een podcast-promotie en punkrock krijgt. 
 published: true
 header: mozcool.gif
-categories: 
+category: 
     - random
     - bloggen
 tags: leesmap indieweb open-web bloggen internethistorie muziek podcast

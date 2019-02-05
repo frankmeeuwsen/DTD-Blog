@@ -5,7 +5,7 @@ date: 2018-11-17 14:28:43 +1h
 excerpt: 30 jaar een Never Ending Now
 published: true
 header: cwi.jpg
-categories: bloggen
+category: bloggen
 tags: internetgeschiedenis internet 
 ---
 Op 17 november 1988 om 14.28 uur werd een e-mail verstuurd naar het Mathematisch Centrum, nu het Centrum Wiskunde & Informatica (CWI). Met die e-mail werd Nederland officieel aangesloten op het internet zoals we dat nu kennen. Vandaag is het 30 jaar geleden dat we als eerste land buiten de Verenigde Staten toegang kregen tot het toen nog prille en kleine internet. Tot die tijd werd al het internetverkeer geleid via ARPANET, het militaire netwerk van de USA. Op dat netwerk werd al het verkeer in de gaten gehouden, of het nu militair of wetenschappelijk netwerkverkeer is. Met de aansluiting op het open internet van NSFNet veranderde dat. Dankzij onder andere Piet Beertema ([geweldige URL](https://godfatherof.nl/)!) werd het internet in Nederland toegankelijk voor een groeiende groep wetenschappers en later natuurlijk het grote publiek en de commercie. Dat duurde nog zeker tot begin jaren '90 met de komst van providers als XS4ALL en online diensten als De Digitale Stad Amsterdam.

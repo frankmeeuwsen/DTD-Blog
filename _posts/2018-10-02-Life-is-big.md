@@ -5,7 +5,7 @@ date: 2018-10-02 22:44:29 +2h
 excerpt: A personal note for Oliver Rukavina
 published: true
 header:
-categories: random
+category: random
 tags: wiki
 ---
 A small introduction for my readers: During the [Smart Stuff that Matters unconference](/Smart-Stuff-Unconference-2018/) I had the privilege to meet [Peter Rukavina](https://ruk.ca/) and his son Oliver. I've been following them in the days prior, how they travelled across Europe and had all sorts of adventures. I had a quick chat with Oliver that day and enjoyed his presentation on the unconference. Tonight I read he celebrated his 18th birthday a few days ago. 

@@ -5,7 +5,7 @@ date: 2019-02-04 16:53:43 +1h
 excerpt: Waarom zou je eenheidsworst willen als er zoveel diversiteit op het web is?
 published: true
 header: videogameskies.png
-categories: webtech
+category: webtech
 tags: 
 - niche
 - websites

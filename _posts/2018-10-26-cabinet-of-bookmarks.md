@@ -5,7 +5,7 @@ date: 2018-10-26 19:35:00 +2h
 excerpt: The blogpost where I talk about Kendrick Lamar and CSS grids.
 published: true
 header: 
-categories: webtech
+category: webtech
 tags: indieweb bookmarks pinboard rss
 ---
 Sometimes all these things come together so why not chime in with my own thoughts and progress. The last couple of days you might have seen some more bookmarks on this blog insted of fully fleshed out blogposts.

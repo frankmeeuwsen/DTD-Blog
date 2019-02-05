@@ -4,7 +4,7 @@ title: Punkrock Publishing
 excerpt: 
 published: true
 header: fugazi.jpg
-categories: 
+category: 
     - indieweb
     - bloggen
 tags: indieweb internethistorie open-web helden

@@ -6,7 +6,7 @@ excerpt: Vandaag is het 5 jaar geleden dat Google Reader stopte. Eigenlijk was d
 published: true
 header: inoreader.jpg
 syndication: indienews
-categories: webtech
+category: webtech
 tags: rss bloggen internethistorie
 ---
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Google Reader shut down five years ago today, and I’m still kind of pissed about it.</p>&mdash; Andy Baio (@waxpancake) <a href="https://twitter.com/waxpancake/status/1013481242413551617?ref_src=twsrc%5Etfw">July 1, 2018</a></blockquote>

@@ -3,7 +3,7 @@ layout: post
 title: Nog één keer over die blogroll
 excerpt: Er lijken wat misverstanden te ontstaan. 
 published: true
-categories: 
+category: 
     - bloggen
 ---
 

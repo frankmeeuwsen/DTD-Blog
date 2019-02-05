@@ -4,7 +4,7 @@ title: De leesmap van week 46
 excerpt: Schildpadden als vuurwapens, Supreme drops en leestips. De week in links. 
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: leesmap internethistorie
 ---

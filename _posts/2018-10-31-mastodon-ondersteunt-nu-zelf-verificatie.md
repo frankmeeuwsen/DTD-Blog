@@ -5,7 +5,7 @@ date: 2018-10-31 23:03:59 +1h
 excerpt: Gebruik je eigen domein om je online te verifieren. 
 published: true
 header:
-categories: indieweb
+category: indieweb
 tags: webtech indieweb indieauth mastodon
 ---
 

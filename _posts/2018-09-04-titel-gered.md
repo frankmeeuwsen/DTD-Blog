@@ -3,7 +3,7 @@ layout: post
 title: ''
 date: 2018-09-04 08:06:23 +2h
 published: true
-categories: bloggen
+category: bloggen
 tags: jekyll cheatsheet indieweb code micropub
 ---
 De titel is gered. In moderne CMS systemen zijn dit soort rand-problemen vaak al afgevangen met plugins en code, maar omdat ik zo nodig alles zelf wil maken en aanpassen naar mijn gewenste situatie, moet ik dit soort problemen zelf oplossen.

@@ -5,7 +5,7 @@ date: 2018-01-28T072518CET
 excerpt:
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: leesmap facebook cyberpunk webmentions
 ---

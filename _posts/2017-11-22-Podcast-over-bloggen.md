@@ -4,7 +4,7 @@ title: Rush Talk over bloggen
 excerpt: Vandaag mocht ik een uur lang praten over de Nederlandse blogosfeer
 published: true
 header: podcast.jpg
-categories: 
+category: 
     - bloggen
 tags: podcast bloggen indieweb seth
 ---

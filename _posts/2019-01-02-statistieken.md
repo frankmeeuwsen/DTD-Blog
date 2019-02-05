@@ -5,7 +5,7 @@ date: 2019-01-02 22:05:10 +1h
 excerpt:
 published: true
 header:
-categories: bloggen
+category: bloggen
 tags: 
 - bloggen
 - statistiek

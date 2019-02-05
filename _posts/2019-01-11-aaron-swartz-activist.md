@@ -5,7 +5,7 @@ date: 2019-01-11 23:07:54 +1h
 excerpt: Op zijn sterfdag vraag ik me af hoe hij in deze dagen zijn activisme zou tentoonspreiden.
 published: true
 header: header-swartz-internet-boy.jpg
-categories: indieweb
+category: indieweb
 tags: open-web aaron-swartz internet-history
 ---
 Vandaag is de sterfdag van Aaron Swartz, The Internet's Own Boy. Aaron Swartz was een schrijver, programmeur, web-activist en politieke organisator. Hij was onder andere betrokken bij de ontwikkeling van het RSS-format, de ontwikkeling van de webschrijf-taal Markdown, mede-oprichter van Reddit en mede-oprichter van Creative Commons. Swartz kwam op 11 januari 2013 om het leven. Hij koos hier zelf voor. De exacte redenen zullen altijd onduidelijk blijven, al is zijn toenmalige vriendin er duidelijk over in [een blogpost](http://tarensk.tumblr.com/post/42260548767/why-aaron-died), Aaron was opgejaagd wild voor de Amerikaanse overheid door zijn activistische werk. 

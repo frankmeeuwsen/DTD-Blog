@@ -4,7 +4,7 @@ title: De leesmap van week 49
 excerpt: Instagram, IndieWebcamp en de Nederlandse Curatoren Club
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: leesmap pinboard indieweb
 ---

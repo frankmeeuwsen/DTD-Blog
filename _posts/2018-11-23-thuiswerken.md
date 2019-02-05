@@ -5,7 +5,7 @@ date: 2018-11-23 13:37:38 +1h
 excerpt: Ik kan vaak het beste werken als ik thuis werk. 
 published: true
 header: headerthuiswerken.jpg
-categories: random
+category: random
 tags: 
 - thuiswerk
 - home office

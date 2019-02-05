@@ -4,7 +4,7 @@ title: Threads versus posts
 excerpt: Twitter threads zijn hotter dan blogposts. Maar er is een weg terug
 published: true
 header: tape.jpg 
-categories: 
+category: 
     - bloggen
 ---
 

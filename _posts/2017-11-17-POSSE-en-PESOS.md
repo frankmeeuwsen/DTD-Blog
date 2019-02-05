@@ -4,7 +4,7 @@ title: Wat is POSSE en PESOS op het IndieWeb?
 excerpt: Nieuwe termen, nieuwe wijn? Of is het meer van wat we al kenden?
 published: true
 header: posse.jpg
-categories: 
+category: 
     - indieweb
 tags: cheatsheet indieweb open-web
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Meer van mij.
 excerpt: Wie ben ik en wat doe ik zoal?
-categories: 
+category: 
     - random
 ---
 

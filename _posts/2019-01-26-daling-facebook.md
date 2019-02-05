@@ -5,7 +5,7 @@ date: 2019-01-26 9:01:57 +1h
 excerpt: Voor het eerst in jaren is de daling ingezet. Een dip of de start van iets groters?
 published: true
 header: header-daling-facebook.jpg
-categories: indieweb
+category: indieweb
 tags: 
 - facebook
 - social web

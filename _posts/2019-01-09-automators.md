@@ -5,7 +5,7 @@ date: 2019-01-09 21:13:06 +1h
 excerpt: Als je dagelijks met computers of mobiele telefoons werkt is niets prettiger dan een computer zoveel mogelijk werk laten doen. Hoe meer je kunt automatiseren zonder het overzicht te verliezen, des te beter. 
 published: true
 header: header-automator.jpg
-categories: webtech
+category: webtech
 tags: 
 - slimmer werken
 - podcast

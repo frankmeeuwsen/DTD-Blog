@@ -5,7 +5,7 @@ date: 2018-10-21 11:52:49 +2h
 excerpt: De Microformat klus is voor nu gereed
 published: true
 header:
-categories: indieweb
+category: indieweb
 tags: indieweb indiewebcamp microformats
 ---
 

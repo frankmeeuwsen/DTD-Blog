@@ -6,7 +6,7 @@ excerpt:
 published: false
 header:
 syndication: indienews
-categories: indieweb
+category: indieweb
 tags: mastodon
 ---
 Ineens staat het alternatieve, gedecentraliseerde netwerk Mastodon weer wat meer in de spotlight. De laatste paar dagen zag ik op Twitter mensen weer praten over dit netwerk wat in 2017 een korte opleving had. Toen ik zelf weer eens op het netwerk ging kijken zag ik behoorlijk wat activiteit bij de mensen die ik al volgde en ik zag notificaties van nieuwe volgers. Er is dus iets gaande, maar waar komt dat vandaan?

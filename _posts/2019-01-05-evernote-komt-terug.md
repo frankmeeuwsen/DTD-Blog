@@ -5,7 +5,7 @@ date: 2019-01-05 22:25:41 +1h
 excerpt:
 published: true
 header: header-evernote.jpg
-categories: webtech
+category: webtech
 tags: evernote
 ---
 Als de nieuwe CEO van Evernote [publiekelijk beloofd](https://evernote.com/blog/looking-ahead-evernotes-priorities-2019/) dat het zijn doel is om de groeiende lijst met gebruikersproblemen op te lossen, dan begin je het jaar in elk geval goed. 

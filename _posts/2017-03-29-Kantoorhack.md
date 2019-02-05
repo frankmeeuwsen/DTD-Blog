@@ -4,7 +4,7 @@ title: Je kantoor gehackt door een scanner
 excerpt: Het moet niet gekker worden...
 mf-bookmark-of: http://www.vocativ.com/415763/office-hack-smart-lightbulbs-scanner/
 published: true
-categories: 
+category: 
     - links
 ---
 

@@ -5,7 +5,7 @@ date: 2019-01-06 21:18:16 +1h
 excerpt:
 published: true
 header:
-categories: random
+category: random
 tags: 
 - evernote
 ---

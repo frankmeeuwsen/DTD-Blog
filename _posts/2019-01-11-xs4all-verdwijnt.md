@@ -5,7 +5,7 @@ date: 2019-01-11 9:42:23 +1h
 excerpt: Het opgaan van XS4ALL in KPN kan de kiem zijn voor een grotere verandering in internettoegang.
 published: true
 header: header-xs4all.jpg
-categories: indieweb
+category: indieweb
 tags: 
 - internet
 - internethistorie

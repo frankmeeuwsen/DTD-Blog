@@ -4,7 +4,7 @@ title: Ik blijf een zwak houden voor dit soort producten
 excerpt: Het maakt niet uit hoeveel van dit soort notebooks ik al in mijn kast heb liggen.
 published: true
 header: panobook.jpg
-categories: 
+category: 
     - random
 tags: offline
 ---

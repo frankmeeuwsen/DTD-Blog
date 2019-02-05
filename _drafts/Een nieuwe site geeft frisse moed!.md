@@ -5,7 +5,7 @@ date: 2018-11-30 19:57:54 +1h
 excerpt:
 published: true
 header:
-categories: 
+category: 
 tags: 
 ---
 De afgelopen weken heb ik bij Olisto hard gewerkt aan onze nieuwe site. Samen met Patrick hebben we tussen alle bedrijven door steeds stapjes gezet om de site een fris jasje te geven. We zijn er nog niet, hopelijk kunnen we de komende week alles live zetten. 

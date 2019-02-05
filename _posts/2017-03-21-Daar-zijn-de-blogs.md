@@ -3,7 +3,7 @@ layout: post
 title: Dus dáár is de Nederlandse blogosfeer!
 excerpt: Ik moest echt even wat verder zoeken
 tags: bloggen
-categories: 
+category: 
     - bloggen
 ---
 

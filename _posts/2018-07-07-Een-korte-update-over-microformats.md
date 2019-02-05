@@ -5,7 +5,7 @@ date: 2018-07-07 10:17:11 +2h
 excerpt: 
 published: true
 header: microformats-logo.png
-categories: indieweb
+category: indieweb
 tags: microformat
 ---
 Het voordeel van bloggen en zo je gedachten publiek maken, is dat anderen mee kunnen denken en je van mogelijke oplossingen voorzien. Na mijn vragen over webmentions, kwam Ton al snel met [een eigen blogpost](https://www.zylstra.org/blog/2018/07/wrapping-my-head-around-webmentions/), gevolgd door [Peter](https://ruk.ca/content/digging-webmention) (digging the title and URL there Peter!). Ton geeft een korte uitleg over webmentions waarna hij aan de hand van mijn eerdere blogpost zijn kant van het proces laat zien. Inclusief wat er mis gaat. Dat gaf mij weer wat inzicht in de richting voor mijn eigen oplossing. Peter gaat vervolgens dieper in op de stappen die de software maakt aan zijn kant. Wederom erg inzichtelijk. 

@@ -4,7 +4,7 @@ title: De leesmap van week 45
 excerpt: Een gecureerde verzameling van links en artikelen die ik deze week las
 published: true
 header: leesmap.png
-categories: 
+category: 
     - random
 tags: pinboard indieweb bloggen rss leesmap
 ---

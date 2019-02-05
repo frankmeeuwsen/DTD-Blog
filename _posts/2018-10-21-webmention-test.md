@@ -5,7 +5,7 @@ date: 2018-10-21 12:55:10 +2h
 excerpt: Je kunt dit gerust negeren
 published: true
 header:
-categories: 
+category: 
 tags: 
 ---
 

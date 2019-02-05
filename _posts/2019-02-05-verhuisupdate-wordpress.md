@@ -5,7 +5,7 @@ date: 2019-02-05 10:11:15 +1h
 excerpt: Na een geweldige tijd met Jekyll is het tijd om de motor van dit blog aan te passen naar WordPress. 
 published: true
 header: header-buildingblocks.png
-categories: webtech
+category: webtech
 tags: 
 - bloggen
 - indieweb

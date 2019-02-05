@@ -5,7 +5,7 @@ date: 2018-11-13 23:27:13 +1h
 excerpt: Hier komt een samenvatting. Dat is soms belangrijk. Lees maar snel verder!
 published: true
 header:
-categories: webtech
+category: webtech
 tags: jekyll liquid blogging
 ---
 Een kleine irritatie kan soms ineens uitbarsten in de gedachte "Ik ga het nú oplossen". Dat gebeurde me vanavond terwijl ik de voorpagina van deze site bekeek. De blogsoftware Jekyll die ik gebruik, maakt bij het genereren van de pagina's verschillende versies van de blogpost aan. 

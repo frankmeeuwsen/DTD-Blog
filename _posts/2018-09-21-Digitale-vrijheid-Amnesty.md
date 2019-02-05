@@ -4,7 +4,7 @@ title: Digitale vrijheid bij Amnesty
 date: 2018-09-21 17:07:04 +2h
 excerpt: Zaterdag 22 september geef ik een presentatie over digitale vrijheid bij Amnesty International.
 published: true
-categories: indieweb
+category: indieweb
 tags: open-web presentatie
 ---
 Vanavond leg ik de laatste hand aan een nieuwe presentatie die ik morgen geef voor de webmasters van Amnesty International. De Landelijke Internetgroep van Amnesty Nederland organiseert op 22 september een Webmasterdag voor alle (aankomende) webmasters van lokale Amnestygroepen. Ik ben gevraagd om zo'n 40 minuten wat te vertellen over "Nieuwe webtechnieken en trends". Ik heb er eerlijk gezegd even over moeten nadenken. Je kunt zo'n titel op allerlei manieren interpreteren. Maar na overleg met de organisatie zal de presentatie vooral gaan over andere wijzen van communicatie dan via de bekende sociale media en daarmee de bredere context schetsen. Het concept van *digitale vrijheid* is voor een organisatie als Amnesty belangrijk en wat is dan beter om te praten over het decentrale en open web? 

@@ -4,7 +4,7 @@ title: Hoe werken Webmentions?
 excerpt: Wat zijn Webmentions en waar zijn de comments en omekot wat nu?
 published: true
 header: webmentions.jpg
-categories: indieweb
+category: indieweb
 tags: webmentions indieweb jekyll
 ---
 

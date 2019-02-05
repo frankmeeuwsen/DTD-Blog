@@ -2,7 +2,7 @@
 layout: post
 title: Bekijk de binnenkant van dit blog
 excerpt: Dit complete blog kun je zo overnemen en zelf hergebruiken. Easy. 
-categories: bloggen
+category: bloggen
 tags: internet github code cheatsheet
 
 ---

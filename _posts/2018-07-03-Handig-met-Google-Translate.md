@@ -4,7 +4,7 @@ title: "Werk handiger in Google Sheets met Google Translate"
 date: 2018-07-03 12:28:35 +2h
 excerpt: "Met de functie =GOOGLETRANSLATE kan ik zo'n 50% op mijn werk besparen." 
 published: true
-categories: webtech
+category: webtech
 ---
 
 Een basishouding die ik probeer na te streven in mijn werk is: "Hoe kan ik dit handiger of sneller doen?" Ofwel, hoe kan ik iets zo ver mogelijk automatiseren? Dit resulteert in een uitbundig gebruik van sneltoetsen en shortcuts in allerlei programma's, al dan niet zelf gemaakt via een app als [Keyboard Maestro](https://www.keyboardmaestro.com/main/). 

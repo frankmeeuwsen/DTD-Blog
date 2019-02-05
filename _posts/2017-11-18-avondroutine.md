@@ -4,7 +4,7 @@ title: Waar zit je routine
 excerpt: Over gewoontes en schrijf-ideeën.
 published: true
 header: routine.jpg
-categories: 
+category: 
     - bloggen
 ---
 Als je besluit om te gaan bloggen, of online te schrijven, dan is de kans groot deze dagen dat je online gaat zoeken naar tips, trucs en inzichten _hoe_ je dat dan moet doen. De kans is minstens zo groot dat je overweldigd raakt van de tsunami aan tips die je over je heen krijgt.

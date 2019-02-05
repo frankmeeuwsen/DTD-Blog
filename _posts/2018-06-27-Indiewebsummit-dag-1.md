@@ -7,7 +7,7 @@ published: true
 header: indiewebsummit2018.jpg
 syndication: indienews
 tags: indieweb open-web
-categories: indieweb
+category: indieweb
 ---
 
 Gisterenavond startte de [IndieWeb Summit in Portland](https://2018.indieweb.org/), een tweedaagse viering van de Indieweb community. Via de livestream ([hier is de replay](https://www.youtube.com/watch?v=k4a3rm_dagw)) was alles goed mee te volgen en kon ik de eerste keynotes bekijken. Met name de Lightning Intros die daarna volgde was zeer de moeite waard. In een hoog tempo kwamen bezoekers van de summit aan het woord en kregen ze een paar minuten om te vertellen en tonen waar ze zelf aan werken. Hier kwamen een aantal mooie projecten aan bod en voor ik het wist zat mijn browser overvol met tabbladen. Daarom deze blogpost, om voor mezelf een overzicht te houden welke projecten de moeite van het bekijken zijn. 

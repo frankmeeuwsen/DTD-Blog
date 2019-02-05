@@ -4,7 +4,7 @@ title: Mijn highschool films op orde dankzij Airtable
 excerpt: Och hadden die nablijvers maar Airtable in plaats van zo'n saaie schrijfopdracht!
 published: true
 header: breakfastclub.jpg
-categories: 
+category: 
     - webtech
 tags: helden webtech
 ---

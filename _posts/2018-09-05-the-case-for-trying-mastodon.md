@@ -6,7 +6,7 @@ mf-bookmark-of:
   - >-
     https://finertech.com/2018/09/04/the-case-for-trying-mastodon-a-decentralized-social-network/
 slug: the-case-for-trying-mastodon
-categories: links
+category: links
 tags: mastodon indieweb
 ---
 &quot;I think Twitter as a concept can be a useful tool for society. But I worry that Twitter the company is hopelessly lost, and I’m done with it.

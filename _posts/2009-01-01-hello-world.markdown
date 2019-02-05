@@ -6,7 +6,7 @@ layout: post
 slug: hello-world
 title: Hello world!
 wordpress_id: 1
-categories: random
+category: random
 tags: incredibleadventure
 ---
 

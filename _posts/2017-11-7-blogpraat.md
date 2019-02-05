@@ -4,7 +4,7 @@ title: Blogpraat
 excerpt: Een avondje online blog gebabbel. 
 published: true
 header: blogpraat.jpg
-categories: 
+category: 
     - bloggen
 tags: bloggen seth
 ---

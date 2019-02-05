@@ -3,7 +3,7 @@ layout: post
 title: Offscreen Magazine - Ik ben een fan
 excerpt: Dit persoonlijke blog mag dan wel Digging the Digital heten, maar ik blijf altijd verliefd op mooie magazines. 
 date: 2014-10-16
-categories: webtech
+category: webtech
 tags: internet zine
 
 ---

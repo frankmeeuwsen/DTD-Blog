@@ -5,7 +5,7 @@ date: 2018-11-05 21:41:44 +1h
 excerpt: Komend weekend zou "The Internet's Own Boy" 30 jaar zijn geworden. We vieren zijn werk en leven elk jaar nog. 
 published: true
 header: header-aaron.jpg
-categories: indieweb
+category: indieweb
 tags: open-web aaron-swartz internet-history
 ---
 Komend weekend zou "The Internet's Own Boy" 30 jaar zijn geworden. Aaron Swartz was een schrijver, programmeur, web-activist en politieke organisator. Hij was betrokken bij de ontwikkeling van het RSS-format, de ontwikkeling van de webschrijf-taal Markdown, mede-oprichter van Reddit, mede-oprichter van Creative Commons en een bekend website framework gebaseerd op Python. 

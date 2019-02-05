@@ -4,7 +4,7 @@ title: Waarom ik wel van Facebook vertrek maar niet van LinkedIn?
 date: 2018-02-26T14:30:31+01:00
 excerpt: 
 published: true
-categories: 
+category: 
     - webtech
 tags: linkedin
 ---

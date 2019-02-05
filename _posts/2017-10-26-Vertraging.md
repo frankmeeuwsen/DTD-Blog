@@ -3,7 +3,7 @@ layout: post
 title: Het tempo van je blog
 excerpt: Kun je een tempo in een blogpost bepalen?
 published: true
-categories: 
+category: 
     - bloggen
 ---
 

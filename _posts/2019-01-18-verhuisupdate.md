@@ -5,7 +5,7 @@ date: 2019-01-18 16:21:46 +1h
 excerpt: We zijn er nog niet...
 published: true
 header:
-categories: 
+category: 
 tags: 
 ---
 Ik ben bezig om deze site naar een nieuwe server [te verhuizen](/verhuizing-in-de-planning/). Een korte update na een dagje werken met allerlei commando's, Stack Overflow lezen en Digital Ocean handleidingen volgen:

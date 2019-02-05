@@ -4,7 +4,7 @@ title: Mastodon, een netwerk van netwerken. Met veel vragen en twijfels.
 excerpt: Een netwerk van netwerken is wat anders dan een sociaal netwerk in een silo. Wederom wat ideeën en gedachten.
 published: true
 tags: mastodon internet
-categories: 
+category: 
     - indieweb
 ---
 De afgelopen dagen is het Mastodon universum, de Fediverse, enorm gegroeid. Door een explosie aan gebruikers uit Japan is het totaal aantal gebruikers in een relatief korte tijd tot boven de 300.000 gestegen. Ik vind dat een indrukwekkend aantal voor een decentraal, gefederaliseerd netwerk waar niet één centraal management of centraal systeem is. Tijdens de Eerste Paasdag is eveneens een nieuwe Nederlandse server gestart: [mstdn.nl](mstdn.nl). Je vindt daar een Nederlandstalige installatie van de software en een Nederlandstalige community. Toen ik daar melding van maakte op Twitter kwam al snel een discussie op gang over federatie, meerdere accounts en je eigen netwerk. Aangezien Twitter te beperkt is in de mogelijkheden om een beetje zinnig antwoord te geven, zal ik hier wat gedachten en ideeën op een rij zetten. 

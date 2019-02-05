@@ -5,7 +5,7 @@ date: 2018-04-25T221403CEST
 excerpt: Ik schoof aan bij de podcast Rush Talk waar we spraken over de Facebook pixel, waar onze data eigenlijk allemaal rondzwerft, hoe Google Maps zou kunnen weten waar ik heen wil en waarom scholen en bibliotheken hun deuren moeten openen voor Privacy Cafe's. Hier wat meer achtergrond en links.
 published: true
 header: header-pixel.jpg
-categories: 
+category: 
     - webtech
 tags: facebook podcast
 ---

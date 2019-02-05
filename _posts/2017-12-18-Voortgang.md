@@ -4,7 +4,7 @@ title: Geen sociale apps op je telefoon
 excerpt: Ik was het beu. En het bleek best OK te zijn.
 published: true
 header: experiment.jpg
-categories: 
+category: 
     - webtech
 ---
 Zo'n twee weken terug startte een *per-ongeluk* experiment. Het was niet eens een experiment. Meer de uiting van een gevoel wat ik al wat langer had. Ik besloot om een aantal apps van mijn telefoon te verwijderen. Om precies te zijn Twitter, Facebook, Instagram, Linkedin en Pinterest. Ik werd het beu om op allerlei momenten notificaties te krijgen van zowel antwoorden op tweets als kleine _nudges_ om vooral weer een app te openen.

@@ -6,7 +6,7 @@ excerpt:
 published: true
 header: header-internet.jpg
 syndication: indienews
-categories: indieweb
+category: indieweb
 tags: indieweb facebook twitter
 ---
 Gisterenavond mocht ik aanschuiven bij een interessant gezelschap, georganiseerd door Ewout Wolff. Ewout maakt zich, net als anderen, al een tijdje zorgen over de kant die het internet op gaat. Is het nodig dat we meer en meer onder de controle komen van een aantal (Amerikaanse) tech-grootmachten, die ons online in de gaten houden, de data massaal opslaan en dat te gelde maken voor adverteerders en anderen die er interesse in hebben?

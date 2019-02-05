@@ -5,7 +5,7 @@ date: 2019-01-30 20:30:25 +1h
 excerpt: Een organisatie, een software ecosysteem en een coalitie van interessante partners. Het was rumoerig in Arnhem
 published: true
 header: header-publicspaces.png
-categories: indieweb
+category: indieweb
 tags: 
 - Public Spaces
 - internet

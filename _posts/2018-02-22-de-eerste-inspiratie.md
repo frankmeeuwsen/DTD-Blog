@@ -4,7 +4,7 @@ title: Je eerste inspiratie
 date: 2018-02-22T20:11:17+01:00
 excerpt:
 published: true
-categories: 
+category: 
     - bloggen
 tags: open-web internethistorie podcast bloggen helden
 ---
