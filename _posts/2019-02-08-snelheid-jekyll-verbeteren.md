@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De snelheid van mijn Jekyll site is verbeterd met 80%
+title: De snelheid van mijn Jekyll site is met 80% verbeterd
 date: 2019-02-08 7:53:26 +1h
 excerpt: Het blijkt dat met wat kleine aanpassingen grote resultaten zijn te boeken
 published: true
